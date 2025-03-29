@@ -1,0 +1,1945 @@
+{
+  "fields": [
+    "title",
+    "state",
+    "box_variant",
+    "total",
+    "not_graded",
+    "grade_gen",
+    "grade_pro",
+    "grade_100",
+    "grade_98",
+    "grade_96",
+    "grade_94",
+    "grade_92",
+    "grade_90",
+    "grade_85",
+    "grade_80",
+    "grade_75",
+    "grade_70",
+    "grade_65",
+    "grade_below_65"
+  ],
+  "populations": [
+    {
+      "title": "ALF",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Action Fighter",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Aerial Assault",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "After Burner",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 4,
+      "grade_98": [
+        {
+          "b_plus": 1
+        },
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Alex Kidd in Miracle World",
+      "state": 0,
+      "box_variant": "*Made in Japan, \"No Limits R\" Text",
+      "total": 3,
+      "grade_96": [
+        {
+          "a": 2
+        }
+      ],
+      "grade_75": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Alex Kidd: High-Tech World",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Alex Kidd: The Lost Stars",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Alien Syndrome",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 5,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_65_below": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Altered Beast",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 7,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Astro Warrior",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 2,
+      "grade_98": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_80": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Aztec Adventure",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Black Belt",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_85": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Blade Eagle 3-D",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Bomber Raid",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "California Games",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Captain Silver",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Casino Games",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Castle of Illusion Starring Mickey Mouse",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Choplifter",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_96": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Cloud Master",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Columns",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Cyber Police ESWAT",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Cyborg Hunter",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Dead Angle",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_96": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Dick Tracy",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 2,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_80": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Double Dragon",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 2,
+      "grade_92": [
+        {
+          "a": 2
+        }
+      ]
+    },
+    {
+      "title": "Double Dragon",
+      "state": 0,
+      "box_variant": "*Made in Japan, Distributed by Tonka",
+      "total": 7,
+      "grade_96": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 2
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "c_plus": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "c_plus": 1
+        },
+        {
+          "b": 1
+        }
+      ]
+    },
+    {
+      "title": "Enduro Racer",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_98": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "F-16 Fighting Falcon",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_94": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Fantasy Zone",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Fantasy Zone II",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 3,
+      "grade_98": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Fantasy Zone: The Maze",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 2,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Galaxy Force",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Gangster Town",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 4,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a": 2
+        }
+      ],
+      "grade_85": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Gangster Town",
+      "state": 0,
+      "box_variant": "*Made in Japan, For the 90's Sticker",
+      "total": 1,
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Ghost House",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 2,
+      "grade_96": [
+        {
+          "b_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Global Defense",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 7,
+      "grade_98": [
+        {
+          "b_plus": 1
+        },
+        {
+          "a_plus": 2
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "b_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "b_plus": 1
+        }
+      ],
+      "grade_65_below": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Golden Axe",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 4,
+      "grade_98": [
+        {
+          "b_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Golden Axe Warrior",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Golden Axe Warrior",
+      "state": 0,
+      "box_variant": "*Made in Japan, US UPC Sticker",
+      "total": 2,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Golvellius: Valley of Doom",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 5,
+      "grade_98": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_75": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Great Basketball",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Great Basketball",
+      "state": 0,
+      "box_variant": "*Made in Japan, Spanish Inserts Included",
+      "total": 1,
+      "grade_80": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Great Football",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Great Golf",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_75": [
+        {
+          "b": 1
+        }
+      ]
+    },
+    {
+      "title": "Great Soccer",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_94": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Great Volleyball",
+      "state": 0,
+      "box_variant": "*Made in Taiwan",
+      "total": 1,
+      "grade_92": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Hang On & Safari Hunt",
+      "state": 0,
+      "box_variant": "*Made in Hong Kong, No Limits \"R\" Text",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Hang-On & Astro Warrior",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Heavyweight Champ",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "James \"Buster\" Douglas Knockout Boxing",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Joe Montana Football",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 7,
+      "grade_96": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Kenseiden",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "King's Quest: Quest for the Crown",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_96": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Kung Fu Kid",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Lord of the Sword",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Marksman Shooting & Trap Shooting",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_80": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Maze Hunter 3-D",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 4,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Michael Jackson's Moonwalker",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 7,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_80": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_70": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Miracle Warriors: Seal of the Dark Lord",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 4,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Missile Defense 3-D",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 2,
+      "grade_96": [
+        {
+          "b_plus": 1
+        }
+      ],
+      "grade_65": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Monopoly",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 3,
+      "grade_98": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "b": 1
+        }
+      ]
+    },
+    {
+      "title": "Montezuma's Revenge",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "b": 1
+        }
+      ]
+    },
+    {
+      "title": "My Hero",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Ninja Gaiden",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Out Run",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 5,
+      "grade_96": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_90": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_80": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_65": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Paperboy",
+      "state": 0,
+      "box_variant": "*No Country",
+      "total": 3,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "b_plus": 1
+        }
+      ],
+      "grade_80": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Parlour Games",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Penguin Land",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 6,
+      "grade_96": [
+        {
+          "b_plus": 1
+        },
+        {
+          "b": 1
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_65_below": [
+        {
+          "b": 1
+        }
+      ],
+      "grade_65": [
+        {
+          "c_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Phantasy Star",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Phantasy Star",
+      "state": 0,
+      "box_variant": "*Made in Japan, Distributed by Tonka",
+      "total": 3,
+      "grade_94": [
+        {
+          "b": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "c_plus": 1
+        }
+      ],
+      "grade_70": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Poseidon Wars 3-D",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Power Strike",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 4,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a": 2
+        }
+      ]
+    },
+    {
+      "title": "Pro Wrestling",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Psycho Fox",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "R-Type",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 5,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_92": [
+        {
+          "b": 1
+        }
+      ]
+    },
+    {
+      "title": "Rambo III",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 4,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "b": 1
+        }
+      ]
+    },
+    {
+      "title": "Rambo: First Blood Part II",
+      "state": 0,
+      "box_variant": "*Made in Japan, \"No Limits R\" Text",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "b_plus": 1
+        }
+      ],
+      "grade_65_below": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Rambo: First Blood Part II",
+      "state": 0,
+      "box_variant": "*Made in Japan, \"No Limits SM\" Text",
+      "total": 5,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 3
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Rampage",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 4,
+      "grade_98": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "b_plus": 1
+        }
+      ],
+      "grade_80": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Rastan",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 3,
+      "grade_96": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "b_plus": 1
+        },
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Reggie Jackson Baseball",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Reggie Jackson Baseball",
+      "state": 0,
+      "box_variant": "*Made in Japan, Distributed by Tonka",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Rescue Mission",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Rocky",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 4,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "c": 1
+        },
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Shanghai",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 4,
+      "grade_96": [
+        {
+          "b_plus": 1
+        },
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Shinobi",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 9,
+      "grade_98": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "b": 1
+        },
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 2
+        }
+      ],
+      "grade_94": [
+        {
+          "b_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "b_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Shooting Gallery",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 2,
+      "grade_96": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Slap Shot",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Space Harrier",
+      "state": 0,
+      "box_variant": "*Made in Japan, No Limits \"R\" Text",
+      "total": 2,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Space Harrier 3-D",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 3,
+      "grade_98": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "SpellCaster",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "SpellCaster",
+      "state": 0,
+      "box_variant": "*Made in Japan, Distributed by Tonka",
+      "total": 3,
+      "grade_98": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a": 2
+        }
+      ]
+    },
+    {
+      "title": "Spider-Man",
+      "state": 0,
+      "box_variant": "*Made in Japan, US UPC Sticker",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Spy vs. Spy",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 2,
+      "grade_92": [
+        {
+          "b_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Strider",
+      "state": 0,
+      "box_variant": "*Made in Japan, US UPC Sticker",
+      "total": 2,
+      "grade_98": [
+        {
+          "b_plus": 1
+        },
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Super Monaco GP",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Super Tennis",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 2,
+      "grade_96": [
+        {
+          "b_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Taito Chase H.Q.",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Teddy Boy",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 2,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_70": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Thunder Blade",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 2,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Time Soldiers",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 5,
+      "grade_96": [
+        {
+          "b_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_75": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "TransBot",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Vigilante",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 2,
+      "grade_96": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Wanted!",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a": 2
+        }
+      ]
+    },
+    {
+      "title": "Where in the World is Carmen Sandiego?",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 9,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "b": 1
+        },
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 4
+        },
+        {
+          "a": 2
+        }
+      ]
+    },
+    {
+      "title": "Wolfchild",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_96": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Wonder Boy",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 2,
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Wonder Boy III: The Dragon's Trap",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Wonder Boy in Monster Land",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 2,
+      "grade_98": [
+        {
+          "b": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Ys: The Vanished Omens",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 7,
+      "grade_98": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 2
+        },
+        {
+          "a": 2
+        }
+      ],
+      "grade_80": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Zaxxon 3-D",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 3,
+      "grade_85": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_75": [
+        {
+          "b_plus": 1
+        }
+      ],
+      "grade_70": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Zillion",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 4,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Zillion II: The Tri Formation",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    }
+  ]
+}

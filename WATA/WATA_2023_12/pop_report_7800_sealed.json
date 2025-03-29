@@ -1,0 +1,2462 @@
+{
+  "fields": [
+    "title",
+    "state",
+    "box_variant",
+    "total",
+    "not_graded",
+    "grade_gen",
+    "grade_pro",
+    "grade_100",
+    "grade_98",
+    "grade_96",
+    "grade_94",
+    "grade_92",
+    "grade_90",
+    "grade_85",
+    "grade_80",
+    "grade_75",
+    "grade_70",
+    "grade_65",
+    "grade_below_65"
+  ],
+  "populations": [
+    {
+      "title": "Ace of Aces",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Ace of Aces",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong, \"New\" Sticker",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Ace of Aces",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong, \"New\" Sticker - Atari Advantage Sticker",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Alien Brigade",
+      "state": 0,
+      "box_variant": "*Made in China",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Alien Brigade",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Alien Brigade",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong, \"New\" Sticker",
+      "total": 1,
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Asteroids",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong",
+      "total": 7,
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "a_plus": 2
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_75": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Asteroids",
+      "state": 0,
+      "box_variant": "*Printed in Hong Kong",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Asteroids",
+      "state": 0,
+      "box_variant": "*Printed in Taiwan",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Ballblazer",
+      "state": 0,
+      "box_variant": "*Made in China",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Ballblazer",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Ballblazer",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong, Atari Advantage Sticker",
+      "total": 7,
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "b_plus": 1
+        },
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_80": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_70": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Ballblazer",
+      "state": 0,
+      "box_variant": "*Printed in Hong Kong",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Barnyard Blaster",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Barnyard Blaster",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong, \"New\" Sticker",
+      "total": 3,
+      "grade_90": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_75": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Basketbrawl",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Basketbrawl",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong, \"New\" Sticker",
+      "total": 1,
+      "grade_96": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Centipede",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong",
+      "total": 6,
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_80": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_65_below": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Centipede",
+      "state": 0,
+      "box_variant": "*Printed in Hong Kong",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Centipede",
+      "state": 0,
+      "box_variant": "*Printed in Taiwan, 1986",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Centipede",
+      "state": 0,
+      "box_variant": "*Printed in Taiwan, 1987",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Choplifter!",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong",
+      "total": 3,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_80": [
+        {
+          "b_plus": 1
+        }
+      ],
+      "grade_65": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Choplifter!",
+      "state": 0,
+      "box_variant": "*Made/Printed in Hong Kong",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Choplifter!",
+      "state": 0,
+      "box_variant": "*Printed in Hong Kong",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Choplifter!",
+      "state": 0,
+      "box_variant": "*Printed in Taiwan",
+      "total": 1,
+      "grade_85": [
+        {
+          "b": 1
+        }
+      ]
+    },
+    {
+      "title": "Commando",
+      "state": 0,
+      "box_variant": "*Made in China",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Commando",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Commando",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong, \"New\" Sticker",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Crack'ed",
+      "state": 0,
+      "box_variant": "*Made in China",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Crack'ed",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Crack'ed",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong, \"New\" Sticker - Atari Advantage Sticker",
+      "total": 3,
+      "grade_94": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_80": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Crossbow",
+      "state": 0,
+      "box_variant": "*Made in China",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Crossbow",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong",
+      "total": 1,
+      "grade_75": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Crossbow",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong, \"New\" Sticker",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Crossbow",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong, \"New\" Sticker - Atari Advantage Sticker",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Dark Chambers",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Dark Chambers",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong, \"New\" Sticker",
+      "total": 2,
+      "grade_92": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Desert Falcon",
+      "state": 0,
+      "box_variant": "*Made in China",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Desert Falcon",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong",
+      "total": 2,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Dig Dug",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong",
+      "total": 17,
+      "grade_96": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 4
+        },
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus_plus": 2
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_80": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_70": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_65": [
+        {
+          "b_plus": 1
+        },
+        {
+          "b": 1
+        }
+      ]
+    },
+    {
+      "title": "Dig Dug",
+      "state": 0,
+      "box_variant": "*Printed in Hong Kong",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Dig Dug",
+      "state": 0,
+      "box_variant": "*Printed in Taiwan",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Donkey Kong",
+      "state": 0,
+      "box_variant": "*Made in China",
+      "total": 2,
+      "grade_96": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Donkey Kong",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong",
+      "total": 1,
+      "grade_65_below": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Donkey Kong",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong, \"New\" Sticker",
+      "total": 15,
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "b_plus": 1
+        },
+        {
+          "a_plus_plus": 4
+        }
+      ],
+      "grade_90": [
+        {
+          "b_plus": 1
+        },
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_80": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 2
+        }
+      ],
+      "grade_65": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Donkey Kong",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong, \"New\" Sticker - Atari Advantage Sticker",
+      "total": 11,
+      "grade_94": [
+        {
+          "a_plus_plus": 2
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_85": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_70": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_65_below": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Donkey Kong Junior",
+      "state": 0,
+      "box_variant": "*Made in China",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Donkey Kong Junior",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong",
+      "total": 2,
+      "grade_94": [
+        {
+          "no_seal": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "no_seal": 1
+        }
+      ]
+    },
+    {
+      "title": "Donkey Kong Junior",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong, \"New\" Sticker",
+      "total": 4,
+      "grade_85": [
+        {
+          "b_plus": 1
+        },
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_80": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Donkey Kong Junior",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong, \"New\" Sticker - Atari Advantage Sticker",
+      "total": 17,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "b": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "c_plus": 1
+        },
+        {
+          "a_plus": 4
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_80": [
+        {
+          "b_plus": 1
+        }
+      ],
+      "grade_75": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 2
+        }
+      ],
+      "grade_70": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Double Dragon",
+      "state": 0,
+      "box_variant": "*No Country",
+      "total": 3,
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_75": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "F-18 Hornet",
+      "state": 0,
+      "box_variant": "*No Country",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Fatal Run",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Fight Night",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Fight Night",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong, \"New\" Sticker - \"For use with NTSC\" Text",
+      "total": 1,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Fight Night",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong, \"New\" Sticker - \"For use with NTSC\" Text - Atari Advantage Sticker",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Fight Night",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong, \"New\" Sticker - \"For use with NTSC\" Text Removed",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Food Fight",
+      "state": 0,
+      "box_variant": "*Made in China",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Food Fight",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong, 1987",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Food Fight",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong, 1988",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Food Fight",
+      "state": 0,
+      "box_variant": "*Printed in Hong Kong, 1987",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Food Fight",
+      "state": 0,
+      "box_variant": "*Printed in Hong Kong, 1988",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Galaga",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong",
+      "total": 41,
+      "grade_98": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 3
+        },
+        {
+          "a_plus": 5
+        },
+        {
+          "a": 3
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 4
+        },
+        {
+          "a": 2
+        }
+      ],
+      "grade_92": [
+        {
+          "b_plus": 2
+        },
+        {
+          "b": 1
+        },
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 3
+        },
+        {
+          "a": 2
+        }
+      ],
+      "grade_90": [
+        {
+          "b_plus": 1
+        },
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_85": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_80": [
+        {
+          "c_plus": 1
+        },
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 2
+        },
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Galaga",
+      "state": 0,
+      "box_variant": "*Printed in Hong Kong, 1987",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Galaga",
+      "state": 0,
+      "box_variant": "*Printed in Hong Kong, 1988",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Hat Trick",
+      "state": 0,
+      "box_variant": "*Made in China",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Hat Trick",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong",
+      "total": 8,
+      "grade_94": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_92": [
+        {
+          "b_plus": 1
+        },
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_90": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_80": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Ikari Warriors",
+      "state": 0,
+      "box_variant": "*Made in China",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Ikari Warriors",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Ikari Warriors",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong, \"New\" Sticker",
+      "total": 3,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_80": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Impossible Mission",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong",
+      "total": 1,
+      "grade_85": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Impossible Mission",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong, \"New\" Sticker - Atari Advantage Sticker",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Jinks",
+      "state": 0,
+      "box_variant": "*Made in China",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Jinks",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong",
+      "total": 1,
+      "grade_85": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Jinks",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong, \"New\" Sticker",
+      "total": 4,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_80": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Joust",
+      "state": 0,
+      "box_variant": "*Made in China",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Joust",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong",
+      "total": 10,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "b_plus": 1
+        },
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_70": [
+        {
+          "b_plus": 1
+        },
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Joust",
+      "state": 0,
+      "box_variant": "*Made/Printed in Hong Kong",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Joust",
+      "state": 0,
+      "box_variant": "*Printed in Hong Kong",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Joust",
+      "state": 0,
+      "box_variant": "*Printed in Taiwan",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Karateka",
+      "state": 0,
+      "box_variant": "*Made in China",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Karateka",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong",
+      "total": 1,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Karateka",
+      "state": 0,
+      "box_variant": "*Printed in Hong Kong, 1987",
+      "total": 3,
+      "grade_80": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_75": [
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Karateka",
+      "state": 0,
+      "box_variant": "*Printed in Hong Kong, 1988",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Kung-Fu Master",
+      "state": 0,
+      "box_variant": "*No Country",
+      "total": 1,
+      "grade_65_below": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Mario Bros.",
+      "state": 0,
+      "box_variant": "*Made in China",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Mario Bros.",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong",
+      "total": 8,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_80": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_75": [
+        {
+          "b_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_65_below": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_65": [
+        {
+          "b": 1
+        }
+      ]
+    },
+    {
+      "title": "Mario Bros.",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong, \"New\" Sticker",
+      "total": 3,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_70": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Mario Bros.",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Mat Mania Challenge",
+      "state": 0,
+      "box_variant": "*Made in China",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Mat Mania Challenge",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Mat Mania Challenge",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong, \"New\" Sticker",
+      "total": 3,
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Mean 18 Ultimate Golf",
+      "state": 0,
+      "box_variant": "*Made in China",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Mean 18 Ultimate Golf",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Meltdown",
+      "state": 0,
+      "box_variant": "*Made in China",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Meltdown",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Meltdown",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong, \"New\" Sticker",
+      "total": 4,
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_80": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_75": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Midnight Mutants",
+      "state": 0,
+      "box_variant": "*Made in China",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Midnight Mutants",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong",
+      "total": 5,
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_75": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Motor Psycho",
+      "state": 0,
+      "box_variant": "*Made in China",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Motor Psycho",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Motor Psycho",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong, \"New\" Sticker",
+      "total": 1,
+      "grade_65_below": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Ms. Pac-Man",
+      "state": 0,
+      "box_variant": "*Made in China",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Ms. Pac-Man",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong, 1987",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Ms. Pac-Man",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong, 1988",
+      "total": 21,
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 2
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_90": [
+        {
+          "b_plus": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "a_plus": 2
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_80": [
+        {
+          "a_plus": 5
+        }
+      ],
+      "grade_75": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Ms. Pac-Man",
+      "state": 0,
+      "box_variant": "*Printed in Hong Kong",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Ms. Pac-Man",
+      "state": 0,
+      "box_variant": "*Printed in Taiwan, 1986",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Ms. Pac-Man",
+      "state": 0,
+      "box_variant": "*Printed in Taiwan, 1987",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Ninja Golf",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Ninja Golf",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong, \"New\" Sticker",
+      "total": 6,
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_80": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "One-On-One Basketball",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong",
+      "total": 17,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "b": 1
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "b": 1
+        },
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 4
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "b_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_80": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_75": [
+        {
+          "b_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "One-On-One Basketball",
+      "state": 0,
+      "box_variant": "*Made/Printed in Hong Kong",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "One-On-One Basketball",
+      "state": 0,
+      "box_variant": "*Printed in Hong Kong, 1987",
+      "total": 2,
+      "grade_85": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_65": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "One-On-One Basketball",
+      "state": 0,
+      "box_variant": "*Printed in Hong Kong, 1988",
+      "total": 3,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pete Rose Baseball",
+      "state": 0,
+      "box_variant": "*No Country",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Planet Smashers",
+      "state": 0,
+      "box_variant": "*Made in China",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Planet Smashers",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Planet Smashers",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong, \"New\" Sticker",
+      "total": 2,
+      "grade_90": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Pole Position II",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong",
+      "total": 9,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "b_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "b_plus": 1
+        }
+      ],
+      "grade_80": [
+        {
+          "b": 1
+        },
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Rampage",
+      "state": 0,
+      "box_variant": "*No Country",
+      "total": 1,
+      "grade_70": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "RealSports Baseball",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "RealSports Baseball",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong, \"New\" Sticker",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "RealSports Baseball",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong, \"New\" Sticker - Atari Advantage Sticker",
+      "total": 4,
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 2
+        },
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "RealSports Baseball",
+      "state": 0,
+      "box_variant": "*Made in Taiwan",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Robotron: 2084",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong",
+      "total": 1,
+      "grade_92": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Robotron: 2084",
+      "state": 0,
+      "box_variant": "*Printed in Hong Kong",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Robotron: 2084",
+      "state": 0,
+      "box_variant": "*Printed in Taiwan",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Scrapyard Dog",
+      "state": 0,
+      "box_variant": "*Made in China",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Scrapyard Dog",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong",
+      "total": 5,
+      "grade_96": [
+        {
+          "a_plus_plus": 2
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Summer Games",
+      "state": 0,
+      "box_variant": "*Made/Printed in Taiwan, Atari Advantage Sticker",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Super Huey",
+      "state": 0,
+      "box_variant": "*Made in China",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Super Huey",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong, \"New\" Sticker - Atari Advantage Sticker",
+      "total": 1,
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Super Huey",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong, Atari Advantage Printed",
+      "total": 2,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Super Skateboardin'",
+      "state": 0,
+      "box_variant": "*No Country",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Tank Command",
+      "state": 0,
+      "box_variant": "*Made in Taiwan",
+      "total": 2,
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_80": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Title Match Pro Wrestling",
+      "state": 0,
+      "box_variant": "*No Country",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Tomcat: The F-14 Fighter Simulator",
+      "state": 0,
+      "box_variant": "*No Country",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Touchdown Football",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong, \"New\" Sticker",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Touchdown Football",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong, \"New\" Sticker - Atari Advantage Sticker",
+      "total": 1,
+      "grade_85": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Tower Toppler",
+      "state": 0,
+      "box_variant": "*Made in China",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Tower Toppler",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Tower Toppler",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong, \"New\" Sticker",
+      "total": 4,
+      "grade_90": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_65": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Tower Toppler",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong, \"New\" Sticker - Atari Advantage Sticker",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Tower Toppler",
+      "state": 0,
+      "box_variant": "*Made/Printed in Taiwan, Atari Advantage Sticker",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Water Ski",
+      "state": 0,
+      "box_variant": "*Made in Taiwan",
+      "total": 2,
+      "grade_80": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_70": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Winter Games",
+      "state": 0,
+      "box_variant": "*Made/Printed in Taiwan",
+      "total": 2,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Winter Games",
+      "state": 0,
+      "box_variant": "*Printed in Taiwan",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Xenophobe",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong",
+      "total": 3,
+      "grade_92": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_65_below": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Xenophobe",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong, \"New\" Sticker",
+      "total": 2,
+      "grade_85": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_80": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Xevious",
+      "state": 0,
+      "box_variant": "*Made in China/Printed in Hong Kong",
+      "total": 4,
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Xevious",
+      "state": 0,
+      "box_variant": "*Printed in Hong Kong, 1987",
+      "total": 2,
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_80": [
+        {
+          "a_plus": 1
+        }
+      ]
+    }
+  ]
+}

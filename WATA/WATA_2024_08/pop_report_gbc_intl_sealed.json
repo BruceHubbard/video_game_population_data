@@ -1,0 +1,684 @@
+{
+  "fields": [
+    "title",
+    "state",
+    "box_variant",
+    "total",
+    "not_graded",
+    "grade_gen",
+    "grade_pro",
+    "grade_100",
+    "grade_98",
+    "grade_96",
+    "grade_94",
+    "grade_92",
+    "grade_90",
+    "grade_85",
+    "grade_80",
+    "grade_75",
+    "grade_70",
+    "grade_65",
+    "grade_below_65"
+  ],
+  "populations": [
+    {
+      "title": "Benjamin Blumchen: Ein verruckter Tag Im Zoo",
+      "state": 0,
+      "box_variant": "*Made in Japan, Title TM, German Version",
+      "total": 1,
+      "grade_75": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Das Geheimnis der Happy Hippo-Insel",
+      "state": 0,
+      "box_variant": "*Made in Japan, German Version",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Donkey Kong Country",
+      "state": 0,
+      "box_variant": "*Made in Japan, GBA Compatible Logo - No Rating, European Version",
+      "total": 1,
+      "grade_90": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Dragon Ball Z: Legendary Super Warriors",
+      "state": 0,
+      "box_variant": "*Made in Japan, UK Version",
+      "total": 1,
+      "grade_92": [
+        {
+          "no_seal": 1
+        }
+      ]
+    },
+    {
+      "title": "Game & Watch Gallery 3",
+      "state": 0,
+      "box_variant": "*Made in Japan, Recycle Symbol on Top, European Version",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Mario Tennis",
+      "state": 0,
+      "box_variant": "*Made in Japan, GBA Compatible Logo, European Version",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Mario Tennis",
+      "state": 0,
+      "box_variant": "*Made in Japan, Only For GBC Logo, European Version",
+      "total": 2,
+      "grade_96": [
+        {
+          "no_seal": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "no_seal": 1
+        }
+      ]
+    },
+    {
+      "title": "Metal Gear Solid",
+      "state": 0,
+      "box_variant": "*No Country, Brazilian Version",
+      "total": 2,
+      "grade_85": [
+        {
+          "b_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Mickey's Speedway USA",
+      "state": 0,
+      "box_variant": "*Made in Japan, European Version",
+      "total": 1,
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "NBA Jam '99",
+      "state": 0,
+      "box_variant": "*Made in Japan, Hints Hotline Sticker, European Version",
+      "total": 1,
+      "grade_85": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Crystal Version",
+      "state": 0,
+      "box_variant": "*Made in Japan, French Version",
+      "total": 3,
+      "grade_94": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_75": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Crystal Version",
+      "state": 0,
+      "box_variant": "*Made in Japan, Italian Version",
+      "total": 3,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Crystal Version",
+      "state": 0,
+      "box_variant": "*Made in Japan, Spanish Version",
+      "total": 2,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Gold Version",
+      "state": 0,
+      "box_variant": "*Made in Japan, French Version",
+      "total": 8,
+      "grade_98": [
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Gold Version",
+      "state": 0,
+      "box_variant": "*Made in Japan, No GBA Compatible Logo, German Version",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Gold Version",
+      "state": 0,
+      "box_variant": "*Made in Japan, Spanish Version",
+      "total": 4,
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Gold Version",
+      "state": 0,
+      "box_variant": "*Made in Japan, UK/Netherlands Version",
+      "total": 10,
+      "grade_96": [
+        {
+          "b": 1
+        },
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_90": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Pinball",
+      "state": 0,
+      "box_variant": "*Made in Japan, Recycle Symbol on Back - Greek Inserts Included, European Version",
+      "total": 1,
+      "grade_85": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Pinball",
+      "state": 0,
+      "box_variant": "*Made in Japan, Recycle Symbol on Back, European Version",
+      "total": 6,
+      "grade_96": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_80": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Pinball",
+      "state": 0,
+      "box_variant": "*Made in Japan, Recycle Symbol on Back, European Version (Distributor Seal)",
+      "total": 1,
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Pinball",
+      "state": 0,
+      "box_variant": "*Made in Japan, Recycle Symbol on Top, European Version",
+      "total": 2,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Puzzle Challenge",
+      "state": 0,
+      "box_variant": "*Made in Japan, European Version",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Silver Version",
+      "state": 0,
+      "box_variant": "*Made in Japan, French Version",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Silver Version",
+      "state": 0,
+      "box_variant": "*Made in Japan, GBA Compatible Logo, French Version",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Silver Version",
+      "state": 0,
+      "box_variant": "*Made in Japan, GBA Compatible Logo, German Version",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Silver Version",
+      "state": 0,
+      "box_variant": "*Made in Japan, GBA Compatible Logo, Spanish Version",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Silver Version",
+      "state": 0,
+      "box_variant": "*Made in Japan, No GBA Compatible Logo, French Version",
+      "total": 4,
+      "grade_98": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Silver Version",
+      "state": 0,
+      "box_variant": "*Made in Japan, No GBA Compatible Logo, German Version",
+      "total": 4,
+      "grade_94": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Silver Version",
+      "state": 0,
+      "box_variant": "*Made in Japan, No GBA Compatible Logo, Italian Version",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Silver Version",
+      "state": 0,
+      "box_variant": "*Made in Japan, UK/Netherlands Version",
+      "total": 9,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "b": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "b_plus": 1
+        },
+        {
+          "a_plus": 3
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Trading Card Game",
+      "state": 0,
+      "box_variant": "*Made in Japan, Recycle Symbol on Back, European Version",
+      "total": 12,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_85": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_80": [
+        {
+          "b_plus": 1
+        }
+      ],
+      "grade_70": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Trading Card Game",
+      "state": 0,
+      "box_variant": "*Made in Japan, Recycle Symbol on Top, European Version",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Super Mario Bros. Deluxe",
+      "state": 0,
+      "box_variant": "*Made in Japan, Foil - SELL Rating, European Version",
+      "total": 1,
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Super Mario Bros. Deluxe",
+      "state": 0,
+      "box_variant": "*Made in Japan, Non-Foil - Recycle Symbol on Top - Made in Japan on Top - SELL & ELSPA Rating, European Version",
+      "total": 2,
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_80": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "The Legend of Zelda: Oracle of Ages",
+      "state": 0,
+      "box_variant": "*Made in Japan, ELSPA Rating Only, European Version",
+      "total": 4,
+      "grade_96": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "no_seal": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "The Legend of Zelda: Oracle of Ages",
+      "state": 0,
+      "box_variant": "*Made in Japan, USK Rating Added, European Version",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "The Legend of Zelda: Oracle of Seasons",
+      "state": 0,
+      "box_variant": "*Made in Japan, ELSPA Rating Only, European Version",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "The Legend of Zelda: Oracle of Seasons",
+      "state": 0,
+      "box_variant": "*Made in Japan, USK Rating Added, European Version",
+      "total": 2,
+      "grade_94": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Yars' Revenge",
+      "state": 0,
+      "box_variant": "*Made in Japan, European Version",
+      "total": 3,
+      "grade_75": [
+        {
+          "no_seal": 1
+        }
+      ],
+      "grade_70": [
+        {
+          "no_seal": 1
+        }
+      ],
+      "grade_65_below": [
+        {
+          "no_seal": 1
+        }
+      ]
+    }
+  ]
+}

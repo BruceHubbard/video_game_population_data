@@ -1,0 +1,2244 @@
+{
+  "fields": [
+    "title",
+    "state",
+    "box_variant",
+    "total",
+    "not_graded",
+    "grade_gen",
+    "grade_pro",
+    "grade_100",
+    "grade_98",
+    "grade_96",
+    "grade_94",
+    "grade_92",
+    "grade_90",
+    "grade_85",
+    "grade_80",
+    "grade_75",
+    "grade_70",
+    "grade_65",
+    "grade_below_65"
+  ],
+  "populations": [
+    {
+      "title": "Advance Wars",
+      "state": 0,
+      "box_variant": "*Made in Japan, European Version",
+      "total": 2,
+      "grade_94": [
+        {
+          "no_seal": 1
+        }
+      ],
+      "grade_80": [
+        {
+          "no_seal": 1
+        }
+      ]
+    },
+    {
+      "title": "Advance Wars 2: Black Hole Rising",
+      "state": 0,
+      "box_variant": "*Made in Japan, European Version",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Astro Boy: Omega Factor",
+      "state": 0,
+      "box_variant": "*Made in Japan, German Version",
+      "total": 1,
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Astro Boy: Omega Factor",
+      "state": 0,
+      "box_variant": "*Made in Japan, Spanish/Italian Version",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Banjo-Kazooie: Grunty's Revenge",
+      "state": 0,
+      "box_variant": "*Made in Japan, Italian Version",
+      "total": 1,
+      "grade_90": [
+        {
+          "no_seal": 1
+        }
+      ]
+    },
+    {
+      "title": "Bomberman (Classic NES Series)",
+      "state": 0,
+      "box_variant": "*Made in Japan, European Version",
+      "total": 2,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Bratz: Forever Diamondz",
+      "state": 0,
+      "box_variant": "*Assembled in EU, German Version",
+      "total": 1,
+      "grade_75": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Castlevania (Classic NES Series)",
+      "state": 0,
+      "box_variant": "*Made in Japan, European Version",
+      "total": 7,
+      "grade_96": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_70": [
+        {
+          "b": 1
+        }
+      ]
+    },
+    {
+      "title": "Castlevania Double Pack: Harmony of Dissonance / Aria of Sorrow",
+      "state": 0,
+      "box_variant": "*Assembled in EU, European Version",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Crash Bandicoot 2: N-Tranced",
+      "state": 0,
+      "box_variant": "*Made in Japan, European Version",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Crash Bandicoot Purple: Ripto's Rampage",
+      "state": 0,
+      "box_variant": "*Assembled in EU, Universal Interactive, European Version",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Crash Nitro Kart",
+      "state": 0,
+      "box_variant": "*Made in Japan, European Version",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Crash of the Titans",
+      "state": 0,
+      "box_variant": "*Assembled in EU, European Version",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "DK: King of Swing",
+      "state": 0,
+      "box_variant": "*Made in Japan, European Version",
+      "total": 6,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Disney's Magical Quest Starring Mickey & Minnie",
+      "state": 0,
+      "box_variant": "*Made in Japan, European Version",
+      "total": 2,
+      "grade_94": [
+        {
+          "no_seal": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Disney's Magical Quest starring Mickey & Minnie",
+      "state": 0,
+      "box_variant": "*Made in Japan, European Version",
+      "total": 2,
+      "grade_90": [
+        {
+          "no_seal": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "no_seal": 1
+        }
+      ]
+    },
+    {
+      "title": "Donkey Kong (Classic NES Series)",
+      "state": 0,
+      "box_variant": "*Made in Japan, European Version",
+      "total": 3,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Donkey Kong Country 2",
+      "state": 0,
+      "box_variant": "*Made in Japan, European Version",
+      "total": 6,
+      "grade_96": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Donkey Kong Country 3",
+      "state": 0,
+      "box_variant": "*Made in Japan, European Version",
+      "total": 7,
+      "grade_96": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_85": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Dr. Mario & Puzzle League",
+      "state": 0,
+      "box_variant": "*Made in Japan, European Version",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Dr. Mario (Classic NES Series)",
+      "state": 0,
+      "box_variant": "*Made in Japan, European Version",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Excitebike (Classic NES Series)",
+      "state": 0,
+      "box_variant": "*Made in Japan, European Version",
+      "total": 2,
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "F-Zero: GP Legend",
+      "state": 0,
+      "box_variant": "*Made in Japan, European Version",
+      "total": 2,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "F-Zero: Maximum Velocity",
+      "state": 0,
+      "box_variant": "*Made in Japan, European Version",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Final Fantasy I & II: Dawn of Souls",
+      "state": 0,
+      "box_variant": "*Made in Japan, European Version",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Final Fantasy IV Advance",
+      "state": 0,
+      "box_variant": "*Made in Japan, European Version",
+      "total": 2,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Final Fantasy Tactics Advance",
+      "state": 0,
+      "box_variant": "*Made in Japan, Piracy Warning Sticker, European Version",
+      "total": 1,
+      "grade_75": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Final Fantasy V Advance",
+      "state": 0,
+      "box_variant": "*Made in Japan, European Version",
+      "total": 1,
+      "grade_85": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Final Fantasy VI Advance",
+      "state": 0,
+      "box_variant": "*Made in Japan, European Version",
+      "total": 3,
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Fire Emblem",
+      "state": 0,
+      "box_variant": "*Made in Japan, European Version",
+      "total": 2,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Fire Emblem: The Sacred Stones",
+      "state": 0,
+      "box_variant": "*Made in Japan, European Version",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Golden Sun",
+      "state": 0,
+      "box_variant": "*Made in Japan, Italian Version",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Gunstar Super Heroes",
+      "state": 0,
+      "box_variant": "*Made in Japan, Italian Version",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Ice Climber (Classic NES Series)",
+      "state": 0,
+      "box_variant": "*Made in Japan, European Version",
+      "total": 2,
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Kingdom Hearts: Chain of Memories",
+      "state": 0,
+      "box_variant": "*Made in Japan, European Version",
+      "total": 5,
+      "grade_98": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Kirby: Nightmare in Dream Land",
+      "state": 0,
+      "box_variant": "*Made in Japan, European Version",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Lara Croft Tomb Raider: Legend",
+      "state": 0,
+      "box_variant": "*Assembled in EU, EUU Version",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Lara Croft Tomb Raider: Legend",
+      "state": 0,
+      "box_variant": "*Assembled in EU, European Version",
+      "total": 14,
+      "grade_98": [
+        {
+          "a_plus_plus": 6
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Mario & Luigi: Superstar Saga",
+      "state": 0,
+      "box_variant": "*Made in Japan, European Version",
+      "total": 3,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Mario Kart: Super Circuit",
+      "state": 0,
+      "box_variant": "*Made in Japan, No USK Rating - \"Multi-player mode\" Text, European Version",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Mario Kart: Super Circuit",
+      "state": 0,
+      "box_variant": "*Made in Japan, No USK Rating - \"Multi-player-stand\" Text, European Version",
+      "total": 6,
+      "grade_96": [
+        {
+          "no_seal": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "no_seal": 3
+        }
+      ],
+      "grade_92": [
+        {
+          "no_seal": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Mario Kart: Super Circuit",
+      "state": 0,
+      "box_variant": "*Made in Japan, USK Rating, European Version",
+      "total": 3,
+      "grade_98": [
+        {
+          "b_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "no_seal": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "no_seal": 1
+        }
+      ]
+    },
+    {
+      "title": "Mario Party Advance",
+      "state": 0,
+      "box_variant": "*Made in Japan, European Version",
+      "total": 3,
+      "grade_94": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Mario Pinball Land",
+      "state": 0,
+      "box_variant": "*Made in Japan, European Version",
+      "total": 3,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Mario Power Tennis",
+      "state": 0,
+      "box_variant": "*Made in Japan, European Version",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Mario Tennis: Power Tour",
+      "state": 0,
+      "box_variant": "*Made in Japan, European Version",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Mario vs. Donkey Kong",
+      "state": 0,
+      "box_variant": "*Made in Japan, European Version",
+      "total": 4,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Mega Man Battle Network 4: Red Sun",
+      "state": 0,
+      "box_variant": "*Made in Japan, UK/Italian/Spanish Version",
+      "total": 1,
+      "grade_92": [
+        {
+          "no_seal": 1
+        }
+      ]
+    },
+    {
+      "title": "Metroid (Classic NES Series)",
+      "state": 0,
+      "box_variant": "*Made in Japan, European Version",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Metroid Fusion",
+      "state": 0,
+      "box_variant": "*Made in Japan, European Version",
+      "total": 4,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Metroid Fusion",
+      "state": 0,
+      "box_variant": "*Made in Japan, USK Rating Sticker - Piracy Warning Sticker, European Version",
+      "total": 2,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Metroid: Zero Mission",
+      "state": 0,
+      "box_variant": "*Made in Japan, European Version",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pac-Man Pinball Advance",
+      "state": 0,
+      "box_variant": "*Assembled in EU, UPC Sticker - 79009 Product Code, European Version",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pac-Man World",
+      "state": 0,
+      "box_variant": "*Assembled in EU, European Version",
+      "total": 1,
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Payback",
+      "state": 0,
+      "box_variant": "*Made in Japan, European Version",
+      "total": 2,
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Emerald Version",
+      "state": 0,
+      "box_variant": "*Made in Japan, French Version",
+      "total": 4,
+      "grade_94": [
+        {
+          "a_plus": 2
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_80": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Emerald Version",
+      "state": 0,
+      "box_variant": "*Made in Japan, German Version",
+      "total": 2,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Emerald Version",
+      "state": 0,
+      "box_variant": "*Made in Japan, Italian Version",
+      "total": 6,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_80": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Emerald Version",
+      "state": 0,
+      "box_variant": "*Made in Japan, Spanish Version",
+      "total": 9,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Emerald Version",
+      "state": 0,
+      "box_variant": "*Made in Japan, UK/Netherlands Version",
+      "total": 6,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon FireRed Version",
+      "state": 0,
+      "box_variant": "*Assembled in Germany, 2005, Italian Version",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon FireRed Version",
+      "state": 0,
+      "box_variant": "*Made in Japan, German Version",
+      "total": 2,
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_80": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon FireRed Version",
+      "state": 0,
+      "box_variant": "*Made in Japan, UK/Netherlands Version",
+      "total": 2,
+      "grade_96": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon FireRed Version",
+      "state": 0,
+      "box_variant": "*No Country, 2004 - WEEE Symbol Sticker, Italian Version",
+      "total": 1,
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon FireRed Version",
+      "state": 0,
+      "box_variant": "*No Country, 2004, Italian Version",
+      "total": 2,
+      "grade_96": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon FireRed Version",
+      "state": 0,
+      "box_variant": "*No Country, No WEEE Symbol Sticker, French Version",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon FireRed Version",
+      "state": 0,
+      "box_variant": "*No Country, UK/Netherlands Version",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon FireRed Version",
+      "state": 0,
+      "box_variant": "*No Country, WEEE Symbol Sticker, French Version",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon LeafGreen Version",
+      "state": 0,
+      "box_variant": "*Assembled in Germany, 2005, Italian Version",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon LeafGreen Version",
+      "state": 0,
+      "box_variant": "*Made in Japan, 2004, Italian Version",
+      "total": 3,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_80": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon LeafGreen Version",
+      "state": 0,
+      "box_variant": "*Made in Japan, French Version",
+      "total": 5,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon LeafGreen Version",
+      "state": 0,
+      "box_variant": "*Made in Japan, UK/Netherlands Version",
+      "total": 2,
+      "grade_96": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon LeafGreen Version",
+      "state": 0,
+      "box_variant": "*No Country, 2004, Italian Version",
+      "total": 2,
+      "grade_96": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_70": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Mystery Dungeon: Red Rescue Team",
+      "state": 0,
+      "box_variant": "*Made in Japan, French Version",
+      "total": 4,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Mystery Dungeon: Red Rescue Team",
+      "state": 0,
+      "box_variant": "*Made in Japan, German Version",
+      "total": 4,
+      "grade_96": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_80": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Mystery Dungeon: Red Rescue Team",
+      "state": 0,
+      "box_variant": "*Made in Japan, Italian Version",
+      "total": 9,
+      "grade_98": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 4
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Mystery Dungeon: Red Rescue Team",
+      "state": 0,
+      "box_variant": "*Made in Japan, Spanish Version",
+      "total": 3,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Mystery Dungeon: Red Rescue Team",
+      "state": 0,
+      "box_variant": "*Made in Japan, UK Version",
+      "total": 13,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 4
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_90": [
+        {
+          "b_plus": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "a_plus": 2
+        },
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Pinball: Ruby and Sapphire",
+      "state": 0,
+      "box_variant": "*Made in Japan, French Version",
+      "total": 2,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Pinball: Ruby and Sapphire",
+      "state": 0,
+      "box_variant": "*Made in Japan, German Version",
+      "total": 1,
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Pinball: Ruby and Sapphire",
+      "state": 0,
+      "box_variant": "*Made in Japan, Spanish Version",
+      "total": 2,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Ruby Version",
+      "state": 0,
+      "box_variant": "*Made in Japan, One PEGI Rating, German Version",
+      "total": 1,
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Ruby Version",
+      "state": 0,
+      "box_variant": "*Made in Japan, One PEGI Rating, Italian Version",
+      "total": 2,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Ruby Version",
+      "state": 0,
+      "box_variant": "*Made in Japan, Two PEGI Ratings, French Version",
+      "total": 4,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Ruby Version",
+      "state": 0,
+      "box_variant": "*Made in Japan, Two PEGI Ratings, Italian Version",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Ruby Version",
+      "state": 0,
+      "box_variant": "*Made in Japan, Two PEGI Ratings, Spanish Version",
+      "total": 1,
+      "grade_85": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Ruby Version",
+      "state": 0,
+      "box_variant": "*Made in Japan, Two PEGI Ratings, UK/Netherlands Version",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Ruby Version",
+      "state": 0,
+      "box_variant": "*Uncategorized Legacy Variant, German Version",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Ruby Version",
+      "state": 0,
+      "box_variant": "*Uncategorized Legacy Variant, Spanish Version",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Ruby Version",
+      "state": 0,
+      "box_variant": "*Uncategorized Legacy Variant, UK/Netherlands Version",
+      "total": 4,
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_80": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Sapphire Version",
+      "state": 0,
+      "box_variant": "*Made in Japan, One PEGI Rating, Italian Version",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Sapphire Version",
+      "state": 0,
+      "box_variant": "*Made in Japan, Spanish Version",
+      "total": 9,
+      "grade_96": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 4
+        }
+      ],
+      "grade_90": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_75": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Sapphire Version",
+      "state": 0,
+      "box_variant": "*Made in Japan, Two PEGI Ratings, French Version",
+      "total": 7,
+      "grade_98": [
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Sapphire Version",
+      "state": 0,
+      "box_variant": "*Made in Japan, Two PEGI Ratings, German Version",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Sapphire Version",
+      "state": 0,
+      "box_variant": "*Made in Japan, Two PEGI Ratings, Italian Version",
+      "total": 2,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Sapphire Version",
+      "state": 0,
+      "box_variant": "*Made in Japan, Two PEGI Ratings, UK/Netherlands Version",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Sapphire Version",
+      "state": 0,
+      "box_variant": "*Uncategorized Legacy Variant, UK/Netherlands Version",
+      "total": 4,
+      "grade_96": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Sabre Wulf",
+      "state": 0,
+      "box_variant": "*Made in Japan, UK Version",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Spider-Man: Battle for New York",
+      "state": 0,
+      "box_variant": "*Assembled in EU, Italian Version",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Spider-Man: Battle for New York",
+      "state": 0,
+      "box_variant": "*Assembled in EU, UK Version",
+      "total": 1,
+      "grade_92": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "SpongeBob SquarePants: SuperSponge",
+      "state": 0,
+      "box_variant": "*Made in Japan, European Version",
+      "total": 1,
+      "grade_96": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Super Mario Advance 4: Super Mario Bros. 3",
+      "state": 0,
+      "box_variant": "*Made in Japan, Piracy Warning, European Version",
+      "total": 6,
+      "grade_98": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_80": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_70": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Super Mario Bros. (Classic NES Series)",
+      "state": 0,
+      "box_variant": "*Made in Japan, European Version",
+      "total": 4,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Super Mario World: Super Mario Advance 2",
+      "state": 0,
+      "box_variant": "*Made in Japan, European Version",
+      "total": 2,
+      "grade_94": [
+        {
+          "no_seal": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Superman Returns: Fortress of Solitude",
+      "state": 0,
+      "box_variant": "*Assembled in EU, German Version",
+      "total": 1,
+      "grade_85": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Tales of Phantasia",
+      "state": 0,
+      "box_variant": "*Made in Japan, European Version",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Teenage Mutant Ninja Turtles",
+      "state": 0,
+      "box_variant": "*Made in Japan, German Warning Sticker, European Version",
+      "total": 1,
+      "grade_90": [
+        {
+          "no_seal": 1
+        }
+      ]
+    },
+    {
+      "title": "Teenage Mutant Ninja Turtles Double Pack",
+      "state": 0,
+      "box_variant": "*Assembled in EU, 08154 Product Code, European Version",
+      "total": 1,
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Tekken Advance",
+      "state": 0,
+      "box_variant": "*Assembled in EU, Italian Version",
+      "total": 1,
+      "grade_90": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "The Legend of Spyro: A New Beginning",
+      "state": 0,
+      "box_variant": "*Assembled in Europe, European Version",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "The Legend of Spyro: The Eternal Night",
+      "state": 0,
+      "box_variant": "*Assembled in EU, European Version",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "The Legend of Zelda (Classic NES Series)",
+      "state": 0,
+      "box_variant": "*Made in Japan, European Version",
+      "total": 4,
+      "grade_96": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_80": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "The Legend of Zelda: A Link to the Past\u00a0and Four Swords",
+      "state": 0,
+      "box_variant": "*Made in Japan, USK Rating on Spine, European Version",
+      "total": 1,
+      "grade_85": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "The Legend of Zelda: A Link to the Past\u00a0and\u00a0Four Swords",
+      "state": 0,
+      "box_variant": "*Made in Japan, USK Rating on Front - Warning Added on Back, European Version",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "The Legend of Zelda: A Link to the Past\u00a0and\u00a0Four Swords",
+      "state": 0,
+      "box_variant": "*Made in Japan, USK Rating on Spine, European Version",
+      "total": 5,
+      "grade_96": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "b": 1
+        }
+      ]
+    },
+    {
+      "title": "The Legend of Zelda: The Minish Cap",
+      "state": 0,
+      "box_variant": "*Made in Japan, European Version",
+      "total": 12,
+      "grade_98": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_80": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "The Legend of Zelda: The Minish Cap",
+      "state": 0,
+      "box_variant": "*Made in Japan, Greek Inserts Included, European Version",
+      "total": 1,
+      "grade_85": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "The Lord of the Rings: The Third Age",
+      "state": 0,
+      "box_variant": "*Assembled in EU, Italian Version",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Tom and Jerry Tales",
+      "state": 0,
+      "box_variant": "*Assembled in EU, European Version",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Ultimate Spider-Man",
+      "state": 0,
+      "box_variant": "*Made in Japan, Italian Version",
+      "total": 8,
+      "grade_96": [
+        {
+          "no_seal": 2
+        }
+      ],
+      "grade_94": [
+        {
+          "no_seal": 3
+        }
+      ],
+      "grade_92": [
+        {
+          "no_seal": 2
+        }
+      ],
+      "grade_80": [
+        {
+          "no_seal": 1
+        }
+      ]
+    },
+    {
+      "title": "Ultimate Spider-Man",
+      "state": 0,
+      "box_variant": "*Made in Japan, Spanish Version",
+      "total": 3,
+      "grade_92": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_85": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Ultimate Spider-Man",
+      "state": 0,
+      "box_variant": "*Made in Japan, UK Version",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Wario Land 4",
+      "state": 0,
+      "box_variant": "*Made in Japan, European Version",
+      "total": 2,
+      "grade_94": [
+        {
+          "no_seal": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "no_seal": 1
+        }
+      ]
+    },
+    {
+      "title": "Wario Ware, Inc.: Mega Microgame$!",
+      "state": 0,
+      "box_variant": "*Made in Japan, European Version",
+      "total": 1,
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Wario Ware, Inc.: Minigame Mania",
+      "state": 0,
+      "box_variant": "*Made in Japan, European Version",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Xevious the Avenger (Classic NES Series)",
+      "state": 0,
+      "box_variant": "*Made in Japan, European Version",
+      "total": 1,
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Yoshi's Island: Super Mario Advance 3",
+      "state": 0,
+      "box_variant": "*Made in Japan, No USK Rating, European Version",
+      "total": 4,
+      "grade_94": [
+        {
+          "no_seal": 2
+        },
+        {
+          "b": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "no_seal": 1
+        }
+      ]
+    },
+    {
+      "title": "Yoshi's Island: Super Mario Advance 3",
+      "state": 0,
+      "box_variant": "*Made in Japan, USK Rating Added, European Version",
+      "total": 1,
+      "grade_85": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Yoshi's Universal Gravitation",
+      "state": 0,
+      "box_variant": "*Made in Japan, European Version",
+      "total": 4,
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Yu-Gi-Oh! Destiny Board Traveler",
+      "state": 0,
+      "box_variant": "*Made in Japan, German Version",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Yu-Gi-Oh! Duel Monsters 8: Reshef of Destruction",
+      "state": 0,
+      "box_variant": "*Made in Japan, Netherlands Version",
+      "total": 2,
+      "grade_96": [
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Yu-Gi-Oh! GX Duel Academy",
+      "state": 0,
+      "box_variant": "*Assembled in EU, German Version",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Yu-Gi-Oh! GX Duel Academy",
+      "state": 0,
+      "box_variant": "*Assembled in EU, Italian Version",
+      "total": 1,
+      "grade_80": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Zelda II: The Adventure of Link (Classic NES Series)",
+      "state": 0,
+      "box_variant": "*Made in Japan, European Version",
+      "total": 4,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a": 1
+        }
+      ]
+    }
+  ]
+}

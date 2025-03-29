@@ -1,0 +1,4401 @@
+{
+  "fields": [
+    "title",
+    "state",
+    "box_variant",
+    "total",
+    "not_graded",
+    "grade_gen",
+    "grade_pro",
+    "grade_100",
+    "grade_98",
+    "grade_96",
+    "grade_94",
+    "grade_92",
+    "grade_90",
+    "grade_85",
+    "grade_80",
+    "grade_75",
+    "grade_70",
+    "grade_65",
+    "grade_below_65"
+  ],
+  "populations": [
+    {
+      "title": "007 Legends",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Adventure Time: Explore the Dungeon Because I Don't Know!",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Angry Birds Star Wars",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Angry Birds Trilogy",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Animal Crossing: amiibo Festival",
+      "state": 0,
+      "box_variant": "*Made in Japan, 102895A, NFR (amiibo Bundle Pack-in)",
+      "total": 4,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Assassin's Creed III",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 3,
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Assassin's Creed IV: Black Flag",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Axiom Verge",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Axiom Verge: Multiverse Edition",
+      "state": 0,
+      "box_variant": "*No Country",
+      "total": 9,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 3
+        }
+      ]
+    },
+    {
+      "title": "Barbie and Her Sisters: Puppy Rescue",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Barbie: Dreamhouse Party",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Batman: Arkham City - Armored Edition",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Batman: Arkham City - Armored Edition",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Batman: Arkham City - Armored Edition",
+      "state": 0,
+      "box_variant": "*Made in USA, Canadian Version",
+      "total": 1,
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Batman: Arkham Origins",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Batman: Arkham Origins",
+      "state": 0,
+      "box_variant": "*Made in USA, Canadian Version",
+      "total": 1,
+      "grade_96": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Batman: Arkham Origins Blackgate \u2013 Deluxe Edition",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Bayonetta 2",
+      "state": 0,
+      "box_variant": "*Made in Japan, 103567A",
+      "total": 8,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_92": [
+        {
+          "b_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Bayonetta 2",
+      "state": 0,
+      "box_variant": "*Made in USA, 83663A",
+      "total": 8,
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 2
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Bayonetta 2",
+      "state": 0,
+      "box_variant": "*Made in USA, 83663B",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Ben 10: Omniverse",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Ben 10: Omniverse 2",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Brunswick Pro Bowling",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Cabela's Big Game Hunter: Pro Hunts",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 2,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Cabela's Dangerous Hunts 2013",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Call of Duty: Black Ops II",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Call of Duty: Ghosts",
+      "state": 0,
+      "box_variant": "*Made in USA, 84685A",
+      "total": 2,
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Captain Toad: Treasure Tracker",
+      "state": 0,
+      "box_variant": "*Made in Japan, 101988A, Pixel Toad",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Captain Toad: Treasure Tracker",
+      "state": 0,
+      "box_variant": "*Made in Japan, 104139A, NFR",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Captain Toad: Treasure Tracker",
+      "state": 0,
+      "box_variant": "*Made in USA, 100188A",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Captain Toad: Treasure Tracker",
+      "state": 0,
+      "box_variant": "*Made in USA, 83668A",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus_plus": 2
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Cars 3: Driven to Win",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Darksiders II",
+      "state": 0,
+      "box_variant": "*Made in USA, 133778",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Darksiders: Warmastered Edition",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Deus Ex: Human Revolution - Director's Cut",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 2,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Devil's Third",
+      "state": 0,
+      "box_variant": "*Made in Japan, 102699A",
+      "total": 70,
+      "grade_98": [
+        {
+          "a_plus_plus": 4
+        },
+        {
+          "a_plus": 10
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 7
+        },
+        {
+          "a_plus": 24
+        }
+      ],
+      "grade_94": [
+        {
+          "b_plus": 1
+        },
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 11
+        }
+      ],
+      "grade_92": [
+        {
+          "b_plus": 1
+        },
+        {
+          "a_plus": 6
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_75": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Disney DuckTales: Remastered",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 8,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Disney DuckTales: Remastered",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 5,
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Disney DuckTales: Remastered",
+      "state": 0,
+      "box_variant": "*Made in USA, Collector's Pin Included",
+      "total": 3,
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Disney Infinity",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Disney Infinity 3.0",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Donkey Kong Country: Tropical Freeze",
+      "state": 0,
+      "box_variant": "*Made in Japan, 101969A",
+      "total": 7,
+      "grade_96": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Donkey Kong Country: Tropical Freeze",
+      "state": 0,
+      "box_variant": "*Made in Japan, 103637A, Nintendo Selects",
+      "total": 3,
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Donkey Kong Country: Tropical Freeze",
+      "state": 0,
+      "box_variant": "*Made in USA, 81230A",
+      "total": 15,
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 6
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 4
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "ESPN Sports Connection",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "FIFA Soccer 13",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Family Party: 30 Great Games Obstacle Arcade",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Fast & Furious: Showdown",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Funky Barn",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Game & Wario",
+      "state": 0,
+      "box_variant": "*Made in USA, 79833A",
+      "total": 18,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 7
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 5
+        }
+      ],
+      "grade_92": [
+        {
+          "a": 2
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Game Party Champions",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Giana Sisters: Twisted Dreams \u2013 Director's Cut",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Guitar Hero Live",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Hello Kitty Kruisers",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 4,
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Hot Wheels World's Best Driver",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "How to Train Your Dragon 2",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Hyrule Warriors",
+      "state": 0,
+      "box_variant": "*Made in Japan, 101984A",
+      "total": 11,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_80": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Hyrule Warriors",
+      "state": 0,
+      "box_variant": "*Made in USA, 100184A",
+      "total": 7,
+      "grade_96": [
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Hyrule Warriors",
+      "state": 0,
+      "box_variant": "*Made in USA, 83662A",
+      "total": 12,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 5
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Hyrule Warriors",
+      "state": 0,
+      "box_variant": "*Made in USA, 83662B",
+      "total": 4,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Injustice: Gods Among Us",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Jeopardy!",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Just Dance 2014",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Just Dance 2015",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Just Dance 2016",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Just Dance 2017",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Just Dance 2018",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Just Dance 4",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Just Dance Kids 2014",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Just Dance: Disney Party 2",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Kirby and the Rainbow Curse",
+      "state": 0,
+      "box_variant": "*Made in USA, 101213A",
+      "total": 10,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 2
+        }
+      ],
+      "grade_85": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Kung Fu Panda: Showdown of Legendary Legends",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "LEGO Batman 2: DC Super Heroes",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "LEGO Batman 3: Beyond Gotham",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "LEGO City Undercover",
+      "state": 0,
+      "box_variant": "*Made in USA, 78752B",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "LEGO Dimensions",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "LEGO Jurassic World",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "LEGO Marvel Super Heroes",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "LEGO Marvel Super Heroes",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 2,
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "LEGO Marvel's Avengers",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 2,
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "LEGO Star Wars: The Force Awakens",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 2,
+      "grade_92": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "LEGO The Hobbit",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Legend of Kay Anniversary",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Madden NFL 13",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 2,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Mario & Sonic at the Rio 2016 Olympic Games",
+      "state": 0,
+      "box_variant": "*Made in Japan, 103833A",
+      "total": 10,
+      "grade_98": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 4
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Mario & Sonic at the Sochi 2014 Olympic Winter Games",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 3,
+      "grade_96": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Mario Kart 8",
+      "state": 0,
+      "box_variant": "*Made in Japan, 101979A, Amiibo Supported",
+      "total": 14,
+      "grade_96": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 2
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "b_plus": 2
+        },
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_80": [
+        {
+          "b": 1
+        }
+      ]
+    },
+    {
+      "title": "Mario Kart 8",
+      "state": 0,
+      "box_variant": "*Made in Japan, 83055A, NFR (Console Pack-In)",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Mario Kart 8",
+      "state": 0,
+      "box_variant": "*Made in Japan, MDE Version",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Mario Kart 8",
+      "state": 0,
+      "box_variant": "*Made in USA, 82909A",
+      "total": 8,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 4
+        }
+      ],
+      "grade_85": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Mario Kart 8",
+      "state": 0,
+      "box_variant": "*Made in USA, 82909B",
+      "total": 9,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 5
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Mario Party 10",
+      "state": 0,
+      "box_variant": "*Made in Japan, 101990A",
+      "total": 7,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_90": [
+        {
+          "a": 2
+        }
+      ],
+      "grade_85": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Mario Party 10",
+      "state": 0,
+      "box_variant": "*Made in Japan, 104100A, NFR (Mario Amiibo Pack-in)",
+      "total": 9,
+      "grade_98": [
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 4
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Mario Party 10",
+      "state": 0,
+      "box_variant": "*Made in USA, 101214A",
+      "total": 8,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 5
+        }
+      ],
+      "grade_80": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_75": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Mario Party 10",
+      "state": 0,
+      "box_variant": "*Made in USA, 101585A, NFR",
+      "total": 14,
+      "grade_98": [
+        {
+          "a_plus_plus": 5
+        },
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 3
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Mario Tennis: Ultra Smash",
+      "state": 0,
+      "box_variant": "*Made in Japan, 102504A",
+      "total": 12,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 3
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Marvel Avengers: Battle for Earth",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Mass Effect 3: Special Edition",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Mighty No. 9",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Minecraft: Story Mode - The Complete Adventure",
+      "state": 0,
+      "box_variant": "*Made in Japan, Canadian Version",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Minecraft: Wii U Edition",
+      "state": 0,
+      "box_variant": "*Made in Japan, 103734A",
+      "total": 6,
+      "grade_96": [
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 3
+        }
+      ]
+    },
+    {
+      "title": "Monster High: 13 Wishes",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Monster High: New Ghoul in School",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Monster Hunter 3 Ultimate",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 3,
+      "grade_96": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "NBA 2K13",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "NES Remix Pack",
+      "state": 0,
+      "box_variant": "*Made in Japan, 101977A",
+      "total": 4,
+      "grade_96": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 2
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "NES Remix Pack",
+      "state": 0,
+      "box_variant": "*Made in Japan, 103643A, Nintendo Selects",
+      "total": 3,
+      "grade_96": [
+        {
+          "b_plus": 1
+        },
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "NES Remix Pack",
+      "state": 0,
+      "box_variant": "*Made in USA, 101515A",
+      "total": 2,
+      "grade_96": [
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "NES Remix Pack",
+      "state": 0,
+      "box_variant": "*Made in USA, 82968A",
+      "total": 5,
+      "grade_96": [
+        {
+          "a_plus": 4
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Need for Speed: Most Wanted U",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "New Super Luigi U",
+      "state": 0,
+      "box_variant": "*Made in Japan, 102676A",
+      "total": 2,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "New Super Luigi U",
+      "state": 0,
+      "box_variant": "*Made in USA, 80890A",
+      "total": 65,
+      "grade_98": [
+        {
+          "a_plus_plus": 5
+        },
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 5
+        },
+        {
+          "a_plus": 17
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 20
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 4
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_80": [
+        {
+          "b_plus": 1
+        },
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_75": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "New Super Mario Bros. U",
+      "state": 0,
+      "box_variant": "*Made in Japan, 78939A",
+      "total": 9,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 2
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_80": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "New Super Mario Bros. U",
+      "state": 0,
+      "box_variant": "*Made in USA, 78748A",
+      "total": 35,
+      "grade_98": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 8
+        },
+        {
+          "a": 3
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 7
+        },
+        {
+          "a": 2
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 2
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "a": 2
+        }
+      ],
+      "grade_75": [
+        {
+          "b_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "New Super Mario Bros. U",
+      "state": 0,
+      "box_variant": "*Made in USA, 78748B",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "New Super Mario Bros. U + New Super Luigi U",
+      "state": 0,
+      "box_variant": "*Made in USA, 102287A",
+      "total": 16,
+      "grade_98": [
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 5
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 5
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "New Super Mario Bros. U + New Super Luigi U",
+      "state": 0,
+      "box_variant": "*Made in USA, 81647A, NFR (Console Pack-In) - ESRB Header Corrected",
+      "total": 9,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "New Super Mario Bros. U + New Super Luigi U",
+      "state": 0,
+      "box_variant": "*Made in USA, 81647A, NFR (Console Pack-In) - ESRB Header Misprint",
+      "total": 9,
+      "grade_96": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Ninja Gaiden 3: Razor's Edge",
+      "state": 0,
+      "box_variant": "*Made in Japan, 78980A",
+      "total": 25,
+      "grade_98": [
+        {
+          "a_plus_plus": 18
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 6
+        }
+      ]
+    },
+    {
+      "title": "Ninja Gaiden 3: Razor's Edge",
+      "state": 0,
+      "box_variant": "*Made in USA, 78756A",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Nintendo Land",
+      "state": 0,
+      "box_variant": "*Made in Japan, 78984A",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Nintendo Land",
+      "state": 0,
+      "box_variant": "*Made in Japan, 78986A, NFR (Console Pack-In)",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Nintendo Land",
+      "state": 0,
+      "box_variant": "*Made in USA, 78974A, NFR (Console Pack-In)",
+      "total": 4,
+      "grade_94": [
+        {
+          "a_plus": 4
+        }
+      ]
+    },
+    {
+      "title": "Pac-Man and the Ghostly Adventures",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Pac-Man and the Ghostly Adventures 2",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Paper Mario: Color Splash",
+      "state": 0,
+      "box_variant": "*Made in Japan, 103880A",
+      "total": 36,
+      "grade_98": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 13
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 10
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 4
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_80": [
+        {
+          "b": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Paper Mario: Color Splash",
+      "state": 0,
+      "box_variant": "*Made in Japan, MDE Version",
+      "total": 40,
+      "grade_98": [
+        {
+          "a_plus_plus": 27
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 12
+        },
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Phineas and Ferb: Quest for Cool Stuff",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Pikmin 3",
+      "state": 0,
+      "box_variant": "*Made in Japan, 103640A, Nintendo Selects",
+      "total": 5,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "b_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pikmin 3",
+      "state": 0,
+      "box_variant": "*Made in USA, 78744A",
+      "total": 23,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 4
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 6
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 4
+        },
+        {
+          "a": 2
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 2
+        },
+        {
+          "a": 2
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Planes",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Planes: Fire & Rescue",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Pokk\u00c3\u00a9n Tournament",
+      "state": 0,
+      "box_variant": "*Made in Japan, 103418A, Amiibo Card Included",
+      "total": 4,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 3
+        }
+      ]
+    },
+    {
+      "title": "Pokk\u00e9n Tournament",
+      "state": 0,
+      "box_variant": "*Made in Japan, 103418A, Amiibo Card Included",
+      "total": 35,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 13
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 5
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "b_plus": 1
+        },
+        {
+          "a_plus": 4
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "a": 2
+        }
+      ],
+      "grade_75": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pokk\u00e9n Tournament",
+      "state": 0,
+      "box_variant": "*Made in Japan, 103668A",
+      "total": 27,
+      "grade_98": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 7
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "b": 1
+        },
+        {
+          "a_plus": 6
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 5
+        },
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Rabbids Land",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Rapala Pro Bass Fishing",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Rayman Legends",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Resident Evil: Revelations",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 3,
+      "grade_96": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Rise of the Guardians: The Video Game",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Rodea the Sky Soldier",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Runbow",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Scribblenauts Unlimited",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Scribblenauts Unmasked: A DC Comics Adventure",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Shakedown: Hawaii",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 14,
+      "grade_98": [
+        {
+          "a_plus_plus": 4
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 4
+        },
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Shakedown: Hawaii",
+      "state": 0,
+      "box_variant": "*Made in Japan, Special Edition",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Shantae: Half-Genie Hero",
+      "state": 0,
+      "box_variant": "*Made in Japan, Risky Beats Edition",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Shovel Knight",
+      "state": 0,
+      "box_variant": "*Made in Japan, Soundtrack Included",
+      "total": 5,
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Sing Party",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Skylanders: Giants",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Skylanders: Imaginators",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Skylanders: SuperChargers",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Skylanders: Swap Force",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Skylanders: Trap Team",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Sniper Elite V2",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Sonic & All-Stars Racing Transformed",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Sonic Boom: Rise of Lyric",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Sonic Boom: Rise of Lyric",
+      "state": 0,
+      "box_variant": "*Made in USA, Canadian Version",
+      "total": 1,
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Sonic Lost World",
+      "state": 0,
+      "box_variant": "*Made in USA, 67106A, Deadly Six Bonus Edition",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Splatoon",
+      "state": 0,
+      "box_variant": "*Made in Japan, 101215A",
+      "total": 41,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 15
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 9
+        },
+        {
+          "a": 2
+        }
+      ],
+      "grade_92": [
+        {
+          "b_plus": 1
+        },
+        {
+          "a_plus": 3
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_80": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Splatoon",
+      "state": 0,
+      "box_variant": "*Made in Japan, MDE Version",
+      "total": 40,
+      "grade_98": [
+        {
+          "a_plus_plus": 25
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 15
+        }
+      ]
+    },
+    {
+      "title": "SpongeBob SquarePants: Plankton's Robotic Revenge",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Star Fox Guard",
+      "state": 0,
+      "box_variant": "*Made in Japan, 103629A, NFR (Star Fox Zero Bundle)",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus_plus": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Star Fox Zero",
+      "state": 0,
+      "box_variant": "*Made in Japan, 102513A, NFR (Star Fox Guard Bundle)",
+      "total": 7,
+      "grade_98": [
+        {
+          "a_plus_plus": 5
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Star Fox Zero / Star Fox Guard",
+      "state": 0,
+      "box_variant": "*Made in Japan, 103631A, Box Set",
+      "total": 7,
+      "grade_65_below": [
+        {
+          "not_graded": 7
+        }
+      ]
+    },
+    {
+      "title": "SteamWorld Collection",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 2,
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Super Mario 3D World",
+      "state": 0,
+      "box_variant": "*Made in Japan, 101973A",
+      "total": 3,
+      "grade_96": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_80": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Super Mario 3D World",
+      "state": 0,
+      "box_variant": "*Made in Japan, 103634A, Nintendo Selects",
+      "total": 10,
+      "grade_96": [
+        {
+          "a_plus_plus": 3
+        },
+        {
+          "a_plus": 5
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Super Mario 3D World",
+      "state": 0,
+      "box_variant": "*Made in Japan, 103634B, Nintendo Selects",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Super Mario 3D World",
+      "state": 0,
+      "box_variant": "*Made in Japan, Nintendo Selects, MDE Version",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Super Mario 3D World",
+      "state": 0,
+      "box_variant": "*Made in USA, 100420A, NFR (Console Pack-In)",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Super Mario 3D World",
+      "state": 0,
+      "box_variant": "*Made in USA, 100420A, NFR (Console Pack-in)",
+      "total": 19,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 7
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 4
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 2
+        },
+        {
+          "a": 2
+        }
+      ],
+      "grade_85": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Super Mario 3D World",
+      "state": 0,
+      "box_variant": "*Made in USA, 101564A, Nintendo Refurbished",
+      "total": 1,
+      "grade_90": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Super Mario 3D World",
+      "state": 0,
+      "box_variant": "*Made in USA, 81224A",
+      "total": 37,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 4
+        },
+        {
+          "a_plus": 15
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 8
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_85": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Super Mario 3D World",
+      "state": 0,
+      "box_variant": "*Made in USA, 81224C, Family Game of the Year",
+      "total": 4,
+      "grade_96": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Super Mario Maker",
+      "state": 0,
+      "box_variant": "*Made in Japan, 102263A, NFR (Super Mario Maker Set)",
+      "total": 29,
+      "grade_98": [
+        {
+          "a_plus_plus": 12
+        },
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 4
+        },
+        {
+          "a_plus": 6
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 2
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Super Smash Bros. for Wii U",
+      "state": 0,
+      "box_variant": "*Made in Japan, 101986A",
+      "total": 14,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 2
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 4
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Super Smash Bros. for Wii U",
+      "state": 0,
+      "box_variant": "*Made in Japan, 101986B",
+      "total": 32,
+      "grade_98": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 3
+        },
+        {
+          "a_plus": 12
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 5
+        },
+        {
+          "a": 3
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "b_plus": 1
+        }
+      ],
+      "grade_75": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Super Smash Bros. for Wii U",
+      "state": 0,
+      "box_variant": "*Made in Japan, 101986C",
+      "total": 15,
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 5
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 6
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Super Smash Bros. for Wii U",
+      "state": 0,
+      "box_variant": "*Made in Japan, MDE Version",
+      "total": 20,
+      "grade_98": [
+        {
+          "a_plus_plus": 17
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 3
+        }
+      ]
+    },
+    {
+      "title": "Super Smash Bros. for Wii U",
+      "state": 0,
+      "box_variant": "*Made in USA, 83664A",
+      "total": 44,
+      "grade_98": [
+        {
+          "a_plus_plus": 6
+        },
+        {
+          "a_plus": 10
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 5
+        },
+        {
+          "a_plus": 10
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 2
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 3
+        },
+        {
+          "a": 2
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 2
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_70": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Tank! Tank! Tank!",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Tekken Tag Tournament 2: Wii U Edition",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Terraria",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "The Amazing Spider-Man 2",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "The Amazing Spider-Man: Ultimate Edition",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "The Book of Unwritten Tales 2",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 14,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 5
+        },
+        {
+          "a": 2
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "b_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "b_plus": 1
+        }
+      ],
+      "grade_75": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "The Croods: Prehistoric Party!",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 2,
+      "grade_92": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "The LEGO Movie Videogame",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "The Legend of Zelda: Breath of the Wild",
+      "state": 0,
+      "box_variant": "*Made in Japan, 103423A, Seven Controllers",
+      "total": 239,
+      "grade_98": [
+        {
+          "a_plus_plus": 27
+        },
+        {
+          "a_plus": 40
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 21
+        },
+        {
+          "a_plus": 70
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "b": 1
+        },
+        {
+          "a_plus_plus": 11
+        },
+        {
+          "a_plus": 34
+        },
+        {
+          "a": 3
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 15
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "b_plus": 1
+        },
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 2
+        },
+        {
+          "a": 4
+        }
+      ],
+      "grade_80": [
+        {
+          "a_plus": 2
+        },
+        {
+          "a": 2
+        }
+      ],
+      "grade_70": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "The Legend of Zelda: Breath of the Wild",
+      "state": 0,
+      "box_variant": "*Made in Japan, 103423B, Two Controllers",
+      "total": 504,
+      "grade_98": [
+        {
+          "a_plus_plus": 23
+        },
+        {
+          "a_plus": 78
+        },
+        {
+          "a": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "b_plus": 1
+        },
+        {
+          "a_plus_plus": 24
+        },
+        {
+          "a_plus": 171
+        },
+        {
+          "a": 10
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 10
+        },
+        {
+          "a_plus": 95
+        },
+        {
+          "a": 6
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 26
+        },
+        {
+          "a": 17
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 9
+        },
+        {
+          "a": 10
+        }
+      ],
+      "grade_85": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 4
+        },
+        {
+          "a": 7
+        }
+      ],
+      "grade_80": [
+        {
+          "a_plus": 4
+        }
+      ],
+      "grade_75": [
+        {
+          "b_plus": 2
+        },
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 2
+        }
+      ]
+    },
+    {
+      "title": "The Legend of Zelda: Breath of the Wild",
+      "state": 0,
+      "box_variant": "*Made in Japan, MDE Version",
+      "total": 11,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 6
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_90": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "The Legend of Zelda: The Wind Waker HD",
+      "state": 0,
+      "box_variant": "*Made in Japan, 101975A",
+      "total": 26,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 4
+        },
+        {
+          "a_plus": 7
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 7
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 4
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "The Legend of Zelda: The Wind Waker HD",
+      "state": 0,
+      "box_variant": "*Made in Japan, 104186A, Nintendo Selects",
+      "total": 31,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 3
+        },
+        {
+          "a_plus": 13
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 7
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "The Legend of Zelda: The Wind Waker HD",
+      "state": 0,
+      "box_variant": "*Made in USA, 81115A",
+      "total": 106,
+      "grade_98": [
+        {
+          "a_plus_plus": 3
+        },
+        {
+          "a_plus": 5
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 8
+        },
+        {
+          "a_plus": 32
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 5
+        },
+        {
+          "a_plus": 27
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 9
+        },
+        {
+          "a": 3
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 9
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_75": [
+        {
+          "b_plus": 1
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "The Legend of Zelda: Twilight Princess HD",
+      "state": 0,
+      "box_variant": "*Made in Japan, 102472A, NFR (Wolf Link Amiibo Pack-in)",
+      "total": 132,
+      "grade_98": [
+        {
+          "a_plus_plus": 34
+        },
+        {
+          "a_plus": 24
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 14
+        },
+        {
+          "a_plus": 33
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 4
+        },
+        {
+          "a_plus": 13
+        },
+        {
+          "a": 2
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 5
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "The Peanuts Movie: Snoopy's Grand Adventure",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "The Smurfs 2",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "The Voice: I Want You",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "The Walking Dead: Survival Instinct",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "The Wonderful 101",
+      "state": 0,
+      "box_variant": "*Made in USA, 80177A",
+      "total": 9,
+      "grade_98": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 2
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 2
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Tokyo Mirage Sessions #FE",
+      "state": 0,
+      "box_variant": "*Made in Japan, 103875A",
+      "total": 4,
+      "grade_92": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Tom Clancy's Splinter Cell: Blacklist",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Transformers Prime: The Game",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Transformers: Rise of the Dark Spark",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_92": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Tumblestone",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Turbo: Super Stunt Squad",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 3,
+      "grade_94": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_90": [
+        {
+          "b": 1
+        }
+      ]
+    },
+    {
+      "title": "Warriors Orochi 3 Hyper",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Watch Dogs",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Wheel of Fortune",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Wii Fit U",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Wii Party U",
+      "state": 0,
+      "box_variant": "*Made in USA, 81175A, NFR (Wii Remote Pack-In)",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Wii Sports Club",
+      "state": 0,
+      "box_variant": "*Made in Japan, 102299A",
+      "total": 1,
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Wii Sports Club",
+      "state": 0,
+      "box_variant": "*Made in USA, 83521A",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Wipeout 3",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Wipeout: Create & Crash",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Xenoblade Chronicles X",
+      "state": 0,
+      "box_variant": "*Made in Japan, 102221A",
+      "total": 20,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 10
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 2
+        }
+      ]
+    },
+    {
+      "title": "Xenoblade Chronicles X",
+      "state": 0,
+      "box_variant": "*Made in Japan, 102842A, NFR (Special Edition Box Set)",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Yoshi's Woolly World",
+      "state": 0,
+      "box_variant": "*Made in Japan, 101216A",
+      "total": 7,
+      "grade_96": [
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Yoshi's Woolly World",
+      "state": 0,
+      "box_variant": "*Made in Japan, 101997A, NFR (Green Yarn Yoshi Pack-In)",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Yoshi's Woolly World",
+      "state": 0,
+      "box_variant": "*Made in Japan, 101997B, NFR (Pink Yarn Yoshi Pack-in)",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus_plus": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Your Shape: Fitness Evolved 2013",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "ZombiU",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 4,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "ZombiU",
+      "state": 0,
+      "box_variant": "*Made in USA, Canadian Version",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "ZombiU",
+      "state": 0,
+      "box_variant": "*Made in USA, UPC Sticker",
+      "total": 1,
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Zumba Fitness: World Party",
+      "state": 0,
+      "box_variant": "",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    }
+  ]
+}

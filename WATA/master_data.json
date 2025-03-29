@@ -1,0 +1,40 @@
+{
+  "systems": [
+    { "name": "2600", "wata_states": ['sealed', 'cib'] },
+    { "name": "5200", "wata_states": ['sealed'] },
+    { "name": "7800", "wata_states": ['sealed'] },
+    { "name": "colecovision", "wata_states": ['sealed'] },
+    { "name": "intellivision", "wata_states": ['sealed'] },
+    { "name": "turbografx16", "wata_states": ['sealed'] },
+    { "name": "turbografxcd", "wata_states": ['sealed'] },
+    { "name": "n64", "wata_states": ['sealed', 'cib', 'intl_sealed'] },
+    { "name": "ds", "wata_states": ['sealed'] },
+    { "name": "nes", "wata_states": ['sealed', 'cib', 'intl_sealed', 'loose'] },
+    { "name": "gb", "wata_states": ['sealed', 'cib', 'intl_sealed'] },
+    { "name": "gba", "wata_states": ['sealed', 'cib', 'intl_sealed'] },
+    { "name": "gbc", "wata_states": ['sealed', 'cib', 'intl_sealed'] },
+    { "name": "gamecube", "wata_states": ['sealed'] },
+    { "name": "switch", "wata_states": ['sealed'] },
+    { "name": "virtual_boy", "wata_states": ['sealed'] },
+    { "name": "wii", "wata_states": ['sealed'] },
+    { "name": "wii_u", "wata_states": ['sealed'] },
+    { "name": "snes", "wata_states": ['sealed', 'cib', 'loose', 'intl_sealed'] },
+    { "name": "sega_cd", "wata_states": ['sealed'] },
+    { "name": "dreamcast", "wata_states": ['sealed'] },
+    { "name": "genesis", "wata_states": ['sealed', 'cib'] },
+    { "name": "sms", "wata_states": ['sealed', 'cib'] },
+    { "name": "saturn", "wata_states": ['sealed'] },
+    { "name": "32x", "wata_states": ['sealed'] },
+    { "name": "ps1", "wata_states": ['sealed'] },
+    { "name": "ps2", "wata_states": ['sealed'] },
+    { "name": "ps3", "wata_states": ['sealed'] },
+    { "name": "xbox", "wata_states": ['sealed'] },
+    { "name": "xbox_360", "wata_states": ['sealed'] }
+  ],
+  "datasets": [
+    { "year": 2023, "month":  6, "company": "WATA", "path": "WATA_2023_06" },
+    { "year": 2023, "month": 12, "company": "WATA", "path": "WATA_2023_12" },
+    { "year": 2024, "month":  3, "company": "WATA", "path": "WATA_2024_03" },
+    { "year": 2024, "month":  8, "company": "WATA", "path": "WATA_2024_08" }
+  ]
+}

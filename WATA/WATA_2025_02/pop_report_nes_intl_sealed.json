@@ -1,0 +1,865 @@
+{
+  "fields": [
+    "title",
+    "state",
+    "box_variant",
+    "total",
+    "not_graded",
+    "grade_gen",
+    "grade_pro",
+    "grade_100",
+    "grade_98",
+    "grade_96",
+    "grade_94",
+    "grade_92",
+    "grade_90",
+    "grade_85",
+    "grade_80",
+    "grade_75",
+    "grade_70",
+    "grade_65",
+    "grade_below_65"
+  ],
+  "populations": [
+    {
+      "title": "A Boy and His Blob: Trouble on Blobolonia",
+      "state": 0,
+      "box_variant": "*Made in Japan, Gloss Sticker - Distributed by Bandai, France & Netherlands Version",
+      "total": 1,
+      "grade_90": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Barker Bill's Trick Shooting",
+      "state": 0,
+      "box_variant": "*Made in Japan, Distributed by Spaco, Spanish Version",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Battletoads",
+      "state": 0,
+      "box_variant": "*Made in Japan, Spanish PAL B Version",
+      "total": 19,
+      "grade_98": [
+        {
+          "no_seal": 1
+        },
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 5
+        }
+      ],
+      "grade_96": [
+        {
+          "no_seal": 2
+        },
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "no_seal": 4
+        }
+      ],
+      "grade_92": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "no_seal": 1
+        }
+      ]
+    },
+    {
+      "title": "Battletoads / Double Dragon",
+      "state": 0,
+      "box_variant": "*Made in Japan, Gloss Sticker - Distributed by GIG, Italian Version",
+      "total": 1,
+      "grade_70": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Bucky O'Hare",
+      "state": 0,
+      "box_variant": "*Unidentified Legacy Variant, German PAL B Version",
+      "total": 1,
+      "grade_70": [
+        {
+          "b": 1
+        }
+      ]
+    },
+    {
+      "title": "Castlevania",
+      "state": 0,
+      "box_variant": "*Made in Japan, GPS PAL B Version",
+      "total": 1,
+      "grade_94": [
+        {
+          "no_seal": 1
+        }
+      ]
+    },
+    {
+      "title": "Castlevania",
+      "state": 0,
+      "box_variant": "*Unidentified Legacy Variant, GPS Version",
+      "total": 1,
+      "grade_85": [
+        {
+          "no_seal": 1
+        }
+      ]
+    },
+    {
+      "title": "Clu Clu Land",
+      "state": 0,
+      "box_variant": "*Made in Japan, Hangtab - Gloss Sticker - Distributed by Mattel, UK/Italian Version",
+      "total": 1,
+      "grade_70": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Disney's DuckTales",
+      "state": 0,
+      "box_variant": "*Unidentified Legacy Variant, European Version",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Donkey Kong Classics",
+      "state": 0,
+      "box_variant": "*Made in Japan, Gloss Sticker - Distributed by Mattel, Italian Version",
+      "total": 1,
+      "grade_75": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Dr. Mario",
+      "state": 0,
+      "box_variant": "*Made in Japan, Gloss Sticker - Distributed by Bandai, France & Netherlands Version",
+      "total": 1,
+      "grade_75": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Dr. Mario",
+      "state": 0,
+      "box_variant": "*Made in Japan, Gloss Sticker - Distributed by Mattel, Italian Version",
+      "total": 1,
+      "grade_80": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Duck Hunt",
+      "state": 0,
+      "box_variant": "*Made in Japan, Gloss Sticker - Distributed by Bandai, UK Version",
+      "total": 3,
+      "grade_70": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_65": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Duck Hunt",
+      "state": 0,
+      "box_variant": "*Made in Japan, Hangtab - Gloss Sticker - Distributed by Serif, UK Version",
+      "total": 1,
+      "grade_85": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Excitebike",
+      "state": 0,
+      "box_variant": "*Made in Japan, Gloss Sticker - Distributed by Bandai, UK Version",
+      "total": 1,
+      "grade_75": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Faxanadu",
+      "state": 0,
+      "box_variant": "*Made in Japan, Gloss Sticker - Distributed by Mattel, Australian/Italian Version",
+      "total": 1,
+      "grade_85": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Gradius",
+      "state": 0,
+      "box_variant": "*Made in Japan, Round SOQ, EEC PAL B Version",
+      "total": 1,
+      "grade_96": [
+        {
+          "no_seal": 1
+        }
+      ]
+    },
+    {
+      "title": "Gumshoe",
+      "state": 0,
+      "box_variant": "*Made in Japan, Gloss Sticker - Distributed by GIG, Italian Version",
+      "total": 1,
+      "grade_65": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Isolated Warrior",
+      "state": 0,
+      "box_variant": "*Made in Japan, Distributed by Bandai, UK Version",
+      "total": 1,
+      "grade_80": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Kid Icarus",
+      "state": 0,
+      "box_variant": "*Made in Japan, Gloss Sticker - Distributed by Mattel - Oval SOQ TM, Italian Version",
+      "total": 1,
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Kirby's Adventure",
+      "state": 0,
+      "box_variant": "*Made in Japan, Gloss Sticker - Distributed by Nintendo, Netherlands Version",
+      "total": 1,
+      "grade_70": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Kirby's Adventure",
+      "state": 0,
+      "box_variant": "*Made in Japan, Gloss Sticker - Nintendo Australia Sticker, UK Version",
+      "total": 1,
+      "grade_75": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Kirby's Adventure",
+      "state": 0,
+      "box_variant": "*Made in Japan, Gloss Sticker - Nintendo Australia Sticker, UK Version (Distributor Seal)",
+      "total": 1,
+      "grade_75": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Kung Fu",
+      "state": 0,
+      "box_variant": "*Made in Japan, European Version",
+      "total": 11,
+      "grade_98": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 5
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Kung Fu",
+      "state": 0,
+      "box_variant": "*Made in Japan, Gloss Sticker - Distributed by Bandai, France & Netherlands Version",
+      "total": 1,
+      "grade_85": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Lucky Bingo",
+      "state": 0,
+      "box_variant": "*No Country, Italian Version",
+      "total": 1,
+      "grade_75": [
+        {
+          "c_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Maniac Mansion",
+      "state": 0,
+      "box_variant": "*Made in Japan, Spanish PAL B Version",
+      "total": 1,
+      "grade_98": [
+        {
+          "no_seal": 1
+        }
+      ]
+    },
+    {
+      "title": "Mario & Yoshi",
+      "state": 0,
+      "box_variant": "*Made in Japan, Gloss Sticker - Distributed by GiG, Italian Version",
+      "total": 11,
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 3
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_85": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_80": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Mario Bros.",
+      "state": 0,
+      "box_variant": "*Made in Japan, Hangtab - Gloss Sticker - Distributed by Mattel, UK/Italian Version",
+      "total": 1,
+      "grade_85": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Metroid",
+      "state": 0,
+      "box_variant": "*Made in Japan, Hangtab - Gloss Sticker - Distributed by Mattel, Italian Version",
+      "total": 1,
+      "grade_80": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pac-Man",
+      "state": 0,
+      "box_variant": "*Made in Japan, Gloss Sticker - Distributed by Nintendo, France & Netherlands Version",
+      "total": 1,
+      "grade_75": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pin-Bot",
+      "state": 0,
+      "box_variant": "*Made in Japan, Gloss Sticker - Distributed by Mattel, Australian Version",
+      "total": 1,
+      "grade_92": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pinball",
+      "state": 0,
+      "box_variant": "*Made in Japan, Hangtab - Gloss Sticker - Distributed by Mattel/Wonderland, UK/Australian/Italian Version",
+      "total": 1,
+      "grade_70": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Probotector",
+      "state": 0,
+      "box_variant": "*Made in Japan, EEC PAL B Version",
+      "total": 1,
+      "grade_94": [
+        {
+          "no_seal": 1
+        }
+      ]
+    },
+    {
+      "title": "Punch-Out!!",
+      "state": 0,
+      "box_variant": "*Made in Japan, Gloss Sticker - Distributed by Bandai, France & Netherlands Version",
+      "total": 1,
+      "grade_75": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Rad Racer",
+      "state": 0,
+      "box_variant": "*Made in Japan, European Version",
+      "total": 4,
+      "grade_96": [
+        {
+          "no_seal": 1
+        },
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Rad Racer",
+      "state": 0,
+      "box_variant": "*Made in Japan, European Version (Distributor Seal)",
+      "total": 1,
+      "grade_98": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Return to Earth",
+      "state": 0,
+      "box_variant": "*Made in Brazil, Brazilian Version",
+      "total": 1,
+      "grade_92": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Stadium Events",
+      "state": 0,
+      "box_variant": "*Made in Japan, European PAL B Version",
+      "total": 1,
+      "grade_94": [
+        {
+          "no_seal": 1
+        }
+      ]
+    },
+    {
+      "title": "Stealth ATF",
+      "state": 0,
+      "box_variant": "*Made in Japan, Gloss Sticker - Distributed by Mattel, UK/Italian Version",
+      "total": 1,
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Super Mario Bros.",
+      "state": 0,
+      "box_variant": "*Made in Japan, European Version",
+      "total": 2,
+      "grade_96": [
+        {
+          "no_seal": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "no_seal": 1
+        }
+      ]
+    },
+    {
+      "title": "Super Mario Bros.",
+      "state": 0,
+      "box_variant": "*Made in Japan, Hangtab - Distributed by Bandai, France & Netherlands Version",
+      "total": 1,
+      "grade_80": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Super Mario Bros.",
+      "state": 0,
+      "box_variant": "*Made in Japan, Hangtab - Gloss Sticker - Distributed by Mattel - Round SOQ, UK/Italian Version",
+      "total": 1,
+      "grade_70": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Super Mario Bros.",
+      "state": 0,
+      "box_variant": "*Unidentified Legacy Variant, Asian Version",
+      "total": 1,
+      "grade_94": [
+        {
+          "no_seal": 1
+        }
+      ]
+    },
+    {
+      "title": "Teenage Mutant Hero Turtles",
+      "state": 0,
+      "box_variant": "*Made in Japan, Uncategorized Legacy Variant, PAL B Version",
+      "total": 6,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "no_seal": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "no_seal": 1
+        }
+      ]
+    },
+    {
+      "title": "Tetris",
+      "state": 0,
+      "box_variant": "*Made in Japan, Asian Version",
+      "total": 2,
+      "grade_85": [
+        {
+          "no_seal": 2
+        }
+      ]
+    },
+    {
+      "title": "The Legend of Zelda",
+      "state": 0,
+      "box_variant": "*Made in Japan, Distributed by Spaco, Spanish Version",
+      "total": 25,
+      "grade_98": [
+        {
+          "no_seal": 4
+        },
+        {
+          "a_plus_plus": 4
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "no_seal": 5
+        },
+        {
+          "a_plus_plus": 4
+        },
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "no_seal": 2
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "no_seal": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "The Legend of Zelda",
+      "state": 0,
+      "box_variant": "*Made in Japan, European Version",
+      "total": 1,
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "The Legend of Zelda",
+      "state": 0,
+      "box_variant": "*Made in Japan, Gloss Sticker - Distributed by Mattel, Italian Version",
+      "total": 1,
+      "grade_70": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "The Smurfs",
+      "state": 0,
+      "box_variant": "*Made in Japan, Greek Inserts Included, German PAL B Version",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "To the Earth",
+      "state": 0,
+      "box_variant": "*Made in Japan, Uncategorized Legacy Variant, Spanish Version",
+      "total": 1,
+      "grade_96": [
+        {
+          "no_seal": 1
+        }
+      ]
+    },
+    {
+      "title": "Trojan",
+      "state": 0,
+      "box_variant": "*Made in Brazil, Brazilian Version",
+      "total": 1,
+      "grade_85": [
+        {
+          "c": 1
+        }
+      ]
+    },
+    {
+      "title": "Wario's Woods",
+      "state": 0,
+      "box_variant": "*Made in Japan, Gloss Sticker - Distributed by GIG, Italian Version",
+      "total": 1,
+      "grade_85": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Wild Gunman",
+      "state": 0,
+      "box_variant": "*Made in Japan, Distributed by Spaco, Spanish Version",
+      "total": 22,
+      "grade_98": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "no_seal": 2
+        },
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "no_seal": 4
+        }
+      ],
+      "grade_92": [
+        {
+          "no_seal": 5
+        }
+      ],
+      "grade_90": [
+        {
+          "no_seal": 4
+        }
+      ],
+      "grade_85": [
+        {
+          "no_seal": 4
+        }
+      ]
+    },
+    {
+      "title": "Wild Gunman",
+      "state": 0,
+      "box_variant": "*Made in Japan, Hangtab - Gloss Sticker - Distributed by Mattel, UK/Italian Version",
+      "total": 1,
+      "grade_70": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Zelda II: The Adventure of Link",
+      "state": 0,
+      "box_variant": "*Made in Brazil, Brazilian Version",
+      "total": 1,
+      "grade_80": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Zelda II: The Adventure of Link",
+      "state": 0,
+      "box_variant": "*Made in Japan, Gloss Sticker - Distributed by Bandai - Round SOQ, France & Netherlands Version",
+      "total": 2,
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_65_below": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Zelda II: The Adventure of Link",
+      "state": 0,
+      "box_variant": "*Made in Japan, Gloss Sticker - Distributed by Mattel - Round SOQ, UK/Italian Version",
+      "total": 1,
+      "grade_75": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    }
+  ]
+}

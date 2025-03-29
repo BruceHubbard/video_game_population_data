@@ -1,0 +1,8202 @@
+{
+  "fields": [
+    "title",
+    "state",
+    "box_variant",
+    "total",
+    "not_graded",
+    "grade_gen",
+    "grade_pro",
+    "grade_100",
+    "grade_98",
+    "grade_96",
+    "grade_94",
+    "grade_92",
+    "grade_90",
+    "grade_85",
+    "grade_80",
+    "grade_75",
+    "grade_70",
+    "grade_65",
+    "grade_below_65"
+  ],
+  "populations": [
+    {
+      "title": ".hack//G.U. Last Recode",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "13 Sentinels: Aegis Rim",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "8-Bit Armies",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "A Plague Tale: Innocence",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "A Way Out",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Absolver",
+      "state": 0,
+      "box_variant": "*Made in USA, Limited Run Cover",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Alien: Isolation - Nostromo Edition",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Among Us",
+      "state": 0,
+      "box_variant": "*Made in USA, Crewmate Edition",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Antarctica 88",
+      "state": 0,
+      "box_variant": "*Made in Austria, FOMO Cover",
+      "total": 6,
+      "grade_98": [
+        {
+          "a_plus_plus": 5
+        },
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Antarctica 88",
+      "state": 0,
+      "box_variant": "*Made in Austria, Standard Cover",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Anthem",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 2,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Anthem",
+      "state": 0,
+      "box_variant": "*Made in USA, Legion of Dawn Edition",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Apex Legends",
+      "state": 0,
+      "box_variant": "*Made in USA, Bloodhound Edition",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Apex Legends",
+      "state": 0,
+      "box_variant": "*Made in USA, Bloodhound Edition, Canadian Version",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Apex Legends",
+      "state": 0,
+      "box_variant": "*Made in USA, Lifeline Edition",
+      "total": 4,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Apex Legends",
+      "state": 0,
+      "box_variant": "*Made in USA, Lifeline Edition, Canadian Version",
+      "total": 1,
+      "grade_98": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Ark: Survival Evolved",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Assassin's Creed IV: Black Flag",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Assassin's Creed IV: Black Flag",
+      "state": 0,
+      "box_variant": "*Made in USA, Canadian Version",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Assassin's Creed IV: Black Flag",
+      "state": 0,
+      "box_variant": "*Made in USA, GameStop Edition",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Assassin's Creed Origins",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Assassin's Creed Syndicate",
+      "state": 0,
+      "box_variant": "*Made in USA, Limited Edition",
+      "total": 1,
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Assassin's Creed Unity",
+      "state": 0,
+      "box_variant": "*Made in USA, Limited Edition",
+      "total": 1,
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Assassin's Creed Valhalla",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Assassin's Creed: The Ezio Collection",
+      "state": 0,
+      "box_variant": "*Made in USA, Movie Ticket Included",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Assassin's Creed: The Ezio Collection",
+      "state": 0,
+      "box_variant": "Event Exclusive - Collect-A-Con (February 26-27, 2023)",
+      "total": 25,
+      "grade_98": [
+        {
+          "a_plus_plus": 16
+        },
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 6
+        }
+      ],
+      "grade_65_below": [
+        {
+          "no_seal": 1
+        }
+      ]
+    },
+    {
+      "title": "Atelier Lulua: The Scion of Arland",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Atelier Ryza 2: Lost Legends & the Secret Fairy",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Attack on Titan 2",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Babylon's Fall",
+      "state": 0,
+      "box_variant": "*Made in USA, Latin American Version",
+      "total": 1,
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Balan Wonderworld",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Batman: Arkham Knight",
+      "state": 0,
+      "box_variant": "*Made in USA, Harley Quinn Story Pack Sticker",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Batman: Arkham Knight",
+      "state": 0,
+      "box_variant": "*Made in USA, Harley Quinn Story Pack Sticker, Canadian Version",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Batman: Arkham Knight",
+      "state": 0,
+      "box_variant": "*Made in USA, NFR (Console Pack-In), Canadian Version",
+      "total": 1,
+      "grade_92": [
+        {
+          "c_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Batman: Arkham Knight",
+      "state": 0,
+      "box_variant": "*Made in USA, PlayStation Exclusive DLC Sticker",
+      "total": 3,
+      "grade_96": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_90": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Battlefield 1",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Battlefield 1",
+      "state": 0,
+      "box_variant": "*Made in USA, Early Enlister Deluxe Edition",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Battlefield 1",
+      "state": 0,
+      "box_variant": "*Made in USA, Standard Edition",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Battlefield 4",
+      "state": 0,
+      "box_variant": "*Made in USA, Canadian Version",
+      "total": 1,
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Battlefield V",
+      "state": 0,
+      "box_variant": "*Made in USA, Deluxe Edition",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Berserk and the Band of the Hawk",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Biomutant",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Black Clover: Quartet Knights",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "BloodRayne: Revamped",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Bloodborne",
+      "state": 0,
+      "box_variant": "*Made in USA, Canadian Version",
+      "total": 4,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Bloodborne",
+      "state": 0,
+      "box_variant": "*Made in USA, Standard Edition",
+      "total": 94,
+      "grade_98": [
+        {
+          "a_plus_plus": 26
+        },
+        {
+          "a_plus": 21
+        },
+        {
+          "a": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 8
+        },
+        {
+          "a_plus": 12
+        },
+        {
+          "a": 5
+        }
+      ],
+      "grade_94": [
+        {
+          "b": 1
+        },
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 7
+        },
+        {
+          "a": 3
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a": 3
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "b_plus": 1
+        }
+      ],
+      "grade_80": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Bloodrayne 2: Revamped",
+      "state": 0,
+      "box_variant": "*Made in Austria",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Bloodrayne Betrayal: Fresh Bites",
+      "state": 0,
+      "box_variant": "*Made in Austria",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Bloodstained: Curse of the Moon",
+      "state": 0,
+      "box_variant": "*Made in USA, PAX Exclusive Cover",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Bloodstained: Curse of the Moon 2",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Blue Reflection",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Borderlands 3",
+      "state": 0,
+      "box_variant": "*Made in USA, Gold Weapon Skins Included",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Boxville",
+      "state": 0,
+      "box_variant": "*Made in Austria, Ink and Wash Cover",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Breach & Clear: Deadline",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Call of Duty: Black Ops III",
+      "state": 0,
+      "box_variant": "*Made in USA, Standard Edition - 206 Part Code",
+      "total": 2,
+      "grade_96": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Call of Duty: Black Ops IIII",
+      "state": 0,
+      "box_variant": "*Made in USA, 88225 Product Code",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Call of Duty: Infinite Warfare",
+      "state": 0,
+      "box_variant": "*Made in USA, Legacy Edition",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Call of Duty: Infinite Warfare",
+      "state": 0,
+      "box_variant": "*Made in USA, Standard Edition",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Call of Duty: Modern Warfare",
+      "state": 0,
+      "box_variant": "*Made in USA, 207 Part Code, Canadian Version",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Call of Duty: Modern Warfare",
+      "state": 0,
+      "box_variant": "*Made in USA, Standard Edition",
+      "total": 34,
+      "grade_98": [
+        {
+          "a_plus_plus": 28
+        },
+        {
+          "a_plus": 4
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Call of Duty: Modern Warfare Remastered",
+      "state": 0,
+      "box_variant": "*Made in USA, 207 Part  Code",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Call of Duty: WWII",
+      "state": 0,
+      "box_variant": "*Made in USA, Gold Edition",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Call of Duty: WWII",
+      "state": 0,
+      "box_variant": "*Made in USA, Standard Edition - 88152 Product Code - 206 Part Code",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Call of Duty: WWII",
+      "state": 0,
+      "box_variant": "*Made in USA, Standard Edition - 88152 Product Code - 207 Part Code",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Capcom Fighting Collection",
+      "state": 0,
+      "box_variant": "*Made in Austria",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Cars 3: Driven to Win",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_94": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Castlevania Anniversary Collection",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Castlevania Anniversary Collection",
+      "state": 0,
+      "box_variant": "*Made in USA, Best Buy Exclusive Cover",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Castlevania Anniversary Collection",
+      "state": 0,
+      "box_variant": "*Made in USA, Standard Cover",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Castlevania Requiem: Symphony of the Night & Rondo of Blood",
+      "state": 0,
+      "box_variant": "*Made in Austria",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Celeste",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 2,
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Chronos: Before the Ashes",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Crash Bandicoot N. Sane Trilogy",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Crisis Core: Final Fantasy VII Reunion",
+      "state": 0,
+      "box_variant": "*Made in Austria",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Croixleur Sigma",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Cuphead",
+      "state": 0,
+      "box_variant": "*Made in Austria",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Cyberpunk 2077",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 2,
+      "grade_98": [
+        {
+          "no_seal": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "no_seal": 1
+        }
+      ]
+    },
+    {
+      "title": "Danganronpa Trilogy",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 2,
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Dangun Feveron",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Dark Souls II: Scholar of the First Sin",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Dark Souls III",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Dark Souls III",
+      "state": 0,
+      "box_variant": "*Made in USA, The Fire Fades Edition",
+      "total": 2,
+      "grade_96": [
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Dark Souls Remastered",
+      "state": 0,
+      "box_variant": "*Made in Austria",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Dark Souls Remastered",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Darksiders II: Deathinitive Edition",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Darksiders III",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Days Gone",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Dead by Daylight",
+      "state": 0,
+      "box_variant": "*Made in USA, Nightmare Edition",
+      "total": 4,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a": 2
+        }
+      ],
+      "grade_90": [
+        {
+          "c": 1
+        }
+      ]
+    },
+    {
+      "title": "Dead by Daylight",
+      "state": 0,
+      "box_variant": "*Made in USA, Special Edition",
+      "total": 5,
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Dead by Daylight",
+      "state": 0,
+      "box_variant": "*Made in USA, Uncategorized Legacy Variant",
+      "total": 30,
+      "grade_98": [
+        {
+          "a_plus_plus": 22
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 5
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Deadpool",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Death Park",
+      "state": 0,
+      "box_variant": "*Made in Austria, Mysterious Anonymous Street Artist FOMO Cover",
+      "total": 1,
+      "grade_100": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Death Stranding",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Death Stranding",
+      "state": 0,
+      "box_variant": "*Made in USA, Special Edition",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Demon Pit",
+      "state": 0,
+      "box_variant": "*Made in Austria, Golden DP",
+      "total": 2,
+      "grade_96": [
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Demon Pit ",
+      "state": 0,
+      "box_variant": "*Made in Austria",
+      "total": 13,
+      "grade_96": [
+        {
+          "a_plus_plus": 4
+        },
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Destiny",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 6,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "b_plus": 1
+        },
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_90": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Destiny 2",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 6,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 4
+        },
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Destiny 2",
+      "state": 0,
+      "box_variant": "*Made in USA, Add Expansion Pass Sticker",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Destiny: The Collection",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Destiny: The Taken King - Legendary Edition",
+      "state": 0,
+      "box_variant": "*Made in USA, \"The Complete Destiny Collection\" Text Sticker",
+      "total": 2,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Destiny: The Taken King - Legendary Edition",
+      "state": 0,
+      "box_variant": "*Made in USA, No Sticker",
+      "total": 1,
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Detroit: Become Human",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 4,
+      "grade_98": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Devil May Cry 5",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Devil May Cry 5",
+      "state": 0,
+      "box_variant": "*Made in USA, Deluxe Edition",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Diablo III: Eternal Collection",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Dissidia Final Fantasy NT",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "DmC: Devil May Cry Definitive Edition",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_96": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Doom",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Doom 64",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Doom 64",
+      "state": 0,
+      "box_variant": "*No Country, Classic Edition",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Doom Eternal Promotional Case",
+      "state": 0,
+      "box_variant": "*Steelbook",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Doom: The Classics Collection",
+      "state": 0,
+      "box_variant": "*Made in USA, Reversible Cover (DOOM)",
+      "total": 6,
+      "grade_98": [
+        {
+          "a_plus_plus": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Dragon Ball FighterZ",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Dragon Ball Xenoverse",
+      "state": 0,
+      "box_variant": "*Made in USA, Day One Edition - Slipcover",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Dragon Ball Z: Kakarot",
+      "state": 0,
+      "box_variant": "*Made in USA, Bandai Namco Entertainment Logo",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Dragon Ball Z: Kakarot",
+      "state": 0,
+      "box_variant": "*Made in USA, Speech Bubble Logo",
+      "total": 2,
+      "grade_94": [
+        {
+          "a_plus_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Dragon Quest Builders",
+      "state": 0,
+      "box_variant": "*Made in USA, Day One Edition",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Dragon Quest Builders 2",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Dragon Quest Heroes II",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Dragon Quest Heroes II",
+      "state": 0,
+      "box_variant": "*Made in USA, Canadian Version",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus_plus": 3
+        }
+      ]
+    },
+    {
+      "title": "Dragon Quest Heroes: The World Tree's Woe and the Blight Below",
+      "state": 0,
+      "box_variant": "*Made in USA, Day One Edition",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 4,
+      "grade_98": [
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Dragon Quest XI: Echoes of an Elusive Age",
+      "state": 0,
+      "box_variant": "*Made in USA, Edition of Light",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Dragon's Lair Trilogy",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Driveclub",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_92": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Dying Light",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Dying Light",
+      "state": 0,
+      "box_variant": "*Made in USA, Awards & Nominations Sticker",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Dying Light",
+      "state": 0,
+      "box_variant": "*Made in USA, Awards & Nominations Sticker - Be the Zombie Sticker",
+      "total": 3,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Dynasty Warriors 9",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Earthlock: Festival of Magic",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Elden Ring",
+      "state": 0,
+      "box_variant": "*Made in USA, Bandai Namco Entertainment Logo",
+      "total": 4,
+      "grade_98": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Elden Ring",
+      "state": 0,
+      "box_variant": "*Made in USA, Speech Bubble Logo",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Elden Ring Promotional Case",
+      "state": 0,
+      "box_variant": "*Best Buy Exclusive Steelbook",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Ender Lilies: Quietus of the Knights",
+      "state": 0,
+      "box_variant": "*Made in Austria",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Erica",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Ever Forward",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "FIFA 16",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_94": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "FIFA 19 + Madden 19",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 2,
+      "grade_94": [
+        {
+          "b_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "FIFA 20",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "FIFA 20",
+      "state": 0,
+      "box_variant": "*Made in USA, Standard Edition",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "FIFA 21",
+      "state": 0,
+      "box_variant": "*Made in USA, Champions Edition",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Fallout 4",
+      "state": 0,
+      "box_variant": "*Made in USA, Perk Poster Included",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Fallout 76",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_92": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Far Cry 6",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Far Cry 6",
+      "state": 0,
+      "box_variant": "*Made in USA, Standard Edition",
+      "total": 1,
+      "grade_92": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Far Cry Primal",
+      "state": 0,
+      "box_variant": "*Made in USA, Canadian Version",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Far Cry Primal",
+      "state": 0,
+      "box_variant": "*Made in USA, Standard Edition",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Final Fantasy I-VI Collection",
+      "state": 0,
+      "box_variant": "*Made in Austria",
+      "total": 4,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 3
+        }
+      ]
+    },
+    {
+      "title": "Final Fantasy I-VI Collection",
+      "state": 0,
+      "box_variant": "*Made in Austria, Anniversary Edition, Canadian Version",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Final Fantasy Type-0 HD",
+      "state": 0,
+      "box_variant": "*Made in USA, Day One Edition",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Final Fantasy VII Remake",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Final Fantasy VII Remake",
+      "state": 0,
+      "box_variant": "*Made in USA, NFR (Deluxe Edition)",
+      "total": 5,
+      "grade_98": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Final Fantasy VII Remake",
+      "state": 0,
+      "box_variant": "*Made in USA, PlayStation Exclusive Content Sticker, Canadian Version",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Final Fantasy VII Remake",
+      "state": 0,
+      "box_variant": "*Made in USA, PlayStation Exclusive Content Sticker, Latin American Version",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Final Fantasy VII Remake",
+      "state": 0,
+      "box_variant": "*Made in USA, Timed Exclusive Sticker",
+      "total": 26,
+      "grade_98": [
+        {
+          "a_plus_plus": 3
+        },
+        {
+          "a_plus": 4
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 3
+        },
+        {
+          "a": 2
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 2
+        },
+        {
+          "a": 3
+        }
+      ],
+      "grade_92": [
+        {
+          "b_plus": 2
+        },
+        {
+          "a_plus": 4
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Final Fantasy VII Remake Promotional Case",
+      "state": 0,
+      "box_variant": "*Steelbook (Deluxe Edition)",
+      "total": 1,
+      "grade_98": [
+        {
+          "no_seal": 1
+        }
+      ]
+    },
+    {
+      "title": "Final Fantasy X/X-2 HD Remaster",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 4,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Final Fantasy X/X-2 HD Remaster",
+      "state": 0,
+      "box_variant": "*Made in USA, Canadian Version",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Final Fantasy XII: The Zodiac Age",
+      "state": 0,
+      "box_variant": "*Made in USA, 101 Part Code",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Final Fantasy XII: The Zodiac Age",
+      "state": 0,
+      "box_variant": "*Made in USA, 30th Anniversary Edition - 101F Part Code",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Final Fantasy XII: The Zodiac Age",
+      "state": 0,
+      "box_variant": "*Made in USA, Canadian Version",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Final Fantasy XII: The Zodiac Age",
+      "state": 0,
+      "box_variant": "*Made in USA, Limited Steelbook Edition",
+      "total": 4,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Final Fantasy XIV Online: The Complete Edition",
+      "state": 0,
+      "box_variant": "*Made in USA, 3 Expansions Included",
+      "total": 1,
+      "grade_90": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Final Fantasy XIV: A Realm Reborn",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_85": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Final Fantasy XIV: A Realm Reborn",
+      "state": 0,
+      "box_variant": "*Made in USA, Collector's Edition",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Final Fantasy XIV: Heavensward",
+      "state": 0,
+      "box_variant": "*Made in USA, Latin American Version",
+      "total": 1,
+      "grade_96": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Final Fantasy XIV: Shadowbringers",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 2,
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Final Fantasy XIV: Stormblood",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Final Fantasy XV",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Final Fantasy XV",
+      "state": 0,
+      "box_variant": "*Made in USA, Day One Edition",
+      "total": 17,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 3
+        },
+        {
+          "a": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 6
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "b_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_80": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Final Fantasy XV",
+      "state": 0,
+      "box_variant": "*Made in USA, Deluxe Edition",
+      "total": 2,
+      "grade_98": [
+        {
+          "b": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Final Fantasy XV",
+      "state": 0,
+      "box_variant": "*Made in USA, Royal Edition - 6 GB Minimum Error",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Final Fantasy XV",
+      "state": 0,
+      "box_variant": "*Made in USA, Royal Edition - 90GB Minimum",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Firewatch",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 7,
+      "grade_96": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 4
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Five Nights at Freddy's: The Core Collection",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Fortnite",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 72,
+      "grade_98": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 8
+        }
+      ],
+      "grade_96": [
+        {
+          "b_plus": 2
+        },
+        {
+          "a_plus_plus": 4
+        },
+        {
+          "a_plus": 18
+        },
+        {
+          "a": 7
+        }
+      ],
+      "grade_94": [
+        {
+          "b_plus": 3
+        },
+        {
+          "a_plus": 5
+        },
+        {
+          "a": 9
+        }
+      ],
+      "grade_92": [
+        {
+          "b_plus": 1
+        },
+        {
+          "b": 2
+        },
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_90": [
+        {
+          "a": 2
+        }
+      ],
+      "grade_85": [
+        {
+          "b_plus": 1
+        },
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_75": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Fortnite",
+      "state": 0,
+      "box_variant": "*Made in USA, Storm Master Weapon Pack",
+      "total": 58,
+      "grade_98": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "b_plus": 3
+        },
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 6
+        },
+        {
+          "a": 6
+        }
+      ],
+      "grade_94": [
+        {
+          "b": 1
+        },
+        {
+          "a_plus": 9
+        },
+        {
+          "a": 10
+        }
+      ],
+      "grade_92": [
+        {
+          "b_plus": 1
+        },
+        {
+          "a_plus": 3
+        },
+        {
+          "a": 3
+        }
+      ],
+      "grade_90": [
+        {
+          "b_plus": 1
+        },
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 2
+        }
+      ],
+      "grade_85": [
+        {
+          "b_plus": 1
+        },
+        {
+          "b": 1
+        }
+      ],
+      "grade_80": [
+        {
+          "a": 4
+        }
+      ],
+      "grade_75": [
+        {
+          "b_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Fortnite",
+      "state": 0,
+      "box_variant": "*Made in USA, Storm Master Weapon Pack, Canadian Version",
+      "total": 1,
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Fortnite: Deep Freeze Bundle",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 2,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Fortnite: Deep Freeze Bundle",
+      "state": 0,
+      "box_variant": "*Made in USA, Canadian Version",
+      "total": 1,
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Fortnite: Last Laugh Bundle",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Fortnite: Last Laugh Bundle",
+      "state": 0,
+      "box_variant": "*Made in USA, Canadian Version",
+      "total": 1,
+      "grade_96": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Fortnite: Minty Legends Pack",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Fortnite: The Last Laugh Bundle",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 5,
+      "grade_98": [
+        {
+          "a_plus_plus": 4
+        },
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Friday the 13th: The Game",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 3,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Friday the 13th: The Game",
+      "state": 0,
+      "box_variant": "*Made in USA, Ultimate Slasher Edition",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Frostpunk: Console Edition",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Gal Gunvolt Burst",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Garou: Mark of the Wolves",
+      "state": 0,
+      "box_variant": "*Made in USA, Reversible Cover (Fighter Roster)",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Ghost of Tsushima",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_90": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Ghost of Tsushima",
+      "state": 0,
+      "box_variant": "*Made in USA, Launch Edition",
+      "total": 12,
+      "grade_98": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 3
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Ghost of Tsushima",
+      "state": 0,
+      "box_variant": "*Made in USA, Special Edition",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Ghost of Tsushima",
+      "state": 0,
+      "box_variant": "*Made in USA, Standard Edition - AC Part Code",
+      "total": 1,
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Ghost of Tsushima",
+      "state": 0,
+      "box_variant": "*Made in USA, Standard Edition - AC_R1 Part Code",
+      "total": 2,
+      "grade_96": [
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "God Eater 2: Rage Burst",
+      "state": 0,
+      "box_variant": "*Made in USA, Day One Edition",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "God of War",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 64,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 5
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 3
+        },
+        {
+          "a_plus": 21
+        },
+        {
+          "a": 5
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 19
+        },
+        {
+          "a": 3
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 2
+        }
+      ]
+    },
+    {
+      "title": "God of War",
+      "state": 0,
+      "box_variant": "*Made in USA, Canadian Version",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "God of War",
+      "state": 0,
+      "box_variant": "*Made in USA, NFR (Console Pack-In)",
+      "total": 3,
+      "grade_96": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "God of War",
+      "state": 0,
+      "box_variant": "*Made in USA, Playstation Hits",
+      "total": 30,
+      "grade_98": [
+        {
+          "a_plus_plus": 26
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 3
+        }
+      ]
+    },
+    {
+      "title": "God of War III Remastered",
+      "state": 0,
+      "box_variant": "*Made in USA, Canadian Version",
+      "total": 30,
+      "grade_98": [
+        {
+          "a_plus_plus": 21
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 3
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 5
+        }
+      ]
+    },
+    {
+      "title": "God of War III Remastered",
+      "state": 0,
+      "box_variant": "*Made in USA, SCE Logo",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "God of War III Remastered",
+      "state": 0,
+      "box_variant": "*Made in USA, SIE Logo",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "God of War Ragnarok",
+      "state": 0,
+      "box_variant": "*Made in Austria, Launch Edition",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "God of War Ragnarok",
+      "state": 0,
+      "box_variant": "*Made in Austria, Launch Edition, Canadian Version",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "God of War Ragnarok",
+      "state": 0,
+      "box_variant": "*Made in Austria, Standard Edition",
+      "total": 6,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Godzilla: The Game",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 8,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 2
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Golem",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Grand Theft Auto V",
+      "state": 0,
+      "box_variant": "*Made in USA, Canadian Version",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Grand Theft Auto V",
+      "state": 0,
+      "box_variant": "*Made in USA, Player Data Transfer - 47452 Part Code",
+      "total": 2,
+      "grade_90": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Grand Theft Auto V",
+      "state": 0,
+      "box_variant": "*Made in USA, Player Data Transfer - 47525 Part Code",
+      "total": 4,
+      "grade_96": [
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Grand Theft Auto V",
+      "state": 0,
+      "box_variant": "*Made in USA, Premium Edition - 3 Part Code",
+      "total": 9,
+      "grade_98": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 2
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Grand Theft Auto V",
+      "state": 0,
+      "box_variant": "*Made in USA, Premium Edition - 3REV1 Part Code",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Grand Theft Auto V",
+      "state": 0,
+      "box_variant": "*Made in USA, Premium Edition, Latin American Version",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Grand Theft Auto V",
+      "state": 0,
+      "box_variant": "*Made in USA, Premium Online Edition",
+      "total": 2,
+      "grade_98": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Grand Theft Auto: The Trilogy - The Definitive Edition",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 4,
+      "grade_98": [
+        {
+          "a_plus_plus": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Grandia HD Collection",
+      "state": 0,
+      "box_variant": "*Made in Austria",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Gravity Rush 2",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 5,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 4
+        }
+      ]
+    },
+    {
+      "title": "Gravity Rush Remastered",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 46,
+      "grade_98": [
+        {
+          "a_plus_plus": 27
+        },
+        {
+          "a_plus": 5
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 9
+        }
+      ]
+    },
+    {
+      "title": "Grim Fandango Remastered",
+      "state": 0,
+      "box_variant": "*Made in Austria, Limited Run Release",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Grim Fandango Remastered",
+      "state": 0,
+      "box_variant": "*Made in USA, iam8bit Release",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Grim Fandango Remastered",
+      "state": 0,
+      "box_variant": "*Made in USA, iam8bit Release - UPC Printed Slipcover",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Guardians of the Galaxy: The Telltale Series",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Hellblade: Senua's Sacrifice",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Hello Neighbor",
+      "state": 0,
+      "box_variant": "*Made in USA, No Title Misprint, Canadian Version",
+      "total": 4,
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_80": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Hogwarts Legacy",
+      "state": 0,
+      "box_variant": "*Made in Austria, Deluxe Edition",
+      "total": 1,
+      "grade_98": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Horizon Forbidden West",
+      "state": 0,
+      "box_variant": "*Made in USA, Launch Edition",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Horizon Zero Dawn",
+      "state": 0,
+      "box_variant": "*Made in USA, Canadian Version",
+      "total": 4,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Horizon Zero Dawn",
+      "state": 0,
+      "box_variant": "*Made in USA, Complete Edition - AC Part Code",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Horizon Zero Dawn",
+      "state": 0,
+      "box_variant": "*Made in USA, Complete Edition - AC_R1 Part Code",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Horizon Zero Dawn",
+      "state": 0,
+      "box_variant": "*Made in USA, Complete Edition - AC_R3 Part Code",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Horizon Zero Dawn",
+      "state": 0,
+      "box_variant": "*Made in USA, Review Quotes",
+      "total": 8,
+      "grade_96": [
+        {
+          "a_plus": 3
+        },
+        {
+          "a": 2
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 2
+        },
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Horizon Zero Dawn",
+      "state": 0,
+      "box_variant": "*Made in USA, Standard Edition",
+      "total": 29,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 4
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 7
+        },
+        {
+          "a": 2
+        }
+      ],
+      "grade_94": [
+        {
+          "b_plus": 1
+        },
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 5
+        },
+        {
+          "a": 2
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 4
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Horror Tales: The Wine",
+      "state": 0,
+      "box_variant": "*Made in Austria",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Hyper Light Drifter",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Ikai",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Injustice 2",
+      "state": 0,
+      "box_variant": "*Made in USA, Standard Edition - 55233 Product Code",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Inside",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Insurgency: Sandstorm",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "It Takes Two",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Jak 3",
+      "state": 0,
+      "box_variant": "*Made in USA, Reversible Cover (Wasteland Palace)",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Jak II",
+      "state": 0,
+      "box_variant": "*Made in USA, Reversible Cover (Jak and Daxter)",
+      "total": 3,
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Jak IV (Mock-Up Case)",
+      "state": 0,
+      "box_variant": "*Mock Case",
+      "total": 2,
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Jak and Daxter: The Precursor Legacy",
+      "state": 0,
+      "box_variant": "*Made in USA, Reversible Cover (Precursor Orb)",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Jak and Daxter: The Precursor Legacy",
+      "state": 0,
+      "box_variant": "*Made in USA, Reversible Cover (Silhouette)",
+      "total": 2,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Job Simulator",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "John Wick Hex",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Jump Force",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 30,
+      "grade_98": [
+        {
+          "a_plus_plus": 22
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 2
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 2
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 3
+        }
+      ]
+    },
+    {
+      "title": "Killzone: Shadow Fall",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Kingdom Hearts III",
+      "state": 0,
+      "box_variant": "*Made in USA, Canadian Version",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Kingdom Hearts III",
+      "state": 0,
+      "box_variant": "*Made in USA, Standard Edition",
+      "total": 8,
+      "grade_98": [
+        {
+          "a_plus_plus": 4
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Kingdom Hearts: The Story So Far",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_80": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Kingdom Hearts: The Story So Far",
+      "state": 0,
+      "box_variant": "*Made in USA, Canadian Version",
+      "total": 2,
+      "grade_85": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_75": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "LEGO Star Wars: The Force Awakens",
+      "state": 0,
+      "box_variant": "*Made in USA, Standard Edition",
+      "total": 2,
+      "grade_96": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "LEGO Star Wars: The Skywalker Saga",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Leisure Suit Larry: Wet Dreams Saga",
+      "state": 0,
+      "box_variant": "*Made in Austria",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Life Is Strange",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Life Is Strange 2",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Life Is Strange: Before the Storm",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Life Is Strange: Before the Storm",
+      "state": 0,
+      "box_variant": "*Made in USA, Canadian Version",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Little Nightmares",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "LittleBigPlanet 3",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "MLB The Show 17",
+      "state": 0,
+      "box_variant": "*Made in USA, AC_R1 Part Code",
+      "total": 1,
+      "grade_92": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "MLB The Show 18",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "MLB The Show 20",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "MLB The Show 22",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 9,
+      "grade_98": [
+        {
+          "a_plus": 6
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "MLB The Show 22",
+      "state": 0,
+      "box_variant": "*Made in USA, MVP Edition SteelBook",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "MLB The Show 22",
+      "state": 0,
+      "box_variant": "*Made in USA, MVP Edition Steelbook",
+      "total": 6,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 2
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "b_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Madden NFL 15",
+      "state": 0,
+      "box_variant": "*Made in USA, Canadian Version",
+      "total": 1,
+      "grade_80": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Madden NFL 16",
+      "state": 0,
+      "box_variant": "*Made in USA, Deluxe Edition",
+      "total": 1,
+      "grade_85": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Madden NFL 17",
+      "state": 0,
+      "box_variant": "*Made in USA, Deluxe Edition",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Madden NFL 17",
+      "state": 0,
+      "box_variant": "*Made in USA, Standard Edition",
+      "total": 1,
+      "grade_92": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Madden NFL 18",
+      "state": 0,
+      "box_variant": "*Made in USA, G.O.A.T. Edition",
+      "total": 8,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 2
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "b_plus": 1
+        },
+        {
+          "a": 2
+        }
+      ]
+    },
+    {
+      "title": "Madden NFL 18",
+      "state": 0,
+      "box_variant": "*Made in USA, Standard Edition",
+      "total": 2,
+      "grade_92": [
+        {
+          "b_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Madden NFL 19",
+      "state": 0,
+      "box_variant": "*Made in USA, Standard Edition",
+      "total": 2,
+      "grade_96": [
+        {
+          "b": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Madden NFL 20",
+      "state": 0,
+      "box_variant": "*Made in USA, Best in Show Winner",
+      "total": 1,
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Madden NFL 20",
+      "state": 0,
+      "box_variant": "*Made in USA, Standard Edition",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Madden NFL 20",
+      "state": 0,
+      "box_variant": "*Made in USA, Superstar Edition",
+      "total": 2,
+      "grade_98": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Madden NFL 21",
+      "state": 0,
+      "box_variant": "*Made in USA, Deluxe Edition, Canadian Version",
+      "total": 1,
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Madden NFL 21",
+      "state": 0,
+      "box_variant": "*Made in USA, MVP Edition",
+      "total": 2,
+      "grade_96": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Madden NFL 21",
+      "state": 0,
+      "box_variant": "*Made in USA, Standard Edition - 1601 Part Code",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Madden NFL 21",
+      "state": 0,
+      "box_variant": "*Made in USA, Standard Edition - 1611 Part Code",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Madden NFL 22",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 4,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Madden NFL 22",
+      "state": 0,
+      "box_variant": "*Made in USA, MVP Edition",
+      "total": 3,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "b_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Madden NFL 22 Promotional Case",
+      "state": 0,
+      "box_variant": "*Walmart Exclusive Steelbook",
+      "total": 3,
+      "grade_96": [
+        {
+          "no_seal": 3
+        }
+      ]
+    },
+    {
+      "title": "Madden NFL 25",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 2,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Marvel vs. Capcom: Infinite",
+      "state": 0,
+      "box_variant": "*Made in USA, Standard Edition",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Marvel's Avengers",
+      "state": 0,
+      "box_variant": "*Made in USA, Deluxe Edition",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Marvel's Avengers",
+      "state": 0,
+      "box_variant": "*Made in USA, Standard Edition",
+      "total": 2,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Marvel's Avengers",
+      "state": 0,
+      "box_variant": "*Made in USA, Standard Edition - PS5 Upgrade",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Marvel's Guardians of the Galaxy",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Marvel's Spider-Man",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 15,
+      "grade_96": [
+        {
+          "a_plus": 5
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 6
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a": 2
+        }
+      ],
+      "grade_90": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Marvel's Spider-Man",
+      "state": 0,
+      "box_variant": "*Made in USA, \"In-Game Purchases\" Text",
+      "total": 6,
+      "grade_96": [
+        {
+          "a_plus": 3
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Marvel's Spider-Man",
+      "state": 0,
+      "box_variant": "*Made in USA, GOTY - DLC Expires 08/28/2022",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Marvel's Spider-Man",
+      "state": 0,
+      "box_variant": "*Made in USA, GOTY - DLC Expires 10/20/2023",
+      "total": 2,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Marvel's Spider-Man",
+      "state": 0,
+      "box_variant": "*Made in USA, GOTY - DLC Expires 3/31/2026",
+      "total": 31,
+      "grade_98": [
+        {
+          "a_plus_plus": 11
+        },
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 10
+        },
+        {
+          "a_plus": 4
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Marvel's Spider-Man",
+      "state": 0,
+      "box_variant": "*Made in USA, NFR (Console Pack-In)",
+      "total": 4,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 2
+        }
+      ]
+    },
+    {
+      "title": "Marvel's Spider-Man: Miles Morales",
+      "state": 0,
+      "box_variant": "*Made in Austria, Standard Edition",
+      "total": 34,
+      "grade_98": [
+        {
+          "a_plus_plus": 30
+        },
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Marvel's Spider-Man: Miles Morales",
+      "state": 0,
+      "box_variant": "*Made in USA, Launch Edition",
+      "total": 5,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 2
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Marvel's Spider-Man: Miles Morales",
+      "state": 0,
+      "box_variant": "*Made in USA, Uncategorized Legacy Variant",
+      "total": 30,
+      "grade_98": [
+        {
+          "a_plus_plus": 19
+        },
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 8
+        },
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Mass Effect Legendary Edition",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Mega Man 11",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Mega Man Legacy Collection 2",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Mega Man X Legacy Collection 1 + 2",
+      "state": 0,
+      "box_variant": "*Made in USA, Canadian Version",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Metal Gear Solid V: Ground Zeroes",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Metal Gear Solid V: The Definitive Experience",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Metal Gear Solid V: The Definitive Experience",
+      "state": 0,
+      "box_variant": "*Made in USA, PlayStation Hits",
+      "total": 1,
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Metal Gear Solid V: The Phantom Pain",
+      "state": 0,
+      "box_variant": "*Made in USA, CS Part Code",
+      "total": 2,
+      "grade_96": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Metal Gear Solid V: The Phantom Pain",
+      "state": 0,
+      "box_variant": "*Made in USA, Day One Edition",
+      "total": 4,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "b_plus": 1
+        },
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Metal Gear Solid V: The Phantom Pain",
+      "state": 0,
+      "box_variant": "*Made in USA, Review Quotes",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Metal Gear Survive",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Middle-earth: Shadow of Mordor",
+      "state": 0,
+      "box_variant": "*Made in USA, Foil Cover",
+      "total": 1,
+      "grade_85": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Middle-earth: Shadow of Mordor",
+      "state": 0,
+      "box_variant": "*Made in USA, Non-Foil Cover",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Middle-earth: Shadow of War",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Mighty No. 9",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Monster Hunter: World",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 2,
+      "grade_96": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Monster Hunter: World",
+      "state": 0,
+      "box_variant": "*Made in USA, Ratings Sticker",
+      "total": 1,
+      "grade_96": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Mortal Kombat 11",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Mortal Kombat XL",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Moss",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 2,
+      "grade_96": [
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Mother Russia Bleeds",
+      "state": 0,
+      "box_variant": "*Made in USA, Limited Run Cover - Un-numbered",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Mother Russia Bleeds",
+      "state": 0,
+      "box_variant": "*Made in USA, Special Reserve Cover - Un-numbered",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "N++",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 2,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "NBA 2K14",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "NBA 2K15",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "NBA 2K16",
+      "state": 0,
+      "box_variant": "*Made in USA, Anthony Davis Cover - 47631 Product Code",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "NBA 2K16",
+      "state": 0,
+      "box_variant": "*Made in USA, James Harden Cover - Early Tip-Off Edition Sticker",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "NBA 2K16",
+      "state": 0,
+      "box_variant": "*Made in USA, Stephen Curry Cover",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "NBA 2K17",
+      "state": 0,
+      "box_variant": "*Made in USA, Legend Edition Gold - NFR",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "NBA 2K18",
+      "state": 0,
+      "box_variant": "*Made in USA, Early Tip Off Edition - NFR, Canadian Version",
+      "total": 1,
+      "grade_96": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "NBA 2K18",
+      "state": 0,
+      "box_variant": "*Made in USA, NikeConnect Special Edition",
+      "total": 1,
+      "grade_90": [
+        {
+          "b": 1
+        }
+      ]
+    },
+    {
+      "title": "NBA 2K19",
+      "state": 0,
+      "box_variant": "*Made in USA, Travis Scott Cover",
+      "total": 2,
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "NBA 2K21",
+      "state": 0,
+      "box_variant": "*Made in USA, Mamba Forever Edition - NFR",
+      "total": 7,
+      "grade_98": [
+        {
+          "a_plus_plus": 3
+        },
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "NBA 2K21",
+      "state": 0,
+      "box_variant": "*Made in USA, Mamba Forever Edition - Slipcover",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "NBA 2K21 Mamba Forever SteelBook",
+      "state": 0,
+      "box_variant": "*Steelbook",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "NHL 18",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 2,
+      "grade_92": [
+        {
+          "a": 2
+        }
+      ]
+    },
+    {
+      "title": "NHL 19",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 2,
+      "grade_96": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "NHL 21",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 2,
+      "grade_96": [
+        {
+          "a": 2
+        }
+      ]
+    },
+    {
+      "title": "NHL 21",
+      "state": 0,
+      "box_variant": "*Made in USA, Great Eight Edition",
+      "total": 1,
+      "grade_96": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Need for Speed",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 2,
+      "grade_94": [
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Need for Speed: Heat",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Need for Speed: Hot Pursuit Remastered",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_90": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Need for Speed: Payback",
+      "state": 0,
+      "box_variant": "*Made in USA, Deluxe Edition",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Neo: The World Ends with You",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "NieR Replicant ver.1.22474487139...",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 4,
+      "grade_98": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "NieR: Automata",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 4,
+      "grade_96": [
+        {
+          "a_plus": 2
+        },
+        {
+          "a": 2
+        }
+      ]
+    },
+    {
+      "title": "NieR: Automata",
+      "state": 0,
+      "box_variant": "*Made in USA, Canadian Version",
+      "total": 1,
+      "grade_96": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "NieR: Automata",
+      "state": 0,
+      "box_variant": "*Made in USA, Day One Edition",
+      "total": 11,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "b_plus": 1
+        },
+        {
+          "a_plus": 5
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "NieR: Automata",
+      "state": 0,
+      "box_variant": "*Made in USA, Day One Edtion",
+      "total": 3,
+      "grade_94": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_80": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "NieR: Automata",
+      "state": 0,
+      "box_variant": "*Made in USA, Game of the YoRHa Edition",
+      "total": 4,
+      "grade_96": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "NieR: Automata",
+      "state": 0,
+      "box_variant": "*Made in USA, Gamespot Review Quote",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Nights of Azure 2: Bride of the New Moon",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "No Man's Sky",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 3,
+      "grade_94": [
+        {
+          "a_plus": 2
+        },
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Octodad: Dadliest Catch",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Oddworld: New 'n' Tasty!",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 4,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Organ Trail",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Outlast Trinity",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Outriders",
+      "state": 0,
+      "box_variant": "*Made in USA, Day One Edition",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Overwatch",
+      "state": 0,
+      "box_variant": "*Made in USA, GOTY, Canadian Version",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Overwatch",
+      "state": 0,
+      "box_variant": "*Made in USA, Origins Edition",
+      "total": 3,
+      "grade_94": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_92": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Overwatch",
+      "state": 0,
+      "box_variant": "*Made in USA, Origins Edition - Noire Widowmaker Skin",
+      "total": 9,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 4
+        }
+      ],
+      "grade_80": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_70": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Panzer Dragoon Classic Edition Case",
+      "state": 0,
+      "box_variant": "*Made in USA, Classic Edition",
+      "total": 1,
+      "grade_90": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Persona 3 Portable",
+      "state": 0,
+      "box_variant": "*Made in Austria, SDCC Exclusive Cover",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Persona 4 Golden",
+      "state": 0,
+      "box_variant": "*Made in Austria, SDCC Exclusive Cover",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Persona 5",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_90": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Persona 5 Royal",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Persona 5 Strikers",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Phantom Breaker: Battle Grounds Overdrive",
+      "state": 0,
+      "box_variant": "*Made in USA, Reversible Cover (5 Characters)",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "PlayerUnknown's Battlegrounds",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 7,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 2
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 3
+        }
+      ]
+    },
+    {
+      "title": "Poop Slinger",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 10,
+      "grade_98": [
+        {
+          "a_plus_plus": 6
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 3
+        }
+      ]
+    },
+    {
+      "title": "Power Rangers: Battle for the Grid",
+      "state": 0,
+      "box_variant": "*Made in USA, Collector's Edition",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Power Rangers: Battle for the Grid",
+      "state": 0,
+      "box_variant": "*Made in USA, Ranger Edition",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Predator: Hunting Grounds",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 3,
+      "grade_94": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 2
+        }
+      ]
+    },
+    {
+      "title": "Prey",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Project Warlock",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Race with Ryan",
+      "state": 0,
+      "box_variant": "*Made in USA, Road Trip Deluxe Edition",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Rage 2",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Raiden V: Director's Cut",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 4,
+      "grade_98": [
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Raiden V: Director's Cut",
+      "state": 0,
+      "box_variant": "*Made in USA, Limited Edition",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Ratchet & Clank",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 31,
+      "grade_98": [
+        {
+          "a_plus_plus": 12
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 12
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 5
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Ratchet & Clank",
+      "state": 0,
+      "box_variant": "*Made in USA, Canadian Version",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Red Dead Redemption 2",
+      "state": 0,
+      "box_variant": "*Made in USA, NFR - PlayStation Exclusive Content Sticker",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Red Dead Redemption 2",
+      "state": 0,
+      "box_variant": "*Made in USA, PlayStation Exclusive Content Sticker, Canadian Version",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Red Dead Redemption 2",
+      "state": 0,
+      "box_variant": "*Made in USA, Standard Edition - \"Featuring Red Dead Online\" Text",
+      "total": 45,
+      "grade_98": [
+        {
+          "a_plus_plus": 5
+        },
+        {
+          "a_plus": 4
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 16
+        },
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 6
+        },
+        {
+          "a_plus": 4
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_80": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Red Dead Redemption 2",
+      "state": 0,
+      "box_variant": "*Made in USA, Standard Edition - \"Red Dead Online - Coming Soon\" Text - PlayStation Exclusive Content Sticker",
+      "total": 4,
+      "grade_98": [
+        {
+          "a": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Red Faction",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Redout: Space Assault",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Remnant: From the Ashes",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_96": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Resident Evil 2",
+      "state": 0,
+      "box_variant": "*Made in USA, Canadian Version",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Resident Evil 2",
+      "state": 0,
+      "box_variant": "*Made in USA, Deluxe Edition - E3 Award Sticker",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Resident Evil 2",
+      "state": 0,
+      "box_variant": "*Made in USA, Standard Edition",
+      "total": 16,
+      "grade_98": [
+        {
+          "a_plus": 7
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 4
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Resident Evil 2",
+      "state": 0,
+      "box_variant": "*Made in USA, Standard Edition - E3 Award Sticker",
+      "total": 7,
+      "grade_98": [
+        {
+          "a_plus": 4
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Resident Evil 3",
+      "state": 0,
+      "box_variant": "*Made in USA, Blue Case",
+      "total": 7,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Resident Evil 3",
+      "state": 0,
+      "box_variant": "*Made in USA, Red Case",
+      "total": 3,
+      "grade_96": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "b_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Resident Evil 4",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 4,
+      "grade_98": [
+        {
+          "a_plus_plus": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Resident Evil 5",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Resident Evil 7: Biohazard",
+      "state": 0,
+      "box_variant": "*Made in USA, Deluxe Edition",
+      "total": 1,
+      "grade_85": [
+        {
+          "c": 1
+        }
+      ]
+    },
+    {
+      "title": "Resident Evil 7: Biohazard",
+      "state": 0,
+      "box_variant": "*Made in USA, Gold Edition",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Resident Evil 7: Biohazard",
+      "state": 0,
+      "box_variant": "*Made in USA, Standard Edition",
+      "total": 5,
+      "grade_98": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Resident Evil Village",
+      "state": 0,
+      "box_variant": "*Made in Austria, Gold Edition",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Resident Evil Village",
+      "state": 0,
+      "box_variant": "*Made in USA, Deluxe Edition - NFR (Collector's Edition)",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Resident Evil Village",
+      "state": 0,
+      "box_variant": "*Made in USA, Standard Edition",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Resident Evil Village",
+      "state": 0,
+      "box_variant": "*Made in USA, Standard Edition - RE:VERSE Sticker",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Resident Evil: Origins Collection",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Resident Evil: Revelations",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Resident Evil: Revelations 2",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Retro City Rampage DX",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Reydllom",
+      "state": 0,
+      "box_variant": "*Conjured in Austria",
+      "total": 60,
+      "grade_98": [
+        {
+          "a_plus_plus": 32
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_65_below": [
+        {
+          "c_plus": 3
+        },
+        {
+          "c": 4
+        },
+        {
+          "b": 2
+        }
+      ],
+      "grade_65": [
+        {
+          "b": 2
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 15
+        }
+      ]
+    },
+    {
+      "title": "Reydllom",
+      "state": 0,
+      "box_variant": "*Made in Austria, Safe Version",
+      "total": 7,
+      "grade_98": [
+        {
+          "a_plus_plus": 4
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 2
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Rise of the Tomb Raider: 20 Year Celebration",
+      "state": 0,
+      "box_variant": "*Made in Austria, PS VR Included",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Risk of Rain 2",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_90": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "River City Girls",
+      "state": 0,
+      "box_variant": "*Made in USA, PAX Exclusive Cover",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Rock Band 4",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Rock Band 4",
+      "state": 0,
+      "box_variant": "*Made in USA, Plus Rivals Expansion",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Rocket Arena - Mythic Edition",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_96": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Rocket League",
+      "state": 0,
+      "box_variant": "*Made in USA, Collector's Edition",
+      "total": 4,
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Rocket League",
+      "state": 0,
+      "box_variant": "*Made in USA, Collector's Edition - The Flash",
+      "total": 1,
+      "grade_90": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Rocket League",
+      "state": 0,
+      "box_variant": "*Made in USA, Ultimate Edition",
+      "total": 1,
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Rocket League",
+      "state": 0,
+      "box_variant": "*Made in USA, Ultimate Edition - Foil",
+      "total": 4,
+      "grade_98": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Rocket League",
+      "state": 0,
+      "box_variant": "*Made in USA, Ultimate Edition - Non-Foil",
+      "total": 4,
+      "grade_98": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Rust: Console Edition",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 2,
+      "grade_94": [
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Samurai Jack: Battle Through Time",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Saturday Morning RPG",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 5,
+      "grade_98": [
+        {
+          "a_plus_plus": 3
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Secret of Mana",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 40,
+      "grade_98": [
+        {
+          "a_plus_plus": 20
+        },
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 5
+        },
+        {
+          "a_plus": 3
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "b_plus": 1
+        },
+        {
+          "a_plus_plus": 4
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Sekiro: Shadows Die Twice",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 7,
+      "grade_96": [
+        {
+          "a": 2
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Sekiro: Shadows Die Twice",
+      "state": 0,
+      "box_variant": "*Made in USA, GOTY - Bonus Content",
+      "total": 30,
+      "grade_98": [
+        {
+          "a_plus_plus": 26
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 3
+        }
+      ]
+    },
+    {
+      "title": "Shadow Complex Remastered",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 4,
+      "grade_98": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Shadow Man: Remastered",
+      "state": 0,
+      "box_variant": "*Made in Austria",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Shadow of the Colossus",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 32,
+      "grade_98": [
+        {
+          "a_plus_plus": 27
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Shadow of the Colossus",
+      "state": 0,
+      "box_variant": "*Made in USA, Canadian Version",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Shadow of the Tomb Raider",
+      "state": 0,
+      "box_variant": "*Made in Austria, Definitive Edition, Canadian Version",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Shadow of the Tomb Raider",
+      "state": 0,
+      "box_variant": "*Made in USA, Croft Steelbook Edition",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Shantae and the Pirate's Curse",
+      "state": 0,
+      "box_variant": "*Made in USA, Shantae with Cast cover",
+      "total": 1,
+      "grade_98": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Shantae and the Seven Sirens",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Shantae: Risky's Revenge - Director's Cut",
+      "state": 0,
+      "box_variant": "*Made in USA, Shantae Pointing Cover",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Shenmue III",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_90": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Shenmue III",
+      "state": 0,
+      "box_variant": "*Made in USA, Complete Edition",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus_plus": 2
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Shovel Knight",
+      "state": 0,
+      "box_variant": "*Made in USA, Digital Soundtrack Included",
+      "total": 2,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Signalis",
+      "state": 0,
+      "box_variant": "*Made in Austria",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Skinny and Franko: Fists of Violence",
+      "state": 0,
+      "box_variant": "*Made in Austria, Seized Version",
+      "total": 15,
+      "grade_98": [
+        {
+          "a_plus_plus": 10
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 5
+        }
+      ]
+    },
+    {
+      "title": "Sky Force Anniversary",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Sniper Elite 4",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_98": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Sniper Elite III",
+      "state": 0,
+      "box_variant": "*Made in USA, Ultimate Edition",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Soulcalibur VI",
+      "state": 0,
+      "box_variant": "*Made in USA, Standard Edition",
+      "total": 1,
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "South Park: The Fractured but Whole",
+      "state": 0,
+      "box_variant": "*Made in USA, Standard Edition",
+      "total": 1,
+      "grade_85": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "South Park: The Stick of Truth",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Star Wars Battlefront",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Star Wars Battlefront",
+      "state": 0,
+      "box_variant": "*Made in USA, Deluxe Edition",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Star Wars Battlefront",
+      "state": 0,
+      "box_variant": "*Made in USA, Standard Edition",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Star Wars Battlefront II",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 2,
+      "grade_96": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Star Wars Battlefront II",
+      "state": 0,
+      "box_variant": "*Made in USA, Standard Edition",
+      "total": 1,
+      "grade_80": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Star Wars Jedi Knight: Jedi Academy",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Star Wars Jedi: Fallen Order",
+      "state": 0,
+      "box_variant": "*Made in Austria, Standard Edition",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Star Wars Jedi: Fallen Order",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 6,
+      "grade_98": [
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Star Wars Jedi: Fallen Order",
+      "state": 0,
+      "box_variant": "*Made in USA, Standard Edition",
+      "total": 1,
+      "grade_85": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Star Wars: Bounty Hunter",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Star Wars: Bounty Hunter",
+      "state": 0,
+      "box_variant": "*Made in USA, Classic Edition",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Star Wars: Republic Commando",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_94": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Stardew Valley: Collector's Edition",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 3,
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Strange Brigade",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Stranger of Paradise: Final Fantasy Origin",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_92": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Stray",
+      "state": 0,
+      "box_variant": "*Made in Austria",
+      "total": 6,
+      "grade_98": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Stray",
+      "state": 0,
+      "box_variant": "*Made in Austria, iam8bit Exclusive Edition - Slipcover",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Street Fighter 30th Anniversary Collection",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Street Fighter V",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Street Fighter V",
+      "state": 0,
+      "box_variant": "*Made in USA, NFR (Collector's Edition)",
+      "total": 4,
+      "grade_98": [
+        {
+          "a_plus_plus": 3
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Subnautica",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Super Blood Hockey",
+      "state": 0,
+      "box_variant": "*Made in Austria",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Super Blood Hockey",
+      "state": 0,
+      "box_variant": "*Made in Austria, FOMO Sideways Cover",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Super Monkey Ball: Banana Mania",
+      "state": 0,
+      "box_variant": "*Made in USA, Standard Edition",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Super Perils of Baking",
+      "state": 0,
+      "box_variant": "*Made in Austria",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Sword Art Online: Fatal Bullet",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Sword Art Online: Hollow Realization",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Sword Art Online: Lost Song",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Tales of Berseria",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Tales of Berseria",
+      "state": 0,
+      "box_variant": "*Made in USA, Collector's Edition",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Tamashii",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 12,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 5
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Teenage Mutant Ninja Turtles: Mutants in Manhattan",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
+      "state": 0,
+      "box_variant": "*Made in Austria",
+      "total": 4,
+      "grade_98": [
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Tekken 7",
+      "state": 0,
+      "box_variant": "*Made in USA, Bandai Namco Entertainment Logo",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Tekken 7",
+      "state": 0,
+      "box_variant": "*Made in USA, Speech Bubble Logo",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Tetris Effect",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Tetris Effect",
+      "state": 0,
+      "box_variant": "*Made in USA, Limited Run",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "The Amazing Spider-Man 2",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 4,
+      "grade_96": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "The Elder Scrolls V: Skyrim",
+      "state": 0,
+      "box_variant": "*Made in USA, Anniversary Edition",
+      "total": 1,
+      "grade_96": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "The Evil Within",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "The Evil Within 2",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "The House in Fata Morgana: Dream of the Revenants Edition",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "The Last Guardian",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "The Last of Us Part II",
+      "state": 0,
+      "box_variant": "*Made in USA, Standard Edition",
+      "total": 125,
+      "grade_98": [
+        {
+          "a_plus_plus": 50
+        },
+        {
+          "a_plus": 6
+        },
+        {
+          "a": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 36
+        },
+        {
+          "a_plus": 13
+        },
+        {
+          "a": 3
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 3
+        },
+        {
+          "a_plus": 7
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "The Last of Us Remastered",
+      "state": 0,
+      "box_variant": "*Made in USA, NFR (Console Pack-In)",
+      "total": 3,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "The Last of Us Remastered",
+      "state": 0,
+      "box_variant": "*Made in USA, PlayStation Hits - \"Only on PlayStation\" Text Removed, Canadian Version",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "The Last of Us Remastered",
+      "state": 0,
+      "box_variant": "*Made in USA, PlayStation Hits - PS4 Sticker",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "The Last of Us Remastered",
+      "state": 0,
+      "box_variant": "*Made in USA, Sony Computer Entertainment",
+      "total": 3,
+      "grade_94": [
+        {
+          "b_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "The Last of Us Remastered",
+      "state": 0,
+      "box_variant": "*Made in USA, Sony Interactive Entertainment",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "The Liar Princess and the Blind Prince",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 6,
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 4
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "The Messenger",
+      "state": 0,
+      "box_variant": "*Made in USA, Reversible Cover (Burning Village) - NFR (Special Reserve Box)",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "The Messenger",
+      "state": 0,
+      "box_variant": "*Made in USA, Reversible Cover (Nighttime) - NFR (Special Reserve Box)",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "The Outer Worlds",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "The Walking Dead: Season Two",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "The Witcher 3: Wild Hunt",
+      "state": 0,
+      "box_variant": "*Made in USA, Bonus Content",
+      "total": 18,
+      "grade_98": [
+        {
+          "a_plus_plus": 12
+        },
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "The Witcher 3: Wild Hunt",
+      "state": 0,
+      "box_variant": "*Made in USA, NFR",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "The Witcher 3: Wild Hunt",
+      "state": 0,
+      "box_variant": "*Made in USA, Slipcover - NFR",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "They Are Billions",
+      "state": 0,
+      "box_variant": "*Made in Austria",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Thimbleweed Park",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Tiny Tina's Wonderlands",
+      "state": 0,
+      "box_variant": "*Made in USA, Chaotic Great Edition - Slipcover",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Titanfall 2",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Tom Clancy's Rainbow Six: Siege",
+      "state": 0,
+      "box_variant": "*Made in USA, Breaching Cover - Standard Edition",
+      "total": 1,
+      "grade_90": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Tom Clancy's Rainbow Six: Siege",
+      "state": 0,
+      "box_variant": "*Made in USA, Gold Weapons Skin Pack",
+      "total": 1,
+      "grade_94": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Tom Clancy's The Division",
+      "state": 0,
+      "box_variant": "*Made in USA, Canadian Version",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Tom Clancy's The Division",
+      "state": 0,
+      "box_variant": "*Made in USA, Gold Edition",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Tom Clancy's The Division",
+      "state": 0,
+      "box_variant": "*Made in USA, Standard Edition",
+      "total": 1,
+      "grade_85": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Tom Clancy's The Division 2",
+      "state": 0,
+      "box_variant": "*Made in USA, Standard Edition",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Tomb Raider I-III Remastered",
+      "state": 0,
+      "box_variant": "*Made in Austria",
+      "total": 1,
+      "grade_96": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Tomb Raider: Definitive Edition",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Tony Hawk's Pro Skater 1+2",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Toukiden 2",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_92": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Transformers: Devastation",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_80": [
+        {
+          "b": 1
+        }
+      ]
+    },
+    {
+      "title": "Transformers: Rise of the Dark Spark",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_90": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Transformers: Rise of the Dark Spark",
+      "state": 0,
+      "box_variant": "*Made in USA, Walmart Exclusive Stinger DLC",
+      "total": 2,
+      "grade_90": [
+        {
+          "b": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "b": 1
+        }
+      ]
+    },
+    {
+      "title": "Tricky Towers",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Turok",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Turok 2: Seeds of Evil",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Ultimate Marvel vs. Capcom 3",
+      "state": 0,
+      "box_variant": "*Made in USA, Canadian Version",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Ultimate Marvel vs. Capcom 3",
+      "state": 0,
+      "box_variant": "*Made in USA, Infinite Coming 2017 Sticker",
+      "total": 3,
+      "grade_96": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Ultimate Marvel vs. Capcom 3",
+      "state": 0,
+      "box_variant": "*Made in USA, Marvel vs. Capcom Infinite Sticker",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Uncharted 4: A Thief's End",
+      "state": 0,
+      "box_variant": "*Made in USA, Canadian Version",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Uncharted 4: A Thief's End",
+      "state": 0,
+      "box_variant": "*Made in USA, NFR (Console Bundle)",
+      "total": 5,
+      "grade_96": [
+        {
+          "a_plus": 2
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Uncharted 4: A Thief's End",
+      "state": 0,
+      "box_variant": "*Made in USA, Standard Edition",
+      "total": 12,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_94": [
+        {
+          "b_plus": 2
+        },
+        {
+          "a_plus": 4
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Uncharted: The Lost Legacy",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 3,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Uncharted: The Nathan Drake Collection",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Uncharted: The Nathan Drake Collection",
+      "state": 0,
+      "box_variant": "*Made in USA, Uncharted 4 Multiplayer Beta Included",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Until Dawn",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 11,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 2
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 4
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Valkyria Chronicles Remastered",
+      "state": 0,
+      "box_variant": "*Made in USA, Special Edition - Squad 7 Armored Case",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "WWE 2K Battlegrounds",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_92": [
+        {
+          "b": 1
+        }
+      ]
+    },
+    {
+      "title": "What Remains of Edith Finch",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "What Remains of Edith Finch",
+      "state": 0,
+      "box_variant": "*Made in USA, Invisible Cover Art",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Wolfenstein: The Old Blood",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Wolfenstein: Youngblood",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_92": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "World of Final Fantasy",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_92": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "World of Final Fantasy",
+      "state": 0,
+      "box_variant": "*Made in USA, Day One Edition, Canadian Version",
+      "total": 1,
+      "grade_90": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "XCOM 2 Collection",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_92": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Ys VIII: Lacrimosa of Dana",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Zombie Army 4: Dead War",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "\u014ckami HD",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_98": [
+        {
+          "a": 1
+        }
+      ]
+    }
+  ]
+}

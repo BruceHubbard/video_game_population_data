@@ -1,0 +1,7684 @@
+{
+  "fields": [
+    "title",
+    "state",
+    "box_variant",
+    "total",
+    "not_graded",
+    "grade_gen",
+    "grade_pro",
+    "grade_100",
+    "grade_98",
+    "grade_96",
+    "grade_94",
+    "grade_92",
+    "grade_90",
+    "grade_85",
+    "grade_80",
+    "grade_75",
+    "grade_70",
+    "grade_65",
+    "grade_below_65"
+  ],
+  "populations": [
+    {
+      "title": "1-2-Switch",
+      "state": 0,
+      "box_variant": "*Made in Japan, 105217C",
+      "total": 5,
+      "grade_98": [
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "13 Sentinels: Aegis Rim",
+      "state": 0,
+      "box_variant": "*Made in Japan, Bonus Art Cards Included",
+      "total": 4,
+      "grade_98": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "AI: The Somnium Files - NirvanA Initiative",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Ace Attorney Investigations Collection",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Among Us",
+      "state": 0,
+      "box_variant": "*Made in Japan, Crewmate Edition",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Angry Video Game Nerd 1 & 2 Deluxe",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Animal Crossing: New Horizons",
+      "state": 0,
+      "box_variant": "*Made in Japan, 110817A",
+      "total": 170,
+      "grade_98": [
+        {
+          "a_plus_plus": 104
+        },
+        {
+          "a_plus": 28
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 7
+        },
+        {
+          "a_plus": 9
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 17
+        }
+      ]
+    },
+    {
+      "title": "Animal Crossing: New Horizons",
+      "state": 0,
+      "box_variant": "*Made in Japan, 110818A, Canadian Version",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Another Code: Recollection",
+      "state": 0,
+      "box_variant": "*Made in Japan, 120904A",
+      "total": 4,
+      "grade_98": [
+        {
+          "a_plus_plus": 2
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Apollo Justice: Ace Attorney Trilogy",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Arms",
+      "state": 0,
+      "box_variant": "*Made in Japan, 105644B",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Astral Chain",
+      "state": 0,
+      "box_variant": "*Made in Japan, 110532A",
+      "total": 6,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Atelier Ryza 2: Lost Legends & the Secret Fairy",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Attack on Titan 2: Final Battle",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 10,
+      "grade_98": [
+        {
+          "a_plus_plus": 4
+        },
+        {
+          "a_plus": 2
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Bayonetta",
+      "state": 0,
+      "box_variant": "*Made in Japan, 118015A",
+      "total": 4,
+      "grade_98": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Bayonetta 2",
+      "state": 0,
+      "box_variant": "*Made in Japan, 107658A",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Bayonetta 2",
+      "state": 0,
+      "box_variant": "*Made in Japan, 107658D",
+      "total": 6,
+      "grade_98": [
+        {
+          "a_plus_plus": 3
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Bayonetta 3",
+      "state": 0,
+      "box_variant": "*Made in Japan, 107293A",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Blasphemous",
+      "state": 0,
+      "box_variant": "*Made in Japan, Limited Run Release",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Blasphemous",
+      "state": 0,
+      "box_variant": "*Made in Japan, Limited Run Release - Best Buy Exclusive Cover",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Blasphemous",
+      "state": 0,
+      "box_variant": "*Made in Japan, Team 17 Release - Deluxe Edition",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Blaster Master Zero 3",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "BlazBlue: Central Fiction - Special Edition",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Blazing Chrome",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Bloodstained: Curse of the Moon",
+      "state": 0,
+      "box_variant": "*Made in Japan, Best Buy Exclusive Cover",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Bloodstained: Curse of the Moon",
+      "state": 0,
+      "box_variant": "*Made in Japan, Classic Edition",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Bloodstained: Curse of the Moon",
+      "state": 0,
+      "box_variant": "*Made in Japan, Standard Cover",
+      "total": 2,
+      "grade_96": [
+        {
+          "a_plus_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Bloodstained: Curse of the Moon",
+      "state": 0,
+      "box_variant": "*Made in Japan, Tom DuBois Cover",
+      "total": 2,
+      "grade_94": [
+        {
+          "no_seal": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "no_seal": 1
+        }
+      ]
+    },
+    {
+      "title": "Bloodstained: Curse of the Moon 2",
+      "state": 0,
+      "box_variant": "*Made in Japan, Best Buy Exclusive Cover",
+      "total": 3,
+      "grade_96": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Bloodstained: Curse of the Moon 2",
+      "state": 0,
+      "box_variant": "*Made in Japan, Convention Exclusive",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Bloodstained: Curse of the Moon 2",
+      "state": 0,
+      "box_variant": "*Made in Japan, Standard Cover",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus_plus": 3
+        }
+      ]
+    },
+    {
+      "title": "Bloodstained: Ritual of the Night",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Blossom Tales: The Sleeping King",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_92": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Borderlands: Legendary Collection",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Bravely Default II",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Bravely Default II",
+      "state": 0,
+      "box_variant": "*Made in Japan, Canadian Version",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Brigandine: The Legend of Runersia",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Bubble Bobble 4 Friends: The Baron is Back!",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_90": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Bud Spencer & Terence Hill: Slaps and Beans 2",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Bug Fables: The Everlasting Sapling",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "BurgerTime Party",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Cadence of Hyrule",
+      "state": 0,
+      "box_variant": "*Made in Japan, 113593A",
+      "total": 4,
+      "grade_98": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Captain Toad: Treasure Tracker",
+      "state": 0,
+      "box_variant": "*Made in Japan, 108488B",
+      "total": 32,
+      "grade_98": [
+        {
+          "a_plus_plus": 16
+        },
+        {
+          "a_plus": 11
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 4
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Castle Crashers Remastered",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 4,
+      "grade_98": [
+        {
+          "a_plus_plus": 3
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Castlevania Advance Collection",
+      "state": 0,
+      "box_variant": "*Made in Japan, Dracula X Cover",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Castlevania Anniversary Collection",
+      "state": 0,
+      "box_variant": "*Made in Japan, Best Buy Exclusive Cover",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Castlevania Anniversary Collection",
+      "state": 0,
+      "box_variant": "*Made in Japan, Standard Cover",
+      "total": 43,
+      "grade_98": [
+        {
+          "a_plus_plus": 21
+        },
+        {
+          "a_plus": 5
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 11
+        },
+        {
+          "a_plus": 3
+        },
+        {
+          "a": 2
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Cat Quest",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Cave Story+",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_96": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Cave Story+",
+      "state": 0,
+      "box_variant": "*Made in Japan, CS+ Edition Cover",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Celeste",
+      "state": 0,
+      "box_variant": "*Made in Japan, Best Buy Exclusive Cover",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Celeste",
+      "state": 0,
+      "box_variant": "*Made in Japan, Fangamer Cover",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Celeste",
+      "state": 0,
+      "box_variant": "*Made in Japan, Standard Cover",
+      "total": 12,
+      "grade_98": [
+        {
+          "a_plus": 10
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Chronos: Before the Ashes",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Clannad",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Clubhouse Games: 51 Worldwide Classics",
+      "state": 0,
+      "box_variant": "*Made in Japan, 112973A",
+      "total": 6,
+      "grade_98": [
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_96": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Collection of Mana",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 4,
+      "grade_98": [
+        {
+          "a_plus_plus": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Collection of Mana",
+      "state": 0,
+      "box_variant": "*Made in Japan, Canadian Version",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Contra Anniversary Collection",
+      "state": 0,
+      "box_variant": "*Made in Japan, Reversible Cover (Bill, Lance, Sheena, & Ray)",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Cooking Mama: Cookstar",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Crash Bandicoot N. Sane Trilogy",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Cuphead",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 8,
+      "grade_98": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Dark Souls: Remastered",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Darksiders II: Deathinitive Edition",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 2,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Darksiders III",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 3,
+      "grade_96": [
+        {
+          "a_plus": 3
+        }
+      ]
+    },
+    {
+      "title": "Darksiders: Warmastered Edition",
+      "state": 0,
+      "box_variant": "*Made in Japan, Red Spine Corrected",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Darq: Complete Edition",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Dead Cells",
+      "state": 0,
+      "box_variant": "*Made in Japan, Return to Castlevania Edition",
+      "total": 1,
+      "grade_90": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Dead by Daylight",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Death's Door",
+      "state": 0,
+      "box_variant": "*Made in Japan, Old Betty on Left Cover (Single)",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Death's Door",
+      "state": 0,
+      "box_variant": "*Made in Japan, Old Betty on Right Cover (Reserve)",
+      "total": 2,
+      "grade_96": [
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Death's Gambit: Afterlife",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Deemo",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Destroy All Humans!",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_90": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Detective Pikachu Returns",
+      "state": 0,
+      "box_variant": "*Made in Japan, 118913A, Canadian Version",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Detective Pikachu Returns",
+      "state": 0,
+      "box_variant": "*Made in Japan, 120154A",
+      "total": 50,
+      "grade_98": [
+        {
+          "a_plus_plus": 40
+        },
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 8
+        }
+      ]
+    },
+    {
+      "title": "Diablo III: Eternal Collection",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 31,
+      "grade_98": [
+        {
+          "a_plus_plus": 28
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Digimon Survive",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 4,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Divinity: Original Sin II - Definitive Edition",
+      "state": 0,
+      "box_variant": "*Made in Japan, Best Buy Exclusive Cover",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Divinity: Original Sin II - Definitive Edition",
+      "state": 0,
+      "box_variant": "*Made in Japan, Standard Cover",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Doki Doki Literature Club Plus!",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 4,
+      "grade_98": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Donkey Kong Country: Tropical Freeze",
+      "state": 0,
+      "box_variant": "*Made in Japan, 107744A",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Donkey Kong Country: Tropical Freeze",
+      "state": 0,
+      "box_variant": "*Made in Japan, 107744B",
+      "total": 9,
+      "grade_98": [
+        {
+          "a_plus": 5
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 4
+        }
+      ]
+    },
+    {
+      "title": "Donkey Kong Country: Tropical Freeze",
+      "state": 0,
+      "box_variant": "*Made in Japan, 107744C",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Doom (2016)",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 4,
+      "grade_98": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Doom 64",
+      "state": 0,
+      "box_variant": "*Made in Japan, Classic Edition",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Doom 64",
+      "state": 0,
+      "box_variant": "*Made in Japan, Standard Edition",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus_plus": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Doom: The Classics Collection",
+      "state": 0,
+      "box_variant": "*Made in Japan, DOOM Cover",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Doom: The Classics Collection",
+      "state": 0,
+      "box_variant": "*Made in Japan, DOOM II Cover",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Dragon Ball FighterZ",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Dragon Ball Z: Kakarot",
+      "state": 0,
+      "box_variant": "*Made in Japan, A New Power Awakens Set",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Dragon Quest Builders",
+      "state": 0,
+      "box_variant": "*Made in Japan, 107717A",
+      "total": 5,
+      "grade_96": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 2
+        }
+      ],
+      "grade_94": [
+        {
+          "a": 2
+        }
+      ]
+    },
+    {
+      "title": "Dragon Quest Builders 2",
+      "state": 0,
+      "box_variant": "*Made in Japan, 110535A",
+      "total": 4,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 3
+        }
+      ]
+    },
+    {
+      "title": "Dragon Quest Monsters: The Dark Prince",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 5,
+      "grade_98": [
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Dragon Quest Treasures",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Dragon Quest XI S",
+      "state": 0,
+      "box_variant": "*Made in Japan, 110539A",
+      "total": 4,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Dragon Star Varnir",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Dragon's Lair Trilogy",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Dusk",
+      "state": 0,
+      "box_variant": "*Made in Japan, Best Buy Exclusive Cover",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Dusk",
+      "state": 0,
+      "box_variant": "*Made in Japan, Reversible Cover (Leathernecks)",
+      "total": 6,
+      "grade_98": [
+        {
+          "a_plus_plus": 3
+        },
+        {
+          "a_plus": 3
+        }
+      ]
+    },
+    {
+      "title": "Dusk",
+      "state": 0,
+      "box_variant": "*Made in Japan, Reversible Cover (The Wendigo)",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Dusk Diver",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Dust: An Elysian Tail",
+      "state": 0,
+      "box_variant": "*Made in Japan, Reversible Cover (Fidget)",
+      "total": 2,
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Dying Light: Platinum Edition",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Ender Lilies: Quietus of the Knights",
+      "state": 0,
+      "box_variant": "*Made in Japan, Convention Exclusive Cover",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Ender Lilies: Quietus of the Knights",
+      "state": 0,
+      "box_variant": "*Made in Japan, Standard Cover",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Fairy Tail",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Final Fantasy I-VI Collection",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 7,
+      "grade_98": [
+        {
+          "a_plus_plus": 5
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Final Fantasy I-VI Collection",
+      "state": 0,
+      "box_variant": "*Made in Japan, Anniversary Edition, Canadian Version",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus_plus": 2
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Final Fantasy I-VI Collection",
+      "state": 0,
+      "box_variant": "*Made in Japan, Flame Error",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Final Fantasy X/X-2 HD Remaster",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Fire Emblem Engage",
+      "state": 0,
+      "box_variant": "*Made in Japan, 117778A, NFR (Divine Edition)",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Fire Emblem Engage",
+      "state": 0,
+      "box_variant": "*Made in Japan, 118548A",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Fire Emblem Engage Promotional Case",
+      "state": 0,
+      "box_variant": "*Divine Edition Steelbook",
+      "total": 1,
+      "grade_98": [
+        {
+          "no_seal": 1
+        }
+      ]
+    },
+    {
+      "title": "Fire Emblem Warriors",
+      "state": 0,
+      "box_variant": "*Made in Japan, 106552A",
+      "total": 4,
+      "grade_98": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Fire Emblem Warriors: Three Hopes",
+      "state": 0,
+      "box_variant": "*Made in Japan, 117205A",
+      "total": 12,
+      "grade_98": [
+        {
+          "a_plus": 6
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 5
+        }
+      ]
+    },
+    {
+      "title": "Fire Emblem: Three Houses",
+      "state": 0,
+      "box_variant": "*Made in Japan, 109543A",
+      "total": 22,
+      "grade_98": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 11
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 5
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Fire Emblem: Three Houses",
+      "state": 0,
+      "box_variant": "*Made in Japan, 109544A, Canadian Version",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Fire Emblem: Three Houses Promotional Case",
+      "state": 0,
+      "box_variant": "*Seasons of Warfare Edition Steelbook",
+      "total": 1,
+      "grade_96": [
+        {
+          "no_seal": 1
+        }
+      ]
+    },
+    {
+      "title": "Five Nights at Freddy's: Help Wanted",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Five Nights at Freddy's: Security Breach",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Five Nights at Freddy's: The Core Collection",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Friday the 13th: The Game",
+      "state": 0,
+      "box_variant": "*Made in Japan, Poster Included",
+      "total": 2,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Friday the 13th: The Game",
+      "state": 0,
+      "box_variant": "*Made in Japan, Poster Not Included",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "G.I. Joe: Operation Blackout",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Ghostrunner",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Golf Story",
+      "state": 0,
+      "box_variant": "*Made in Japan, Limited Run Cover",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Grand Theft Auto: The Trilogy - The Definitive Edition",
+      "state": 0,
+      "box_variant": "*Made in Japan, 115099A",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Grandia HD Collection",
+      "state": 0,
+      "box_variant": "*Made in Japan, Reversible Cover (End of the World)",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Grandia HD Collection",
+      "state": 0,
+      "box_variant": "*Made in Japan, Reversible Cover (Ryudo, Elena and Millenia)",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Grim Fandango Remastered",
+      "state": 0,
+      "box_variant": "*Made in Japan, Slipcover",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Hades",
+      "state": 0,
+      "box_variant": "*Made in Japan, 115034A",
+      "total": 27,
+      "grade_98": [
+        {
+          "a_plus_plus": 15
+        },
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 7
+        }
+      ]
+    },
+    {
+      "title": "Harvest Moon: Light of Hope - Special Edition",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Hello Kitty Kruisers",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_90": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Hogwarts Legacy",
+      "state": 0,
+      "box_variant": "*Made in Japan, Deluxe Edition",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Hogwarts Legacy",
+      "state": 0,
+      "box_variant": "*Made in Japan, Standard Edition",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Hollow Knight",
+      "state": 0,
+      "box_variant": "*Made in Japan, Godmaster DLC Included",
+      "total": 34,
+      "grade_98": [
+        {
+          "a_plus_plus": 3
+        },
+        {
+          "a_plus": 7
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 3
+        },
+        {
+          "a_plus": 8
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 4
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 7
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Hollow Knight",
+      "state": 0,
+      "box_variant": "*Made in Japan, Godmaster DLC Omitted",
+      "total": 6,
+      "grade_96": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Horizon Chase Turbo",
+      "state": 0,
+      "box_variant": "*Made in Japan, Special Edition",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Hotline Miami Collection",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Hyrule Warriors: Age of Calamity",
+      "state": 0,
+      "box_variant": "*Made in Japan, 114037A",
+      "total": 17,
+      "grade_98": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 9
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Hyrule Warriors: Age of Calamity",
+      "state": 0,
+      "box_variant": "*Made in Japan, 114037B",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Hyrule Warriors: Age of Calamity",
+      "state": 0,
+      "box_variant": "*Made in Japan, 114038A, Canadian Version",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Hyrule Warriors: Definitive Edition",
+      "state": 0,
+      "box_variant": "*Made in Japan, 107775A",
+      "total": 1,
+      "grade_85": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Hyrule Warriors: Definitive Edition",
+      "state": 0,
+      "box_variant": "*Made in Japan, 107775B",
+      "total": 26,
+      "grade_98": [
+        {
+          "a_plus_plus": 14
+        },
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 9
+        }
+      ]
+    },
+    {
+      "title": "Jump Force: Deluxe Edition",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_96": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Jurassic Park: Classic Games Collection",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Just Die Already",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Kirby Star Allies",
+      "state": 0,
+      "box_variant": "*Made in Japan, 107711A",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Kirby Star Allies",
+      "state": 0,
+      "box_variant": "*Made in Japan, 107711B",
+      "total": 15,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 6
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 5
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Kirby and the Forgotten Land",
+      "state": 0,
+      "box_variant": "*Made in Japan, 116747A",
+      "total": 34,
+      "grade_98": [
+        {
+          "a_plus_plus": 26
+        },
+        {
+          "a_plus": 6
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Kirby's Return to Dream Land Deluxe",
+      "state": 0,
+      "box_variant": "*Made in Japan, 118573A",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "LEGO Jurassic World",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "LEGO Marvel Super Heroes 2",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 5,
+      "grade_98": [
+        {
+          "a_plus": 2
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "LEGO Star Wars: The Skywalker Saga",
+      "state": 0,
+      "box_variant": "*No Country",
+      "total": 1,
+      "grade_94": [
+        {
+          "no_seal": 1
+        }
+      ]
+    },
+    {
+      "title": "Layers of Fear: Legacy",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_92": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Layton's Mystery Journey: Katrielle and the Millionaires' Conspiracy - Deluxe Edition",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Little Nightmares II",
+      "state": 0,
+      "box_variant": "*Made in Japan, Bandai Namco Entertainment Logo",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Little Nightmares II",
+      "state": 0,
+      "box_variant": "*Made in Japan, Speech Bubble Logo",
+      "total": 1,
+      "grade_98": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Live A Live",
+      "state": 0,
+      "box_variant": "*Made in Japan, 117359A",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus_plus": 2
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Luigi's Mansion 2 HD",
+      "state": 0,
+      "box_variant": "*Made in Japan, 121128A",
+      "total": 26,
+      "grade_98": [
+        {
+          "a_plus_plus": 19
+        },
+        {
+          "a_plus": 4
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Luigi's Mansion 3",
+      "state": 0,
+      "box_variant": "*Made in Japan, 109497A",
+      "total": 71,
+      "grade_98": [
+        {
+          "a_plus_plus": 38
+        },
+        {
+          "a_plus": 18
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 9
+        }
+      ],
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Mario & Luigi: Brothership",
+      "state": 0,
+      "box_variant": "*Made in Japan, 122856A",
+      "total": 155,
+      "grade_98": [
+        {
+          "a_plus_plus": 115
+        },
+        {
+          "a_plus": 4
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 36
+        }
+      ]
+    },
+    {
+      "title": "Mario & Sonic at the Olympic Games Tokyo 2020",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 34,
+      "grade_98": [
+        {
+          "a_plus_plus": 16
+        },
+        {
+          "a_plus": 7
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 4
+        },
+        {
+          "a_plus": 5
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Mario + Rabbids Kingdom Battle",
+      "state": 0,
+      "box_variant": "*Made in Japan, Gold Edition",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Mario + Rabbids Kingdom Battle",
+      "state": 0,
+      "box_variant": "*Made in Japan, No Ubisoft Spine Logo",
+      "total": 2,
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Mario + Rabbids Kingdom Battle",
+      "state": 0,
+      "box_variant": "*Made in Japan, Ubisoft Spine Logo",
+      "total": 9,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 5
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 2
+        }
+      ]
+    },
+    {
+      "title": "Mario + Rabbids Sparks of Hope",
+      "state": 0,
+      "box_variant": "*Made in Japan, Standard Edition",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Mario + Rabbids Sparks of Hope",
+      "state": 0,
+      "box_variant": "*Made in Japan, Ubisoft Spine Logo",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Mario Golf: Super Rush",
+      "state": 0,
+      "box_variant": "*Made in Japan, 115196A",
+      "total": 8,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 4
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Mario Golf: Super Rush",
+      "state": 0,
+      "box_variant": "*Made in Japan, 115197A, Canadian Version",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Mario Kart 8 Deluxe",
+      "state": 0,
+      "box_variant": "*Made in Japan, 105278A",
+      "total": 24,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 4
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 10
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 2
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Mario Kart 8 Deluxe",
+      "state": 0,
+      "box_variant": "*Made in Japan, 105278B",
+      "total": 16,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 7
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 7
+        },
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Mario Kart 8 Deluxe",
+      "state": 0,
+      "box_variant": "*Made in Japan, 105278C",
+      "total": 150,
+      "grade_98": [
+        {
+          "a_plus_plus": 105
+        },
+        {
+          "a_plus": 16
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 8
+        },
+        {
+          "a_plus": 9
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_90": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_65_below": [
+        {
+          "no_seal": 2
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 7
+        }
+      ]
+    },
+    {
+      "title": "Mario Kart 8 Deluxe",
+      "state": 0,
+      "box_variant": "*Made in Japan, 105279B, Canadian Version",
+      "total": 9,
+      "grade_98": [
+        {
+          "a_plus_plus": 7
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Mario Kart 8 Deluxe",
+      "state": 0,
+      "box_variant": "*Made in Japan, 113550A, NFR",
+      "total": 5,
+      "grade_98": [
+        {
+          "a_plus_plus": 3
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Mario Kart 8 Deluxe",
+      "state": 0,
+      "box_variant": "*Made in Japan, 114855B, Mexican Version",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Mario Kart 8 Deluxe Promotional Case",
+      "state": 0,
+      "box_variant": "*Best Buy Exclusive Steelbook",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Mario Party Superstars",
+      "state": 0,
+      "box_variant": "*Made in Japan, 115995A",
+      "total": 91,
+      "grade_98": [
+        {
+          "a_plus_plus": 59
+        },
+        {
+          "a_plus": 18
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 6
+        },
+        {
+          "a_plus": 5
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 3
+        }
+      ]
+    },
+    {
+      "title": "Mario Party Superstars",
+      "state": 0,
+      "box_variant": "*Made in Japan, 115996A, Canadian Version",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Mario Strikers: Battle League",
+      "state": 0,
+      "box_variant": "*Made in Japan, 117164A",
+      "total": 10,
+      "grade_98": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 5
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 3
+        }
+      ]
+    },
+    {
+      "title": "Mario Strikers: Battle League",
+      "state": 0,
+      "box_variant": "*Made in Japan, 117165A, Canadian Version",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Mario Tennis Aces",
+      "state": 0,
+      "box_variant": "*Made in Japan, 107732A",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Mario Tennis Aces",
+      "state": 0,
+      "box_variant": "*Made in Japan, 107732B",
+      "total": 9,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 4
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 4
+        }
+      ]
+    },
+    {
+      "title": "Mario Tennis Aces",
+      "state": 0,
+      "box_variant": "*Made in Japan, 107733B, Canadian Version",
+      "total": 1,
+      "grade_92": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Mario vs. Donkey Kong",
+      "state": 0,
+      "box_variant": "*Made in Japan, 120962A",
+      "total": 5,
+      "grade_98": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Marvel vs. Capcom Fighting Collection: Arcade Classics",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Mega Man 11",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 33,
+      "grade_98": [
+        {
+          "a_plus_plus": 5
+        },
+        {
+          "a_plus": 12
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 5
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 7
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Mega Man Battle Network Legacy Collection",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 5,
+      "grade_98": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 3
+        }
+      ]
+    },
+    {
+      "title": "Mega Man Legacy Collection 1 + 2",
+      "state": 0,
+      "box_variant": "*Made in Japan, Cleaning Cloth Included",
+      "total": 1,
+      "grade_96": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Mega Man Legacy Collection 1 + 2",
+      "state": 0,
+      "box_variant": "*Made in Japan, Cleaning Cloth Not Included",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Mega Man X Legacy Collection 1 + 2",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Mega Man Zero/ZX Legacy Collection",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Megadimension Neptunia VII",
+      "state": 0,
+      "box_variant": "*Made in Japan, Reversible Cover (Purple Heart)",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Metal Gear Solid: Master Collection Vol. 1",
+      "state": 0,
+      "box_variant": "*Made in Japan, Day One Edition",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Metroid Dread",
+      "state": 0,
+      "box_variant": "*Made in Japan, 115991A",
+      "total": 161,
+      "grade_98": [
+        {
+          "a_plus_plus": 96
+        },
+        {
+          "a_plus": 42
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 7
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 12
+        }
+      ]
+    },
+    {
+      "title": "Metroid Dread",
+      "state": 0,
+      "box_variant": "*Made in Japan, 115992A, Canadian Version",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus_plus": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Metroid Prime Remastered",
+      "state": 0,
+      "box_variant": "*Made in Japan, 118912A",
+      "total": 47,
+      "grade_98": [
+        {
+          "a_plus_plus": 19
+        },
+        {
+          "a_plus": 25
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_80": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Metroid Prime Remastered",
+      "state": 0,
+      "box_variant": "*Made in Japan, 118913A, Canadian Version",
+      "total": 4,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 3
+        }
+      ]
+    },
+    {
+      "title": "Mighty Gunvolt Burst",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_100": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Miitopia",
+      "state": 0,
+      "box_variant": "*Made in Japan, 115103A",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Minecraft",
+      "state": 0,
+      "box_variant": "*Made in Japan, 106681A",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Minecraft",
+      "state": 0,
+      "box_variant": "*Made in Japan, 106681B, Microsoft Studios Logo",
+      "total": 57,
+      "grade_98": [
+        {
+          "a_plus_plus": 22
+        },
+        {
+          "a_plus": 16
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 4
+        },
+        {
+          "a_plus": 7
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_92": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 5
+        }
+      ]
+    },
+    {
+      "title": "Minecraft",
+      "state": 0,
+      "box_variant": "*Made in Japan, 106681C, Xbox Game Studios Logo",
+      "total": 68,
+      "grade_98": [
+        {
+          "a_plus_plus": 24
+        },
+        {
+          "a_plus": 36
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 3
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Minecraft Dungeons",
+      "state": 0,
+      "box_variant": "*Made in Japan, 116272A, Ultimate Edition",
+      "total": 1,
+      "grade_98": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Minecraft Legends: Deluxe Edition",
+      "state": 0,
+      "box_variant": "*Made in Japan, 119166A",
+      "total": 4,
+      "grade_98": [
+        {
+          "a_plus_plus": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Monster Hunter Rise",
+      "state": 0,
+      "box_variant": "*Made in Japan, Deluxe Edition",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Monster Hunter Rise",
+      "state": 0,
+      "box_variant": "*Made in Japan, Standard Edition",
+      "total": 10,
+      "grade_98": [
+        {
+          "a_plus_plus": 3
+        },
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Monster Jam Showdown",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Mortal Kombat 1",
+      "state": 0,
+      "box_variant": "*Made in Japan, Premium Edition",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "NBA 2K18",
+      "state": 0,
+      "box_variant": "*Made in Japan, Legend Edition Gold",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "NBA 2K20",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "NBA 2K21",
+      "state": 0,
+      "box_variant": "*Made in Japan, Mamba Forever Edition - NFR",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "NBA 2K22",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_90": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Need for Speed: Hot Pursuit Remastered",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "New Pok\u00e9mon Snap",
+      "state": 0,
+      "box_variant": "*Made in Japan, 114834A",
+      "total": 113,
+      "grade_98": [
+        {
+          "a_plus_plus": 48
+        },
+        {
+          "a_plus": 36
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 3
+        },
+        {
+          "a_plus": 12
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 11
+        }
+      ]
+    },
+    {
+      "title": "New Pok\u00e9mon Snap",
+      "state": 0,
+      "box_variant": "*Made in Japan, 114835A, Canadian Version",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "New Super Mario Bros. U Deluxe",
+      "state": 0,
+      "box_variant": "*Made in Japan, 107753A",
+      "total": 75,
+      "grade_98": [
+        {
+          "a_plus_plus": 22
+        },
+        {
+          "a_plus": 43
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 8
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Ni no Kuni II: Revenant Kingdom - Prince's Edition",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_98": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Ni no Kuni: Wrath of the White Witch",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Night Trap",
+      "state": 0,
+      "box_variant": "*Made in Japan, Reversible Cover (Illustrated)",
+      "total": 2,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Night Trap",
+      "state": 0,
+      "box_variant": "*Made in Japan, Reversible Cover (Live-Action)",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus_plus": 3
+        }
+      ]
+    },
+    {
+      "title": "No Man's Sky",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "No More Heroes",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "No More Heroes 2: Desperate Struggle",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "No More Heroes III",
+      "state": 0,
+      "box_variant": "*Made in Japan, 109555A",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Octopath Traveler",
+      "state": 0,
+      "box_variant": "*Made in Japan, 107286A",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Octopath Traveler",
+      "state": 0,
+      "box_variant": "*Made in Japan, 107286B",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Octopath Traveler II",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Olympic Games Tokyo 2020 - The Official Video Game",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 2,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Ori and the Blind Forest: Definitive Edition",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Ori and the Will of the Wisps",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Outer Wilds",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_90": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Outlast 2",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Outlast: Bundle of Terror",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Owlboy",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Oxenfree",
+      "state": 0,
+      "box_variant": "*Made in Japan, Copyright Information Misprinted",
+      "total": 1,
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "PAW Patrol Mighty Pups Save Adventure Bay",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Panzer Paladin",
+      "state": 0,
+      "box_variant": "*Made in Japan, Best Buy Exclusive Cover",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Paper Mario: The Origami King",
+      "state": 0,
+      "box_variant": "*Made in Japan, 112967A",
+      "total": 19,
+      "grade_98": [
+        {
+          "a_plus_plus": 5
+        },
+        {
+          "a_plus": 7
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 4
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Paper Mario: The Origami King",
+      "state": 0,
+      "box_variant": "*Made in Japan, 112968A, Canadian Version",
+      "total": 4,
+      "grade_98": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Paper Mario: The Thousand-Year Door",
+      "state": 0,
+      "box_variant": "*Made in Japan, 121133A",
+      "total": 31,
+      "grade_98": [
+        {
+          "a_plus_plus": 21
+        },
+        {
+          "a_plus": 5
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 3
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Paper Mario: The Thousand-Year Door",
+      "state": 0,
+      "box_variant": "*Made in Japan, 121133A, Nintendo New York Slipcover",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Paper Mario: The Thousand-Year Door",
+      "state": 0,
+      "box_variant": "*Made in Japan, 121134A, GameStop Slipcover, Canadian Version",
+      "total": 1,
+      "grade_100": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Payday 2",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_90": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Persona 3 Portable",
+      "state": 0,
+      "box_variant": "*Made in Austria, SDCC Exclusive Cover",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Persona 4 Golden",
+      "state": 0,
+      "box_variant": "*Made in Japan, SDCC Exclusive Cover",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Persona 5 Royal",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Persona 5 Strikers",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pikmin 1 + 2",
+      "state": 0,
+      "box_variant": "*Made in Japan, 120062A",
+      "total": 2,
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pikmin 3 Deluxe",
+      "state": 0,
+      "box_variant": "*Made in Japan, 113897A",
+      "total": 10,
+      "grade_98": [
+        {
+          "a_plus": 8
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pikmin 4",
+      "state": 0,
+      "box_variant": "*Made in Japan, 119545A",
+      "total": 4,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 3
+        }
+      ]
+    },
+    {
+      "title": "Plumbers Don't Wear Ties: Definitive Edition",
+      "state": 0,
+      "box_variant": "*Made in Japan, Reversible Cover (Realistic Illustrated)",
+      "total": 4,
+      "grade_98": [
+        {
+          "a_plus_plus": 3
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pocky & Rocky Reshrined",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pokk\u00e9n Tournament DX",
+      "state": 0,
+      "box_variant": "*Made in Japan, 106291B",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pokk\u00e9n Tournament DX",
+      "state": 0,
+      "box_variant": "*Made in Japan, 106291C",
+      "total": 10,
+      "grade_98": [
+        {
+          "a_plus": 5
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pokk\u00e9n Tournament DX",
+      "state": 0,
+      "box_variant": "*Made in Japan, 106292A, Canadian Version",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Brilliant Diamond",
+      "state": 0,
+      "box_variant": "*Made in Japan, 116043A",
+      "total": 160,
+      "grade_98": [
+        {
+          "a_plus_plus": 67
+        },
+        {
+          "a_plus": 64
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 19
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 8
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Brilliant Diamond",
+      "state": 0,
+      "box_variant": "*Made in Japan, 116044A, Canadian Version",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Brilliant Diamond",
+      "state": 0,
+      "box_variant": "*Made in Japan, 116049A, NFR (Double Pack)",
+      "total": 10,
+      "grade_98": [
+        {
+          "a_plus_plus": 7
+        },
+        {
+          "a_plus": 3
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Brilliant Diamond",
+      "state": 0,
+      "box_variant": "*Made in Japan, 116050A, NFR (Double Pack), Mexican Version",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Brilliant Diamond / Shining Pearl - Double Pack",
+      "state": 0,
+      "box_variant": "*Made in Japan, 116033A",
+      "total": 8,
+      "grade_98": [
+        {
+          "a_plus_plus": 3
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 2
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Legends: Arceus",
+      "state": 0,
+      "box_variant": "*Made in Japan, 116056A",
+      "total": 258,
+      "grade_98": [
+        {
+          "a_plus_plus": 147
+        },
+        {
+          "a_plus": 55
+        },
+        {
+          "a": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 8
+        },
+        {
+          "a_plus": 17
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_92": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 21
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Legends: Arceus",
+      "state": 0,
+      "box_variant": "*Made in Japan, 116057A, Canadian Version",
+      "total": 4,
+      "grade_98": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Legends: Arceus Promotional Case",
+      "state": 0,
+      "box_variant": "*SteelBook",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Mystery Dungeon: Rescue Team DX",
+      "state": 0,
+      "box_variant": "*Made in Japan, 112519A",
+      "total": 59,
+      "grade_98": [
+        {
+          "a_plus_plus": 48
+        },
+        {
+          "a_plus": 5
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_90": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Scarlet",
+      "state": 0,
+      "box_variant": "*Made in Japan, 117475A",
+      "total": 136,
+      "grade_98": [
+        {
+          "a_plus_plus": 86
+        },
+        {
+          "a_plus": 25
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 6
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 15
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Scarlet",
+      "state": 0,
+      "box_variant": "*Made in Japan, 117476A, Canadian Version",
+      "total": 5,
+      "grade_98": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 3
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Scarlet",
+      "state": 0,
+      "box_variant": "*Made in Japan, 117881A, NFR (Double Pack)",
+      "total": 6,
+      "grade_98": [
+        {
+          "a_plus_plus": 4
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Scarlet + Expansion Pass",
+      "state": 0,
+      "box_variant": "*Made in Japan, 120483A",
+      "total": 24,
+      "grade_98": [
+        {
+          "a_plus_plus": 22
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Scarlet / Violet - Double Pack",
+      "state": 0,
+      "box_variant": "*Made in Japan, 117897A",
+      "total": 4,
+      "grade_96": [
+        {
+          "a_plus_plus": 2
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Shield",
+      "state": 0,
+      "box_variant": "*Made in Japan, 110622A",
+      "total": 110,
+      "grade_98": [
+        {
+          "a_plus_plus": 70
+        },
+        {
+          "a_plus": 13
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 10
+        },
+        {
+          "a_plus": 9
+        },
+        {
+          "a": 2
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 3
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Shield",
+      "state": 0,
+      "box_variant": "*Made in Japan, 110622A, Expansion Pass Sticker",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Shield",
+      "state": 0,
+      "box_variant": "*Made in Japan, 110623A, Canadian Version",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Shield",
+      "state": 0,
+      "box_variant": "*Made in Japan, 111192A, NFR (Double Pack)",
+      "total": 4,
+      "grade_98": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Shield + Expansion Pass",
+      "state": 0,
+      "box_variant": "*Made in Japan, 113779A",
+      "total": 11,
+      "grade_98": [
+        {
+          "a_plus_plus": 3
+        },
+        {
+          "a_plus": 3
+        },
+        {
+          "a": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 3
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Shield Promotional Case",
+      "state": 0,
+      "box_variant": "*SteelBook",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Shining Pearl",
+      "state": 0,
+      "box_variant": "*Made in Japan, 116046A",
+      "total": 163,
+      "grade_98": [
+        {
+          "a_plus_plus": 68
+        },
+        {
+          "a_plus": 71
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 10
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 6
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Shining Pearl",
+      "state": 0,
+      "box_variant": "*Made in Japan, 116047A, Canadian Version",
+      "total": 4,
+      "grade_98": [
+        {
+          "a_plus_plus": 3
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Shining Pearl",
+      "state": 0,
+      "box_variant": "*Made in Japan, 116051A, NFR (Double Pack)",
+      "total": 10,
+      "grade_98": [
+        {
+          "a_plus_plus": 7
+        },
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Shining Pearl",
+      "state": 0,
+      "box_variant": "*Made in Japan, 116052A, NFR (Double Pack), Mexican Version",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Sword",
+      "state": 0,
+      "box_variant": "*Made in Japan, 110619A",
+      "total": 167,
+      "grade_98": [
+        {
+          "a_plus_plus": 111
+        },
+        {
+          "a_plus": 30
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 13
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 5
+        }
+      ],
+      "grade_92": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 3
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Sword",
+      "state": 0,
+      "box_variant": "*Made in Japan, 110620A, Canadian Version",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Sword",
+      "state": 0,
+      "box_variant": "*Made in Japan, 111189A, NFR (Double Pack)",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Sword + Expansion Pass",
+      "state": 0,
+      "box_variant": "*Made in Japan, 113777A",
+      "total": 38,
+      "grade_98": [
+        {
+          "a_plus_plus": 11
+        },
+        {
+          "a_plus": 22
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Sword Promotional Case",
+      "state": 0,
+      "box_variant": "*Steelbook",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Violet",
+      "state": 0,
+      "box_variant": "*Made in Japan, 117457A",
+      "total": 163,
+      "grade_98": [
+        {
+          "a_plus_plus": 116
+        },
+        {
+          "a_plus": 16
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 4
+        },
+        {
+          "a_plus": 5
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 18
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Violet",
+      "state": 0,
+      "box_variant": "*Made in Japan, 117458A, Canadian Version",
+      "total": 4,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Violet",
+      "state": 0,
+      "box_variant": "*Made in Japan, 117889A, NFR (Double Pack)",
+      "total": 5,
+      "grade_98": [
+        {
+          "a_plus_plus": 3
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon Violet + Expansion Pass",
+      "state": 0,
+      "box_variant": "*Made in Japan, 120492A",
+      "total": 24,
+      "grade_98": [
+        {
+          "a_plus_plus": 20
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 3
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon: Let's Go! Promotional Case",
+      "state": 0,
+      "box_variant": "*Best Buy Exclusive Steelbook",
+      "total": 4,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 3
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon: Let's Go, Eevee!",
+      "state": 0,
+      "box_variant": "*Made in Japan, 109161A",
+      "total": 135,
+      "grade_98": [
+        {
+          "a_plus_plus": 86
+        },
+        {
+          "a_plus": 31
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 3
+        },
+        {
+          "a_plus": 4
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 3
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 7
+        }
+      ]
+    },
+    {
+      "title": "Pok\u00e9mon: Let's Go, Pikachu!",
+      "state": 0,
+      "box_variant": "*Made in Japan, 109155A",
+      "total": 149,
+      "grade_98": [
+        {
+          "a_plus_plus": 78
+        },
+        {
+          "a_plus": 30
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 5
+        },
+        {
+          "a_plus": 20
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 3
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 3
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a": 2
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 5
+        }
+      ]
+    },
+    {
+      "title": "Power Rangers: Battle for the Grid",
+      "state": 0,
+      "box_variant": "*Made in Japan, Best Buy Exclusive Cover",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Princess Peach: Showtime!",
+      "state": 0,
+      "box_variant": "*Made in Japan, 121124A",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "R-Type Dimensions EX",
+      "state": 0,
+      "box_variant": "*Made in Japan, Special Edition",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "R.B.I. Baseball 21",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 2,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Resident Evil Origins Collection",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Resident Evil Triple Pack",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Return of the Obra Dinn",
+      "state": 0,
+      "box_variant": "*Made in Japan, Best Buy Exclusive",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "River City Girls",
+      "state": 0,
+      "box_variant": "*Made in Japan, Best Buy Exclusive Cover",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "River City Girls",
+      "state": 0,
+      "box_variant": "*Made in Japan, PAX Exclusive Cover",
+      "total": 6,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 3
+        }
+      ]
+    },
+    {
+      "title": "River City Girls",
+      "state": 0,
+      "box_variant": "*Made in Japan, Standard Cover",
+      "total": 10,
+      "grade_98": [
+        {
+          "a_plus": 5
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 4
+        }
+      ]
+    },
+    {
+      "title": "Rocket League",
+      "state": 0,
+      "box_variant": "*Made in Japan, Collector's Edition",
+      "total": 1,
+      "grade_96": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Rocket League",
+      "state": 0,
+      "box_variant": "*Made in Japan, Ultimate Edition - Foil",
+      "total": 1,
+      "grade_96": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Rocket League",
+      "state": 0,
+      "box_variant": "*Made in Japan, Ultimate Edition - Non-Foil",
+      "total": 1,
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "SNK Heroines: Tag Team Frenzy",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Salt and Sanctuary",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Sam & Max Save the World",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 2,
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Samurai Jack: Battle Through Time",
+      "state": 0,
+      "box_variant": "*Made in Japan, Best Buy Exclusive Cover",
+      "total": 2,
+      "grade_96": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Samurai Jack: Battle Through Time",
+      "state": 0,
+      "box_variant": "*Made in Japan, Standard Cover",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Samurai Shodown",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_96": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Saturday Morning RPG",
+      "state": 0,
+      "box_variant": "*Made in Japan, 1/1 JPSwitchmania Cover (Eric Huang)",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Saturday Morning RPG",
+      "state": 0,
+      "box_variant": "*Made in Japan, 1/1 JPSwitchmania Cover (Paul Mann)",
+      "total": 1,
+      "grade_100": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Saturday Morning RPG",
+      "state": 0,
+      "box_variant": "*Made in Japan, Limited Run Games Employee Foil Cover",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Saturday Morning RPG",
+      "state": 0,
+      "box_variant": "*Made in Japan, Reversible Cover (Eric Huang)",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Scott Pilgrim vs. the World: The Game - Complete Edition",
+      "state": 0,
+      "box_variant": "*Made in Japan, Reversible Cover (Scott & Evil Exes)",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Scott Pilgrim vs. the World: The Game - Complete Edition",
+      "state": 0,
+      "box_variant": "*Made in Japan, Reversible Cover (Scott & The League of Evil Exes)",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Scott Pilgrim vs. the World: The Game - Complete Edition",
+      "state": 0,
+      "box_variant": "*Made in Japan, Reversible Cover (Sonic Pose)",
+      "total": 4,
+      "grade_98": [
+        {
+          "a_plus_plus": 3
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Sea of Stars",
+      "state": 0,
+      "box_variant": "*Made in Japan, iam8bit Exclusive Cover",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Shantae",
+      "state": 0,
+      "box_variant": "*Made in Japan, Best Buy Exclusive Cover",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Shantae",
+      "state": 0,
+      "box_variant": "*Made in Japan, Standard Cover",
+      "total": 5,
+      "grade_98": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Shantae and the Pirate's Curse",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 8,
+      "grade_98": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Shantae and the Seven Sirens",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Shantae: Half-Genie Hero - Ultimate Edition",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus_plus": 2
+        }
+      ],
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Shantae: Risky's Revenge - Director's Cut",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Shin Megami Tensei V",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Shin Megami Tensei V: Vengeance",
+      "state": 0,
+      "box_variant": "*Made in Japan, Launch Edition Steelbook",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Snake Pass",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Sniper Elite 4",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Snow Bros. Nick & Tom Special",
+      "state": 0,
+      "box_variant": "*Made in Japan, Clear River Games Release",
+      "total": 1,
+      "grade_90": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Sonic Mania",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 15,
+      "grade_98": [
+        {
+          "a_plus_plus": 4
+        },
+        {
+          "a_plus": 10
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Sonic Mania Plus",
+      "state": 0,
+      "box_variant": "*Made in Japan, Holographic Slipcover",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Splatoon 2",
+      "state": 0,
+      "box_variant": "*Made in Japan, 105638A",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Splatoon 2",
+      "state": 0,
+      "box_variant": "*Made in Japan, 105638B",
+      "total": 13,
+      "grade_98": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 4
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 5
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Splatoon 2",
+      "state": 0,
+      "box_variant": "*Made in Japan, 107676A, NFR (Starter Pack)",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Splatoon 3",
+      "state": 0,
+      "box_variant": "*Made in Japan, 117209A",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Star Wars Heritage Pack",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Star Wars: Episode I: Racer",
+      "state": 0,
+      "box_variant": "*Made in Japan, Classic Edition",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Star Wars: Knights of the Old Republic",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 2,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Star Wars: Republic Commando",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Stardew Valley",
+      "state": 0,
+      "box_variant": "*Made in Japan, Future Update Sticker",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Steredenn: Binary Stars",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Stern Pinball Arcade",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Stranger Things 3: The Game",
+      "state": 0,
+      "box_variant": "*Made in Japan, Best Buy Exclusive Cover",
+      "total": 1,
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Stranger Things 3: The Game",
+      "state": 0,
+      "box_variant": "*Made in Japan, Standard Cover",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Street Fighter 30th Anniversary Collection",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Streets of Rage 4",
+      "state": 0,
+      "box_variant": "*Made in Japan, Anniversary Edition",
+      "total": 30,
+      "grade_98": [
+        {
+          "a_plus_plus": 19
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 10
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Streets of Rage 4",
+      "state": 0,
+      "box_variant": "*Made in Japan, Standard Edition",
+      "total": 32,
+      "grade_98": [
+        {
+          "a_plus_plus": 7
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 9
+        },
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 9
+        },
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Super Bomberman R 2",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Super Dragon Ball Heroes: World Mission",
+      "state": 0,
+      "box_variant": "*Made in Japan, Hero Edition",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Super Mario 3D All-Stars",
+      "state": 0,
+      "box_variant": "*Made in Japan, 113318A",
+      "total": 337,
+      "grade_98": [
+        {
+          "a_plus_plus": 94
+        },
+        {
+          "a_plus": 104
+        },
+        {
+          "a": 6
+        }
+      ],
+      "grade_96": [
+        {
+          "b_plus": 2
+        },
+        {
+          "a_plus_plus": 12
+        },
+        {
+          "a_plus": 71
+        },
+        {
+          "a": 6
+        }
+      ],
+      "grade_94": [
+        {
+          "b_plus": 1
+        },
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 14
+        },
+        {
+          "a": 4
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 7
+        },
+        {
+          "a": 2
+        }
+      ],
+      "grade_90": [
+        {
+          "a": 4
+        }
+      ],
+      "grade_85": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_70": [
+        {
+          "b_plus": 1
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 7
+        }
+      ]
+    },
+    {
+      "title": "Super Mario 3D All-Stars",
+      "state": 0,
+      "box_variant": "*Made in Japan, 113319A, Canadian Version",
+      "total": 17,
+      "grade_98": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 8
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "b_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "b_plus": 1
+        }
+      ],
+      "grade_65_below": [
+        {
+          "no_seal": 1
+        }
+      ]
+    },
+    {
+      "title": "Super Mario 3D World + Bowser's Fury",
+      "state": 0,
+      "box_variant": "*Made in Japan, 113321A",
+      "total": 45,
+      "grade_98": [
+        {
+          "a_plus_plus": 22
+        },
+        {
+          "a_plus": 12
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 5
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 5
+        }
+      ]
+    },
+    {
+      "title": "Super Mario 3D World + Bowser's Fury",
+      "state": 0,
+      "box_variant": "*Made in Japan, 113322A, Canadian Version",
+      "total": 4,
+      "grade_98": [
+        {
+          "a_plus_plus": 3
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Super Mario Bros. Wonder",
+      "state": 0,
+      "box_variant": "*Made in Japan, 120234A",
+      "total": 70,
+      "grade_98": [
+        {
+          "a_plus_plus": 44
+        },
+        {
+          "a_plus": 17
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 4
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 4
+        }
+      ]
+    },
+    {
+      "title": "Super Mario Bros. Wonder",
+      "state": 0,
+      "box_variant": "*Made in Japan, 120235A, Canadian Version",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Super Mario Maker 2",
+      "state": 0,
+      "box_variant": "*Made in Japan, 110545A",
+      "total": 18,
+      "grade_98": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 6
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 6
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Super Mario Maker 2",
+      "state": 0,
+      "box_variant": "*Made in Japan, 110546A, Canadian Version",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Super Mario Maker 2",
+      "state": 0,
+      "box_variant": "*Made in Japan, 110610A",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Super Mario Odyssey",
+      "state": 0,
+      "box_variant": "*Made in Japan, 105882A",
+      "total": 57,
+      "grade_98": [
+        {
+          "a_plus_plus": 3
+        },
+        {
+          "a_plus": 20
+        },
+        {
+          "a": 3
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 18
+        },
+        {
+          "a": 5
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 3
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "b_plus": 1
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Super Mario Odyssey",
+      "state": 0,
+      "box_variant": "*Made in Japan, 105882B",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Super Mario Odyssey",
+      "state": 0,
+      "box_variant": "*Made in Japan, 105882C",
+      "total": 210,
+      "grade_98": [
+        {
+          "a_plus_plus": 142
+        },
+        {
+          "a_plus": 22
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 9
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "a_plus_plus": 2
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 30
+        }
+      ]
+    },
+    {
+      "title": "Super Mario Odyssey",
+      "state": 0,
+      "box_variant": "*Made in Japan, 105883B, Canadian Version",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Super Mario Odyssey",
+      "state": 0,
+      "box_variant": "*Made in Japan, 105883C, Canadian Version",
+      "total": 2,
+      "grade_96": [
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Super Mario Odyssey",
+      "state": 0,
+      "box_variant": "*Made in Japan, 108807A, NFR (Traveler's Guide)",
+      "total": 9,
+      "grade_98": [
+        {
+          "a_plus_plus": 3
+        },
+        {
+          "a_plus": 6
+        }
+      ]
+    },
+    {
+      "title": "Super Mario Party",
+      "state": 0,
+      "box_variant": "*Made in Japan, 108889A",
+      "total": 7,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_65_below": [
+        {
+          "c_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Super Mario Party",
+      "state": 0,
+      "box_variant": "*Made in Japan, 108889B",
+      "total": 42,
+      "grade_98": [
+        {
+          "a_plus_plus": 22
+        },
+        {
+          "a_plus": 7
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 6
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_85": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 3
+        }
+      ]
+    },
+    {
+      "title": "Super Mario Party Jamboree",
+      "state": 0,
+      "box_variant": "*Made in Japan, 122849A, Nintendo Online Trial Membership Included",
+      "total": 7,
+      "grade_98": [
+        {
+          "a_plus_plus": 4
+        },
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Super Mario Party Jamboree",
+      "state": 0,
+      "box_variant": "*Made in Japan, 122851A, Mexican Version",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Super Mario Party Jamboree",
+      "state": 0,
+      "box_variant": "*Made in Japan, 122854A",
+      "total": 5,
+      "grade_98": [
+        {
+          "a_plus_plus": 5
+        }
+      ]
+    },
+    {
+      "title": "Super Mario RPG",
+      "state": 0,
+      "box_variant": "*Made in Japan, 120238A",
+      "total": 50,
+      "grade_98": [
+        {
+          "a_plus_plus": 29
+        },
+        {
+          "a_plus": 11
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 3
+        },
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Super Mario RPG",
+      "state": 0,
+      "box_variant": "*Made in Japan, 120239A, Canadian Version",
+      "total": 4,
+      "grade_98": [
+        {
+          "a_plus_plus": 3
+        }
+      ],
+      "grade_96": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Super Meat Boy Forever",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Super Monkey Ball: Banana Mania",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Super Putty Squad",
+      "state": 0,
+      "box_variant": "*No Country",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Super Smash Bros. Ultimate",
+      "state": 0,
+      "box_variant": "*Made in Japan, 108491A",
+      "total": 19,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 7
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 6
+        },
+        {
+          "a": 2
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Super Smash Bros. Ultimate",
+      "state": 0,
+      "box_variant": "*Made in Japan, 108491B",
+      "total": 159,
+      "grade_98": [
+        {
+          "a_plus_plus": 97
+        },
+        {
+          "a_plus": 23
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 10
+        },
+        {
+          "a_plus": 11
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_90": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 15
+        }
+      ]
+    },
+    {
+      "title": "Super Smash Bros. Ultimate",
+      "state": 0,
+      "box_variant": "*Made in Japan, 108492A, Canadian Version",
+      "total": 11,
+      "grade_98": [
+        {
+          "a_plus_plus": 5
+        },
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "SuperEpic: The Entertainment War",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Tactics Ogre: Reborn",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 4,
+      "grade_98": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Tails of Iron: Crimson Knight Edition",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_96": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
+      "state": 0,
+      "box_variant": "*Made in Japan, Anniversary Edition",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
+      "state": 0,
+      "box_variant": "*Made in Japan, Limited Run Games Employee Foil Cover",
+      "total": 5,
+      "grade_98": [
+        {
+          "a_plus_plus": 4
+        },
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Teenage Mutant Ninja Turtles: The Cowabunga Collection",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 5,
+      "grade_98": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Teenage Mutant Ninja Turtles: The Cowabunga Collection",
+      "state": 0,
+      "box_variant": "*Made in Japan, NFR (Limited Edition)",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Terraria",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Tetris 99",
+      "state": 0,
+      "box_variant": "*Made in Japan, 110795A",
+      "total": 1,
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "The Angry Video Game Nerd I & II Deluxe",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "The Binding of Isaac: Afterbirth+",
+      "state": 0,
+      "box_variant": "*Made in Japan, Custom Spine Text Font",
+      "total": 2,
+      "grade_96": [
+        {
+          "b_plus": 1
+        },
+        {
+          "b": 1
+        }
+      ]
+    },
+    {
+      "title": "The Binding of Isaac: Repentance",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "The Caligula Effect: Overdose",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "The Dark Crystal: Age of Resistance Tactics",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "The DioField Chronicle",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "The Elder Scrolls V: Skyrim",
+      "state": 0,
+      "box_variant": "*Made in Japan, 106555B",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "The Great Ace Attorney Chronicles",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus_plus": 2
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "The House In Fata Morgana: Dreams of the Revenants Edition",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "The Lara Croft Collection",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "The Legend of Heroes: Trails of Cold Steel III - Extracarricular Edition",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "The Legend of Heroes: Trails of Cold Steel IV - Frontline Edition",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "The Legend of Zelda: Breath of the Wild",
+      "state": 0,
+      "box_variant": "*Made in Japan, 105211A",
+      "total": 75,
+      "grade_98": [
+        {
+          "a_plus_plus": 3
+        },
+        {
+          "a_plus": 19
+        },
+        {
+          "a": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "b_plus": 1
+        },
+        {
+          "a_plus_plus": 3
+        },
+        {
+          "a_plus": 18
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 11
+        },
+        {
+          "a": 5
+        }
+      ],
+      "grade_92": [
+        {
+          "b_plus": 1
+        },
+        {
+          "a_plus": 3
+        },
+        {
+          "a": 3
+        }
+      ],
+      "grade_90": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_80": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_75": [
+        {
+          "b": 1
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "The Legend of Zelda: Breath of the Wild",
+      "state": 0,
+      "box_variant": "*Made in Japan, 105211B",
+      "total": 491,
+      "grade_98": [
+        {
+          "a_plus_plus": 262
+        },
+        {
+          "a_plus": 73
+        },
+        {
+          "a": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 24
+        },
+        {
+          "a_plus": 43
+        },
+        {
+          "a": 2
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 9
+        },
+        {
+          "a_plus": 8
+        },
+        {
+          "a": 3
+        }
+      ],
+      "grade_92": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a": 5
+        }
+      ],
+      "grade_85": [
+        {
+          "a_plus": 2
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 56
+        }
+      ]
+    },
+    {
+      "title": "The Legend of Zelda: Breath of the Wild",
+      "state": 0,
+      "box_variant": "*Made in Japan, 105212A, Canadian Version",
+      "total": 3,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "The Legend of Zelda: Breath of the Wild",
+      "state": 0,
+      "box_variant": "*Made in Japan, 105212B, Canadian Version",
+      "total": 16,
+      "grade_98": [
+        {
+          "a_plus_plus": 6
+        },
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "The Legend of Zelda: Breath of the Wild",
+      "state": 0,
+      "box_variant": "*Made in Japan, 105252A, NFR (Special/Explorer's/Master Edition)",
+      "total": 30,
+      "grade_98": [
+        {
+          "a_plus_plus": 15
+        },
+        {
+          "a_plus": 6
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 6
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "The Legend of Zelda: Echoes of Wisdom",
+      "state": 0,
+      "box_variant": "*Made in Japan, 122844A",
+      "total": 44,
+      "grade_98": [
+        {
+          "a_plus_plus": 31
+        },
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 3
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 7
+        }
+      ]
+    },
+    {
+      "title": "The Legend of Zelda: Link's Awakening",
+      "state": 0,
+      "box_variant": "*Made in Japan, 110549A",
+      "total": 169,
+      "grade_98": [
+        {
+          "a_plus_plus": 82
+        },
+        {
+          "a_plus": 33
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 8
+        },
+        {
+          "a_plus": 12
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 10
+        },
+        {
+          "a": 2
+        }
+      ],
+      "grade_92": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 2
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 16
+        }
+      ]
+    },
+    {
+      "title": "The Legend of Zelda: Link's Awakening",
+      "state": 0,
+      "box_variant": "*Made in Japan, 110549A, Red Squiggle Error",
+      "total": 12,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a": 2
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_90": [
+        {
+          "a": 3
+        }
+      ],
+      "grade_85": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "The Legend of Zelda: Link's Awakening",
+      "state": 0,
+      "box_variant": "*Made in Japan, 110550A, Canadian Version",
+      "total": 11,
+      "grade_98": [
+        {
+          "a_plus_plus": 4
+        },
+        {
+          "a_plus": 4
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 3
+        }
+      ]
+    },
+    {
+      "title": "The Legend of Zelda: Link's Awakening",
+      "state": 0,
+      "box_variant": "*Made in Japan, 110579A, Dreamer Edition - NFR",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus_plus": 3
+        }
+      ]
+    },
+    {
+      "title": "The Legend of Zelda: Skyward Sword HD",
+      "state": 0,
+      "box_variant": "*Made in Japan, 115192A",
+      "total": 132,
+      "grade_98": [
+        {
+          "a_plus_plus": 68
+        },
+        {
+          "a_plus": 35
+        },
+        {
+          "a": 3
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 5
+        },
+        {
+          "a_plus": 11
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 6
+        }
+      ]
+    },
+    {
+      "title": "The Legend of Zelda: Skyward Sword HD",
+      "state": 0,
+      "box_variant": "*Made in Japan, 115193A, Canadian Version",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "The Legend of Zelda: Tears of the Kingdom",
+      "state": 0,
+      "box_variant": "*Made in Japan, 117214A",
+      "total": 201,
+      "grade_98": [
+        {
+          "a_plus_plus": 110
+        },
+        {
+          "a_plus": 36
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 5
+        },
+        {
+          "a_plus": 9
+        }
+      ],
+      "grade_90": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_65_below": [
+        {
+          "null": 24
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 16
+        }
+      ]
+    },
+    {
+      "title": "The Legend of Zelda: Tears of the Kingdom",
+      "state": 0,
+      "box_variant": "*Made in Japan, 117215A, Canadian Version",
+      "total": 21,
+      "grade_98": [
+        {
+          "a_plus_plus": 16
+        },
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 2
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "The Legend of Zelda: Tears of the Kingdom",
+      "state": 0,
+      "box_variant": "*Made in Japan, 117216A, Mexican Version",
+      "total": 1,
+      "grade_98": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "The Legend of Zelda: Tears of the Kingdom",
+      "state": 0,
+      "box_variant": "*Made in Japan, 118147A, NFR (Collector's Edition)",
+      "total": 14,
+      "grade_98": [
+        {
+          "a_plus_plus": 10
+        },
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "The Legend of Zelda: Tears of the Kingdom Promotional Case",
+      "state": 0,
+      "box_variant": "*Collector's Edition Steelbook",
+      "total": 4,
+      "grade_98": [
+        {
+          "no_seal": 4
+        }
+      ]
+    },
+    {
+      "title": "The Messenger",
+      "state": 0,
+      "box_variant": "*Made in Japan, Limited Run Release - Burning Village Cover - NFR",
+      "total": 5,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "The Messenger",
+      "state": 0,
+      "box_variant": "*Made in Japan, Special Reserve Release - Nighttime Cover - Unnumbered - NFR",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "The Oregon Trail - Deluxe Edition",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "The World Ends with You: Final Remix",
+      "state": 0,
+      "box_variant": "*Made in Japan, 107884A",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Thimbleweed Park",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 2,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "ToeJam & Earl: Back in the Groove!",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Tony Hawk's Pro Skater 1 + 2",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Triangle Strategy",
+      "state": 0,
+      "box_variant": "*Made in Japan, 116751A",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Troll and I",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_90": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Turok",
+      "state": 0,
+      "box_variant": "*Made in Japan, Classic Edition",
+      "total": 2,
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Turok",
+      "state": 0,
+      "box_variant": "*Made in Japan, Standard Edition - Foil",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus": 3
+        }
+      ]
+    },
+    {
+      "title": "Turok",
+      "state": 0,
+      "box_variant": "*Made in Japan, Standard Edition - Non-Foil",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Turok 2: Seeds of Evil",
+      "state": 0,
+      "box_variant": "*Made in Japan, Classic Edition",
+      "total": 3,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Turok 2: Seeds of Evil",
+      "state": 0,
+      "box_variant": "*Made in Japan, Standard Edition",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Ultra Street Fighter II: The Final Challengers",
+      "state": 0,
+      "box_variant": "*Made in Japan, 105578A",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Undernauts: Labyrinth of Yomi",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_90": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Undertale",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus_plus": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Unicorn Overlord",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Voez",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "WarioWare: Get It Together!",
+      "state": 0,
+      "box_variant": "*Made in Japan, 115511A",
+      "total": 5,
+      "grade_98": [
+        {
+          "a_plus": 4
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "West of Dead: Path of the Crow",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "West of Loathing",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Wild Guns: Reloaded",
+      "state": 0,
+      "box_variant": "*Made in Japan, Uncategorized Legacy Variant",
+      "total": 30,
+      "grade_98": [
+        {
+          "a_plus_plus": 17
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 4
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 8
+        }
+      ]
+    },
+    {
+      "title": "Xenoblade Chronicles 2",
+      "state": 0,
+      "box_variant": "*Made in Japan, 106472A",
+      "total": 9,
+      "grade_98": [
+        {
+          "a_plus": 6
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a": 1
+        }
+      ],
+      "grade_100": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Xenoblade Chronicles 2: Torna - The Golden Country",
+      "state": 0,
+      "box_variant": "*Made in Japan, 108892A",
+      "total": 7,
+      "grade_98": [
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 3
+        }
+      ]
+    },
+    {
+      "title": "Xenoblade Chronicles 2: Torna - The Golden Country",
+      "state": 0,
+      "box_variant": "*Made in Japan, 108892B",
+      "total": 4,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Xenoblade Chronicles 3",
+      "state": 0,
+      "box_variant": "*Made in Japan, 117716A",
+      "total": 5,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Xenoblade Chronicles: Definitive Edition",
+      "state": 0,
+      "box_variant": "*Made in Japan, 112105A",
+      "total": 8,
+      "grade_98": [
+        {
+          "a_plus": 6
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Xenoblade Chronicles: Definitive Edition",
+      "state": 0,
+      "box_variant": "*Made in Japan, 112106A, Canadian Version",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Yomawari: The Long Night Collection",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_96": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Yooka-Laylee",
+      "state": 0,
+      "box_variant": "*Made in Japan, Classic Edition",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Yooka-Laylee",
+      "state": 0,
+      "box_variant": "*Made in Japan, Classic Edition - Protective Case",
+      "total": 2,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Yoshi's Crafted World",
+      "state": 0,
+      "box_variant": "*Made in Japan, 110108A",
+      "total": 11,
+      "grade_98": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 3
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 4
+        }
+      ],
+      "grade_90": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Yu-Gi-Oh! Legacy of the Duelist: Link Evolution",
+      "state": 0,
+      "box_variant": "*Made in Japan, Over 10,000 Cards",
+      "total": 5,
+      "grade_98": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Yu-Gi-Oh! Rush Duel: Dawn of the Battle Royale!! Let's go! Go Rush!! Special Edition",
+      "state": 0,
+      "box_variant": "*Assembled in Japan",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Zombie Army Trilogy",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Zombieland: Double Tap - Road Trip",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    }
+  ]
+}

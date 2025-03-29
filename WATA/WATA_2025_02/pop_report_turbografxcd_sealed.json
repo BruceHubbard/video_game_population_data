@@ -1,0 +1,759 @@
+{
+  "fields": [
+    "title",
+    "state",
+    "box_variant",
+    "total",
+    "not_graded",
+    "grade_gen",
+    "grade_pro",
+    "grade_100",
+    "grade_98",
+    "grade_96",
+    "grade_94",
+    "grade_92",
+    "grade_90",
+    "grade_85",
+    "grade_80",
+    "grade_75",
+    "grade_70",
+    "grade_65",
+    "grade_below_65"
+  ],
+  "populations": [
+    {
+      "title": "Beyond Shadowgate",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Bonk 3: Bonk's Big Adventure CD",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Buster Bros.",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Camp California",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_96": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Cosmic Fantasy 2",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 14,
+      "grade_98": [
+        {
+          "a_plus_plus": 4
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 2
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_75": [
+        {
+          "a_plus": 2
+        }
+      ]
+    },
+    {
+      "title": "Cotton: Fantastic Night Dreams",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_96": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Cotton: Fantastic Night Dreams",
+      "state": 0,
+      "box_variant": "*Made in USA, UPC Sticker",
+      "total": 2,
+      "grade_98": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Dragon Slayer: The Legend of Heroes",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "Dungeon Explorer II",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Dungeon Master: Theron's Quest",
+      "state": 0,
+      "box_variant": "*Made in USA, UPC Sticker",
+      "total": 2,
+      "grade_96": [
+        {
+          "b_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Exile",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 3,
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Fighting Street",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 4,
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_85": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_70": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Final Zone II",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Forgotten Worlds",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Gate of Thunder",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Godzilla",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "It Came From The Desert",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 3,
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_92": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_75": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "J.B. Harold Murder Club",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Jack Nicklaus Turbo Golf",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Jack Nicklaus Turbo Golf",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "John Madden Duo CD Football",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 7,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "b_plus": 1
+        }
+      ],
+      "grade_90": [
+        {
+          "b": 1
+        }
+      ],
+      "grade_75": [
+        {
+          "c_plus": 1
+        }
+      ],
+      "grade_65": [
+        {
+          "b": 1
+        }
+      ]
+    },
+    {
+      "title": "John Madden Duo CD Football",
+      "state": 0,
+      "box_variant": "*Made in USA, UPC Sticker",
+      "total": 1,
+      "grade_75": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Last Alert",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ],
+      "grade_70": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Loom",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Lords of Thunder",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Lords of Thunder",
+      "state": 0,
+      "box_variant": "*Made in USA, UPC Sticker",
+      "total": 3,
+      "grade_98": [
+        {
+          "a_plus_plus": 2
+        },
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Lords of the Rising Sun",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Lords of the Rising Sun",
+      "state": 0,
+      "box_variant": "NULL",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Magical Dinosaur Tour",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Might and Magic III: Isles of Terra",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Monster Lair",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Prince of Persia",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Riot Zone",
+      "state": 0,
+      "box_variant": "*Made in USA, UPC Sticker",
+      "total": 5,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_94": [
+        {
+          "a_plus_plus": 1
+        },
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Shadow of the Beast",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Shadow of the Beast",
+      "state": 0,
+      "box_variant": "*Made in USA, UPC Sticker",
+      "total": 1,
+      "grade_98": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Shape Shifter",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_94": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Sherlock Holmes: Consulting Detective",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Sherlock Holmes: Consulting Detective Vol. II",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ],
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "SimEarth",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Splash Lake",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Super Air Zonk",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Syd Mead's Terraforming",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_96": [
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "The Addams Family",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 2,
+      "grade_92": [
+        {
+          "b_plus": 1
+        },
+        {
+          "a": 1
+        }
+      ]
+    },
+    {
+      "title": "The Dynastic Hero",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Valis II",
+      "state": 0,
+      "box_variant": "*Made in USA, Canadian Version",
+      "total": 1,
+      "grade_96": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Valis III",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 1,
+      "grade_92": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Valis III",
+      "state": 0,
+      "box_variant": "*Made in Japan, UPC Sticker",
+      "total": 1,
+      "grade_90": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Valis III",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 0,
+      "not_graded": [
+        {
+          "not_graded": 1
+        }
+      ]
+    },
+    {
+      "title": "Vasteel",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_92": [
+        {
+          "b_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Ys III: Wanderers from Ys",
+      "state": 0,
+      "box_variant": "*Made in Japan",
+      "total": 2,
+      "grade_80": [
+        {
+          "a_plus": 1
+        }
+      ],
+      "grade_75": [
+        {
+          "a_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Ys III: Wanderers from Ys",
+      "state": 0,
+      "box_variant": "*Made in Japan, UPC Sticker",
+      "total": 1,
+      "grade_75": [
+        {
+          "a_plus_plus": 1
+        }
+      ]
+    },
+    {
+      "title": "Ys: Book I & II",
+      "state": 0,
+      "box_variant": "*Made in USA",
+      "total": 1,
+      "grade_85": [
+        {
+          "a_plus": 1
+        }
+      ]
+    }
+  ]
+}

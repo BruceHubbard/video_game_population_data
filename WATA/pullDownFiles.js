@@ -5,17 +5,18 @@
     const puppeteer = require('puppeteer-extra')
     const baseUrl = 'https://www.watagames.com/populations/'
     const systems = [
-        // { name: '2600', states: ['sealed', 'cib'] },
-        // { name: '5200', states: ['sealed'] },
-        // { name: '7800', states: ['sealed'] },
-        // { name: 'colecovision', states: ['sealed'] },
-        // { name: 'intellivision', states: ['sealed'] },
-        // { name: 'turbografx16', states: ['sealed'] },
-        // { name: 'turbografxcd', states: ['sealed'] },
-        // { name: 'n64', states: ['sealed', 'cib', 'intl_sealed'] },
-        // { name: 'ds', states: ['sealed'] },
-        // { name: 'nes', states: ['sealed', 'cib', 'intl_sealed', 'loose'] },
-        // { name: 'gb', states: ['sealed', 'cib', 'intl_sealed'] },
+        { name: '2600', states: ['sealed', 'cib'] },
+        { name: '5200', states: ['sealed'] },
+        { name: '7800', states: ['sealed'] },
+        { name: 'colecovision', states: ['sealed'] },
+        { name: 'intellivision', states: ['sealed'] },
+        { name: 'turbografx16', states: ['sealed'] },
+        { name: 'turbografxcd', states: ['sealed'] },
+        { name: '3ds', states: ['sealed'] },
+        { name: 'n64', states: ['sealed', 'cib', 'intl_sealed'] },
+        { name: 'ds', states: ['sealed'] },
+        { name: 'nes', states: ['sealed', 'cib', 'intl_sealed', 'loose'] },
+        { name: 'gb', states: ['sealed', 'cib', 'intl_sealed'] },
         { name: 'gba', states: ['sealed', 'cib', 'intl_sealed'] },
         { name: 'gbc', states: ['sealed', 'cib', 'intl_sealed'] },
         { name: 'gamecube', states: ['sealed'] },
@@ -33,10 +34,11 @@
         { name: 'ps1', states: ['sealed'] },
         { name: 'ps2', states: ['sealed'] },
         { name: 'ps3', states: ['sealed'] },
+        { name: 'ps4', states: ['sealed'] },
         { name: 'xbox', states: ['sealed'] },
         { name: 'xbox_360', states: ['sealed'] },
     ]
-    const targetFolder = 'WATA_2024_AUGUST'
+    const targetFolder = 'WATA_2025_02'
 
     // create the output dir if it doesn't exist
     fs.mkdirSync(targetFolder, { recursive: true })
